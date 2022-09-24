@@ -4,15 +4,15 @@ PROV2;Redut Svyatogo-Dionisya;;;;;;;;;;;;;x
 PROV3;Novorossiysk;;;;;;;;;;;;;x
 PROV4;Pavlovskaya Gavan;;;;;;;;;;;;;x
 PROV5;Unalashka;;;;;;;;;;;;;x
-PROV6;Yukon River;;;;;;;;;;;;;x
-PROV7;Pelly River;;;;;;;;;;;;;x
+PROV6;Fiume Yukon;;;;;;;;;;;;;x
+PROV7;Fiume Pelly;;;;;;;;;;;;;x
 PROV8;Kuala Kelantan;;;;;;;;;;;;;x
 PROV9;Mistassini Post;;;;;;;;;;;;;x
 PROV10;San Khew Jong;;;;;;;;;;;;;x
 PROV11;Fort Resolution;;;;;;;;;;;;;x
 PROV12;Liwa;;;;;;;;;;;;;x
 PROV13;Fort Langley;;;;;;;;;;;;;x
-PROV14;Vancouver Island;;;;;;;;;;;;;x
+PROV14;Isola di Vancouver;;;;;;;;;;;;;x
 PROV15;Port Simpson;;;;;;;;;;;;;x
 PROV16;Fort McLeod;;;;;;;;;;;;;x
 PROV17;Teslin Post;;;;;;;;;;;;;x
@@ -25,13 +25,13 @@ PROV23;Fort Assiniboine;;;;;;;;;;;;;
 PROV24;Milk River;;;;;;;;;;;;;x
 PROV25;Fort Edmonton;;;;;;;;;;;;;x
 PROV26;Chesterfield Inlet;;;;;;;;;;;;;x
-PROV27;Repulse Bay;;;;;;;;;;;;;x
-PROV28;Cape Dorset;;;;;;;;;;;;;x
-PROV29;Kyzylkum Desert;;;;;;;;;;;;;x
+PROV27;Baia di Repulse;;;;;;;;;;;;;x
+PROV28;Capo Dorset;;;;;;;;;;;;;x
+PROV29;Deserto di Kyzylkum;;;;;;;;;;;;;x
 PROV30;Cypress Hills;;;;;;;;;;;;;x
 PROV31;Fort Fond du Lac;;;;;;;;;;;;;x
 PROV32;Fort Carlton;;;;;;;;;;;;;x
-PROV33;Spence Bay;;;;;;;;;;;;;x
+PROV33;Baia di Spence;;;;;;;;;;;;;x
 PROV34;Fort Pitt;;;;;;;;;;;;;x
 PROV35;Fort Reliance;;;;;;;;;;;;;x
 PROV36;Fort Good Hope;;;;;;;;;;;;;x
@@ -60,44 +60,44 @@ PROV58;Montreal;;;;;;;;;;;;;x
 PROV59;Fort Churchill;;;;;;;;;;;;;x
 PROV60;Richmond;;;;;;;;;;;;;x
 PROV61;Fort Ingall;;;;;;;;;;;;;x
-PROV62;Seven Islands;;;;;;;;;;;;;x
+PROV62;Sette Isole;;;;;;;;;;;;;x
 PROV63;Fort Témiscamingue;;;;;;;;;;;;;x
-PROV64;Three Rivers;;;;;;;;;;;;;x
+PROV64;Tre Fiumi;;;;;;;;;;;;;x
 PROV65;Quebec City;;;;;;;;;;;;;x
 PROV66;Sherbrooke;;;;;;;;;;;;;x
 PROV67;Rimouski;;;;;;;;;;;;;x
 PROV68;Saint John;;;;;;;;;;;;;x
 PROV69;Fredericton;;;;;;;;;;;;;x
-PROV70;Prince Edward Island;;;;;;;;;;;;;x
+PROV70;Isola Principe Edoardo;;;;;;;;;;;;;x
 PROV71;Halifax;;;;;;;;;;;;;x
 PROV72;Truro;;;;;;;;;;;;;x
-PROV73;Cape Breton Island;;;;;;;;;;;;;x
+PROV73;Isola di Capo Bretone;;;;;;;;;;;;;x
 PROV74;St. John’s;;;;;;;;;;;;;x
-PROV75;Burnt Lakes;;;;;;;;;;;;;x
+PROV75;Burnt Lagos;;;;;;;;;;;;;x
 PROV76;Rigolet Post;;;;;;;;;;;;;x
 PROV77;Saint-Pierre-et-Miquelon;;;;;;;;;;;;;x
 PROV78;Fort Nisqually;;;;;;;;;;;;;x
 PROV79;Fort Vancouver;;;;;;;;;;;;;x
 PROV80;Fort Nez Percés;;;;;;;;;;;;;x
 PROV81;Oregon City;;;;;;;;;;;;;x
-PROV82;Goose Lake;;;;;;;;;;;;;x
+PROV82;Lago Goose;;;;;;;;;;;;;x
 PROV83;Fort Umpqua;;;;;;;;;;;;;x
 PROV84;Wiyot;;;;;;;;;;;;;x
 PROV85;Cabo Mednocino;;;;;;;;;;;;;x
 PROV86;Sierra Nevada;;;;;;;;;;;;;x
 PROV87;Monterey;;;;;;;;;;;;;x
-PROV88;Desierto de Mojave;;;;;;;;;;;;;x
+PROV88;Deserto del Mojave;;;;;;;;;;;;;x
 PROV89;Presidio de los Ángeles;;;;;;;;;;;;;x
 PROV90;Presidio Real de San Diego;;;;;;;;;;;;;x
 PROV91;Kullyspell House;;;;;;;;;;;;;x
 PROV92;Fort Hall;;;;;;;;;;;;;x
-PROV93;Western Bannock;;;;;;;;;;;;;x
+PROV93;Bannock Occidentale;;;;;;;;;;;;;x
 PROV94;Washo;;;;;;;;;;;;;x
 PROV95;Owyhee;;;;;;;;;;;;;x
 PROV96;Las Vegas;;;;;;;;;;;;;x
 PROV97;Timpanogos;;;;;;;;;;;;;x
 PROV98;Barbones;;;;;;;;;;;;;x
-PROV99;Yutas Occidentales;;;;;;;;;;;;;x
+PROV99;Yutas Occidentale;;;;;;;;;;;;;x
 PROV100;Gileños;;;;;;;;;;;;;x
 PROV101;Gran Cañón;;;;;;;;;;;;;x
 PROV102;Presidio de Tucsón;;;;;;;;;;;;;x
@@ -111,7 +111,7 @@ PROV109;Zuñi;;;;;;;;;;;;;x
 PROV110;Shoshónes Río Viento;;;;;;;;;;;;;x
 PROV111;Fort Bonneville;;;;;;;;;;;;;x
 PROV112;Fort Laramie;;;;;;;;;;;;;x
-PROV113;Eastern Bannock;;;;;;;;;;;;;x
+PROV113;Bannock Orientale;;;;;;;;;;;;;x
 PROV114;Flathead House;;;;;;;;;;;;;x
 PROV115;Blackfoot;;;;;;;;;;;;;x
 PROV116;Crow;;;;;;;;;;;;;x
@@ -2703,551 +2703,551 @@ PROV2701;Kansk;;;;;;;;;;;;;x
 PROV2702;Alty-Kuduk;;;;;;;;;;;;;x
 PROV2703;Vänern;;;;;;;;;;;;;x
 PROV2704;Vättern;;;;;;;;;;;;;x
-PROV2705;Gulf of Bothnia;;;;;;;;;;;;;x
+PROV2705;Golfo di Botnia;;;;;;;;;;;;;x
 PROV2706;Ålands Hav;;;;;;;;;;;;;x
-PROV2707;Gulf of Finland;;;;;;;;;;;;;x
-PROV2708;Western Baltic Sea;;;;;;;;;;;;;x
-PROV2709;Gulf of Riga;;;;;;;;;;;;;x
-PROV2710;Southern Baltic Sea;;;;;;;;;;;;;x
+PROV2707;Golfo di Finlandia;;;;;;;;;;;;;x
+PROV2708;Mar Baltico Occidentale;;;;;;;;;;;;;x
+PROV2709;Golfo di Riga;;;;;;;;;;;;;x
+PROV2710;Mar Baltico Meridionale;;;;;;;;;;;;;x
 PROV2711;Kattegat;;;;;;;;;;;;;x
 PROV2712;Skagerrak;;;;;;;;;;;;;x
 PROV2713;Peipsi Järv;;;;;;;;;;;;;x
 PROV2714;Ladoga;;;;;;;;;;;;;x
 PROV2715;Onega;;;;;;;;;;;;;x
-PROV2716;White Sea;;;;;;;;;;;;;x
-PROV2717;Lofoten Sea;;;;;;;;;;;;;x
-PROV2718;Northern Norwegian Sea;;;;;;;;;;;;;x
-PROV2719;Southern Norwegian Sea;;;;;;;;;;;;;x
-PROV2720;German Bight;;;;;;;;;;;;;x
-PROV2721;Heligoland Bight;;;;;;;;;;;;;x
-PROV2722;Coast of Holland;;;;;;;;;;;;;x
+PROV2716;Mar Bianco;;;;;;;;;;;;;x
+PROV2717;Mare di Lofoten;;;;;;;;;;;;;x
+PROV2718;Mar Norvegese Settentrionale;;;;;;;;;;;;;x
+PROV2719;Mar Norvegese Meridionale;;;;;;;;;;;;;x
+PROV2720;Baia Tedesca;;;;;;;;;;;;;x
+PROV2721;Baia di Heligoland;;;;;;;;;;;;;x
+PROV2722;Costa dell'Olanda;;;;;;;;;;;;;x
 PROV2723;Dogger Bank;;;;;;;;;;;;;x
-PROV2724;Straits of Dover;;;;;;;;;;;;;x
-PROV2725;The Channel;;;;;;;;;;;;;x
+PROV2724;Stretto di Dover;;;;;;;;;;;;;x
+PROV2725;La Manica;;;;;;;;;;;;;x
 PROV2726;Lands End;;;;;;;;;;;;;x
-PROV2727;Coast of Britanny;;;;;;;;;;;;;x
-PROV2728;Quiberon Bay;;;;;;;;;;;;;x
-PROV2729;Cote D’Argent;;;;;;;;;;;;;x
-PROV2730;Bay of Biscay;;;;;;;;;;;;;x
-PROV2731;Cantabrian Sea;;;;;;;;;;;;;x
+PROV2727;Costa della Bretagna;;;;;;;;;;;;;x
+PROV2728;Baia di Quiberon;;;;;;;;;;;;;x
+PROV2729;Costa Argento;;;;;;;;;;;;;x
+PROV2730;Baia di Biscay;;;;;;;;;;;;;x
+PROV2731;Mar Cantabrico;;;;;;;;;;;;;x
 PROV2732;Tyne;;;;;;;;;;;;;x
 PROV2733;Firth of Forth;;;;;;;;;;;;;x
-PROV2734;The North Sea;;;;;;;;;;;;;x
-PROV2735;Moray Firth;;;;;;;;;;;;;x
-PROV2736;North Channel;;;;;;;;;;;;;x
-PROV2737;Irish Sea;;;;;;;;;;;;;x
-PROV2738;St. George’s Channel;;;;;;;;;;;;;x
-PROV2739;Donegal Bay;;;;;;;;;;;;;x
-PROV2740;Dingle Bay;;;;;;;;;;;;;x
-PROV2741;Celtic Sea;;;;;;;;;;;;;x
+PROV2734;Mare del Nord;;;;;;;;;;;;;x
+PROV2735;Baia di Moray;;;;;;;;;;;;;x
+PROV2736;Canale del Nord;;;;;;;;;;;;;x
+PROV2737;Mare Irlandese;;;;;;;;;;;;;x
+PROV2738;Canale di San Giorgio;;;;;;;;;;;;;x
+PROV2739;Baia di Donegal;;;;;;;;;;;;;x
+PROV2740;Baia di Dingle;;;;;;;;;;;;;x
+PROV2741;Mar Celtico;;;;;;;;;;;;;x
 PROV2742;Western Approaches;;;;;;;;;;;;;x
-PROV2743;Finisterre Bay;;;;;;;;;;;;;x
-PROV2744;Lusitanian Sea;;;;;;;;;;;;;x
-PROV2745;Gulf of Cadiz;;;;;;;;;;;;;x
-PROV2746;Straits of Gibraltar;;;;;;;;;;;;;x
-PROV2747;Gulf of Almeira;;;;;;;;;;;;;x
-PROV2748;Gulf of Valencia;;;;;;;;;;;;;x
-PROV2749;Gulf of Lion;;;;;;;;;;;;;x
-PROV2750;Cote D’Azur;;;;;;;;;;;;;x
-PROV2751;Ligurian Sea;;;;;;;;;;;;;x
-PROV2752;Gulf of Mallocra;;;;;;;;;;;;;x
-PROV2753;Western Mediterranean;;;;;;;;;;;;;x
-PROV2754;Barbary Coast;;;;;;;;;;;;;x
-PROV2755;Cape Bon;;;;;;;;;;;;;x
-PROV2756;Tyrrenean Sea;;;;;;;;;;;;;x
-PROV2757;Bay of Naples;;;;;;;;;;;;;x
-PROV2758;Gulf of Gabes;;;;;;;;;;;;;x
-PROV2759;Malta Channel;;;;;;;;;;;;;x
-PROV2760;Straits of Messina;;;;;;;;;;;;;x
-PROV2761;Gulf of Venice;;;;;;;;;;;;;x
-PROV2762;Adriatic Sea;;;;;;;;;;;;;x
-PROV2763;Straits of Otranto;;;;;;;;;;;;;x
-PROV2764;Gulf of Taranto;;;;;;;;;;;;;x
-PROV2765;Ionian Sea;;;;;;;;;;;;;x
-PROV2766;Gulf of Sirte;;;;;;;;;;;;;x
-PROV2767;Gulf of Tobruk;;;;;;;;;;;;;x
-PROV2768;Bay of Alexandria;;;;;;;;;;;;;x
-PROV2769;Palestinian Coast;;;;;;;;;;;;;x
-PROV2770;Gulf of Cyprus;;;;;;;;;;;;;x
-PROV2771;Sea of Crete;;;;;;;;;;;;;x
-PROV2772;Aegean Sea;;;;;;;;;;;;;x
-PROV2773;Sea of Marmara;;;;;;;;;;;;;x
-PROV2774;Gulf of Varna;;;;;;;;;;;;;x
-PROV2775;Gulf of Odessa;;;;;;;;;;;;;x
-PROV2776;Sea of Azov;;;;;;;;;;;;;x
-PROV2777;Eastern Black Sea;;;;;;;;;;;;;x
-PROV2778;Lake Balaton;;;;;;;;;;;;;x
-PROV2779;Caspian Sea;;;;;;;;;;;;;x
-PROV2780;Aral Sea;;;;;;;;;;;;;x
-PROV2781;Gulf of Suez;;;;;;;;;;;;;x
-PROV2782;Red Sea;;;;;;;;;;;;;x
-PROV2783;Straits of Obokk;;;;;;;;;;;;;x
+PROV2743;Baia di Finisterre;;;;;;;;;;;;;x
+PROV2744;Mar Lusitano;;;;;;;;;;;;;x
+PROV2745;Golfo di Cadice;;;;;;;;;;;;;x
+PROV2746;Stretto di Gibilterra;;;;;;;;;;;;;x
+PROV2747;Golfo di Almeira;;;;;;;;;;;;;x
+PROV2748;Golfo di Valencia;;;;;;;;;;;;;x
+PROV2749;Golfo di Lion;;;;;;;;;;;;;x
+PROV2750;Costa Azzurra;;;;;;;;;;;;;x
+PROV2751;Mar Ligure;;;;;;;;;;;;;x
+PROV2752;Golfo di Maiorca;;;;;;;;;;;;;x
+PROV2753;Mediterraneo Occidentale;;;;;;;;;;;;;x
+PROV2754;Costa dei Barbari;;;;;;;;;;;;;x
+PROV2755;Capo Bon;;;;;;;;;;;;;x
+PROV2756;Mar Tirreno;;;;;;;;;;;;;x
+PROV2757;Baia di Napoli;;;;;;;;;;;;;x
+PROV2758;Golfo di Gabes;;;;;;;;;;;;;x
+PROV2759;Canale di Malta;;;;;;;;;;;;;x
+PROV2760;Stretto di Messina;;;;;;;;;;;;;x
+PROV2761;Golfo di Venezia;;;;;;;;;;;;;x
+PROV2762;Mare Adriatico;;;;;;;;;;;;;x
+PROV2763;Stretto di Otranto;;;;;;;;;;;;;x
+PROV2764;Golfo di Taranto;;;;;;;;;;;;;x
+PROV2765;Mar Ionio;;;;;;;;;;;;;x
+PROV2766;Golfo di Sirte;;;;;;;;;;;;;x
+PROV2767;Golfo di Tobruk;;;;;;;;;;;;;x
+PROV2768;Baia di Alessandria;;;;;;;;;;;;;x
+PROV2769;Costa Palestinese;;;;;;;;;;;;;x
+PROV2770;Golfo di Cipro;;;;;;;;;;;;;x
+PROV2771;Mare di Creta;;;;;;;;;;;;;x
+PROV2772;Mar Egeo;;;;;;;;;;;;;x
+PROV2773;Mare di Marmara;;;;;;;;;;;;;x
+PROV2774;Golfo di Varna;;;;;;;;;;;;;x
+PROV2775;Golfo di Odessa;;;;;;;;;;;;;x
+PROV2776;Mar d'Azov;;;;;;;;;;;;;x
+PROV2777;Mar Nero Orientale;;;;;;;;;;;;;x
+PROV2778;Lago Balaton;;;;;;;;;;;;;x
+PROV2779;Mar Caspio;;;;;;;;;;;;;x
+PROV2780;Mare di Aral;;;;;;;;;;;;;x
+PROV2781;Golfo di Suez;;;;;;;;;;;;;x
+PROV2782;Mar Rosso;;;;;;;;;;;;;x
+PROV2783;Stretto di Obokk;;;;;;;;;;;;;x
 PROV2784;Bal el Mandeb;;;;;;;;;;;;;x
-PROV2785;Coast of Mascate;;;;;;;;;;;;;x
-PROV2786;Gulf of Oman;;;;;;;;;;;;;x
-PROV2787;Hormuz Strait;;;;;;;;;;;;;x
-PROV2788;Persian Gulf;;;;;;;;;;;;;x
-PROV2789;Gulf of Indus;;;;;;;;;;;;;x
-PROV2790;Gulf of Gujarat;;;;;;;;;;;;;x
-PROV2791;Laquedive Islands;;;;;;;;;;;;;x
-PROV2792;Coast of Malabar;;;;;;;;;;;;;x
-PROV2793;Comorin Cape;;;;;;;;;;;;;x
-PROV2794;Coast of Caramandel;;;;;;;;;;;;;x
-PROV2795;Coast of Orissa;;;;;;;;;;;;;x
-PROV2796;Ganges Delta;;;;;;;;;;;;;x
-PROV2797;Akyab Bay;;;;;;;;;;;;;x
-PROV2798;Irrawady Delta;;;;;;;;;;;;;x
-PROV2799;Andaman Sea;;;;;;;;;;;;;x
-PROV2800;Mergui Archipelago;;;;;;;;;;;;;x
-PROV2801;Straits of Malacca;;;;;;;;;;;;;x
-PROV2802;Coast of Atjeh;;;;;;;;;;;;;x
-PROV2803;Billiton Strait;;;;;;;;;;;;;x
-PROV2804;Coast of Sumatra;;;;;;;;;;;;;x
-PROV2805;Sunda Strait;;;;;;;;;;;;;x
-PROV2806;Coast of Java;;;;;;;;;;;;;x
-PROV2807;Coast of Surabaya;;;;;;;;;;;;;x
-PROV2808;Straits of Lombok;;;;;;;;;;;;;x
-PROV2809;Timor Sea;;;;;;;;;;;;;x
-PROV2810;The Moluccas;;;;;;;;;;;;;x
-PROV2811;Java Sea;;;;;;;;;;;;;x
-PROV2812;Straits of Makassar;;;;;;;;;;;;;x
-PROV2813;Karimata Strait;;;;;;;;;;;;;x
-PROV2814;Straits of Johore;;;;;;;;;;;;;x
-PROV2815;Malayan Sea;;;;;;;;;;;;;x
-PROV2816;Coast of Sarawk;;;;;;;;;;;;;x
-PROV2817;Mekong Delta;;;;;;;;;;;;;x
-PROV2818;Gulf of Siam;;;;;;;;;;;;;x
+PROV2785;Costa di Mascate;;;;;;;;;;;;;x
+PROV2786;Golfo d'Oman;;;;;;;;;;;;;x
+PROV2787;Stretto di Hormuz;;;;;;;;;;;;;x
+PROV2788;Golfo Persico;;;;;;;;;;;;;x
+PROV2789;Golfo dell'Indo;;;;;;;;;;;;;x
+PROV2790;Golfo di Gujarat;;;;;;;;;;;;;x
+PROV2791;Isola Laccadive;;;;;;;;;;;;;x
+PROV2792;Costa di Malabar;;;;;;;;;;;;;x
+PROV2793;Capo Comorin;;;;;;;;;;;;;x
+PROV2794;Costa di Caramandel;;;;;;;;;;;;;x
+PROV2795;Costa d'Orissa;;;;;;;;;;;;;x
+PROV2796;Delta del Gange;;;;;;;;;;;;;x
+PROV2797;Baia Akyab;;;;;;;;;;;;;x
+PROV2798;Delta dell'Irrawady;;;;;;;;;;;;;x
+PROV2799;Mare Andamano;;;;;;;;;;;;;x
+PROV2800;Arcipelago di Mergui;;;;;;;;;;;;;x
+PROV2801;Stretto di Malacca;;;;;;;;;;;;;x
+PROV2802;Costa d'Atjeh;;;;;;;;;;;;;x
+PROV2803;Stretto Billiton;;;;;;;;;;;;;x
+PROV2804;Costa di Sumatra;;;;;;;;;;;;;x
+PROV2805;Stretto di Sunda;;;;;;;;;;;;;x
+PROV2806;Costa di Java;;;;;;;;;;;;;x
+PROV2807;Costa di Surabaya;;;;;;;;;;;;;x
+PROV2808;Stretto di Lombok;;;;;;;;;;;;;x
+PROV2809;Mare di Timor;;;;;;;;;;;;;x
+PROV2810;Molucche;;;;;;;;;;;;;x
+PROV2811;Mare di Giava;;;;;;;;;;;;;x
+PROV2812;Stretto di Makassar;;;;;;;;;;;;;x
+PROV2813;Stretto di Karimata;;;;;;;;;;;;;x
+PROV2814;Stretto di Johore;;;;;;;;;;;;;x
+PROV2815;Mar Malese;;;;;;;;;;;;;x
+PROV2816;Costa di Sarawak;;;;;;;;;;;;;x
+PROV2817;Delta del Mekong;;;;;;;;;;;;;x
+PROV2818;Golfo di Siam;;;;;;;;;;;;;x
 PROV2819;Cam Rah Bay;;;;;;;;;;;;;x
-PROV2820;South China Sea;;;;;;;;;;;;;x
-PROV2821;Coast of Brunei;;;;;;;;;;;;;x
-PROV2822;Coast of Annam;;;;;;;;;;;;;x
-PROV2823;Gulf of Tonkin;;;;;;;;;;;;;x
-PROV2824;Guanghou Bay;;;;;;;;;;;;;x
-PROV2825;Taiwan Strait;;;;;;;;;;;;;x
-PROV2826;Yang Tse Delta;;;;;;;;;;;;;x
-PROV2827;Yellow Sea;;;;;;;;;;;;;x
-PROV2828;Korea Bay;;;;;;;;;;;;;x
-PROV2829;South Korean Sea;;;;;;;;;;;;;x
-PROV2830;East Sea;;;;;;;;;;;;;x
-PROV2831;Soya Strait;;;;;;;;;;;;;x
-PROV2832;Tatar Straits;;;;;;;;;;;;;x
-PROV2833;Amur Delta;;;;;;;;;;;;;x
-PROV2834;Baj of Ayan;;;;;;;;;;;;;x
-PROV2835;Bay of Komenskoie;;;;;;;;;;;;;x
-PROV2836;Coast of Kamchatka;;;;;;;;;;;;;x
-PROV2837;Sea of Okhotsk;;;;;;;;;;;;;x
-PROV2838;Coast of Sakhalin;;;;;;;;;;;;;x
-PROV2839;Gulf of Patience;;;;;;;;;;;;;x
-PROV2840;Tsugaru Strait;;;;;;;;;;;;;x
-PROV2841;Sea of Japan;;;;;;;;;;;;;x
-PROV2842;Amakusa Sea;;;;;;;;;;;;;x
-PROV2843;Seto Inland Sea;;;;;;;;;;;;;x
-PROV2844;Tokai Sea;;;;;;;;;;;;;x
-PROV2845;Ryukyu Islands;;;;;;;;;;;;;x
-PROV2846;Luzon Strait;;;;;;;;;;;;;x
-PROV2847;Paracel Islands;;;;;;;;;;;;;x
-PROV2848;Manila Bay;;;;;;;;;;;;;x
-PROV2849;Coast of Luzon;;;;;;;;;;;;;x
-PROV2850;Gulf of Leyte;;;;;;;;;;;;;x
-PROV2851;Sulu Sea;;;;;;;;;;;;;x
-PROV2852;Sea of Celebes;;;;;;;;;;;;;x
-PROV2853;Sea of Ternete;;;;;;;;;;;;;x
-PROV2854;Sea of Banda;;;;;;;;;;;;;x
-PROV2855;Philipine Sea;;;;;;;;;;;;;x
-PROV2856;Palau Islands;;;;;;;;;;;;;x
-PROV2857;Biak Bay;;;;;;;;;;;;;x
-PROV2858;Vilian Strait;;;;;;;;;;;;;x
-PROV2859;Trobrian Islands;;;;;;;;;;;;;x
-PROV2860;Torres Strait;;;;;;;;;;;;;x
-PROV2861;Arafuam Sea;;;;;;;;;;;;;x
-PROV2862;Kolepom Bay;;;;;;;;;;;;;x
-PROV2863;Gulf of Carpentaria;;;;;;;;;;;;;x
-PROV2864;Great Barrier Reef;;;;;;;;;;;;;x
-PROV2865;Capricorn Bay;;;;;;;;;;;;;x
-PROV2866;Cape Howe;;;;;;;;;;;;;x
-PROV2867;Bass Strait;;;;;;;;;;;;;x
-PROV2868;Kangaroo Island;;;;;;;;;;;;;x
-PROV2869;Great Australian Bight;;;;;;;;;;;;;x
-PROV2870;Cape Leuwiin;;;;;;;;;;;;;x
-PROV2871;Shark Bay;;;;;;;;;;;;;x
-PROV2872;Northwest Cape;;;;;;;;;;;;;x
+PROV2820;Mar Cinese Meridionale;;;;;;;;;;;;;x
+PROV2821;Costa di Brunei;;;;;;;;;;;;;x
+PROV2822;Costa di Annam;;;;;;;;;;;;;x
+PROV2823;Golfo di Tonkin;;;;;;;;;;;;;x
+PROV2824;Baia Guanghou;;;;;;;;;;;;;x
+PROV2825;Stretto di Taiwan;;;;;;;;;;;;;x
+PROV2826;Delta dello Yang Tse;;;;;;;;;;;;;x
+PROV2827;Mar Giallo;;;;;;;;;;;;;x
+PROV2828;Baia di Corea;;;;;;;;;;;;;x
+PROV2829;Mar Coreano Meridionale;;;;;;;;;;;;;x
+PROV2830;Mare dell'Est;;;;;;;;;;;;;x
+PROV2831;Stretto di Soja;;;;;;;;;;;;;x
+PROV2832;Stretto di Tatar;;;;;;;;;;;;;x
+PROV2833;Delta dell'Amur;;;;;;;;;;;;;x
+PROV2834;Baia di Ajan;;;;;;;;;;;;;x
+PROV2835;Baia di Komenskoie;;;;;;;;;;;;;x
+PROV2836;Costa della Camciatca;;;;;;;;;;;;;x
+PROV2837;Mare di Ochotsk;;;;;;;;;;;;;x
+PROV2838;Costa di Sachalin;;;;;;;;;;;;;x
+PROV2839;Golfo di Patience;;;;;;;;;;;;;x
+PROV2840;Stretto di Tsugaru;;;;;;;;;;;;;x
+PROV2841;Mare di Giappone;;;;;;;;;;;;;x
+PROV2842;Mare di Amakusa;;;;;;;;;;;;;x
+PROV2843;Mare Interno delle Seto;;;;;;;;;;;;;x
+PROV2844;Mare di Tokai;;;;;;;;;;;;;x
+PROV2845;Isole Ryukyu;;;;;;;;;;;;;x
+PROV2846;Stretto di Luzon;;;;;;;;;;;;;x
+PROV2847;Isole Paracelso;;;;;;;;;;;;;x
+PROV2848;Baia di Manila;;;;;;;;;;;;;x
+PROV2849;Costa di Luzon;;;;;;;;;;;;;x
+PROV2850;Golfo di Leyte;;;;;;;;;;;;;x
+PROV2851;Mare di Sulu;;;;;;;;;;;;;x
+PROV2852;Mare di Celebes;;;;;;;;;;;;;x
+PROV2853;Mare di Ternete;;;;;;;;;;;;;x
+PROV2854;Mare di Banda;;;;;;;;;;;;;x
+PROV2855;Mar Filippino;;;;;;;;;;;;;x
+PROV2856;Isole Palau;;;;;;;;;;;;;x
+PROV2857;Baia di Biak;;;;;;;;;;;;;x
+PROV2858;Stretto di Vilian;;;;;;;;;;;;;x
+PROV2859;Isole Trobriand;;;;;;;;;;;;;x
+PROV2860;Stretto di Torres;;;;;;;;;;;;;x
+PROV2861;Mare di Arafaum;;;;;;;;;;;;;x
+PROV2862;Baia di Kolepom;;;;;;;;;;;;;x
+PROV2863;Golfo di Carpentaria;;;;;;;;;;;;;x
+PROV2864;Grande Barriera Corallina;;;;;;;;;;;;;x
+PROV2865;Baia del Capricorno;;;;;;;;;;;;;x
+PROV2866;Capo Howe;;;;;;;;;;;;;x
+PROV2867;Stretto di Bass;;;;;;;;;;;;;x
+PROV2868;Isole dei Canguri;;;;;;;;;;;;;x
+PROV2869;Grande Baia Australiana;;;;;;;;;;;;;x
+PROV2870;Capo Leuwiin;;;;;;;;;;;;;x
+PROV2871;Baia degli Squali;;;;;;;;;;;;;x
+PROV2872;Capo del Nordovest;;;;;;;;;;;;;x
 PROV2873;King Sound;;;;;;;;;;;;;x
-PROV2874;Tasman Sea;;;;;;;;;;;;;x
-PROV2875;Southern Tasman Sea;;;;;;;;;;;;;x
-PROV2876;Cook Strait;;;;;;;;;;;;;x
-PROV2877;Northern Tasman Sea;;;;;;;;;;;;;x
-PROV2878;Cape Farwell;;;;;;;;;;;;;x
-PROV2879;Coast of New Zealand;;;;;;;;;;;;;x
-PROV2880;Cantebury Bight;;;;;;;;;;;;;x
-PROV2881;Sea of Antarctica;;;;;;;;;;;;;x
-PROV2882;New Caledonian Sea;;;;;;;;;;;;;x
-PROV2883;Coral Sea;;;;;;;;;;;;;x
-PROV2884;Gilbert Sea;;;;;;;;;;;;;x
-PROV2885;Solomon Sea;;;;;;;;;;;;;x
-PROV2886;Nauru Island;;;;;;;;;;;;;x
-PROV2887;Melanesia Sea;;;;;;;;;;;;;x
-PROV2888;Micronesia Sea;;;;;;;;;;;;;x
-PROV2889;Philippine Trench;;;;;;;;;;;;;x
-PROV2890;Philippine Basin;;;;;;;;;;;;;x
-PROV2891;Tinian Sea;;;;;;;;;;;;;x
-PROV2892;Iwo Jima Sea;;;;;;;;;;;;;x
-PROV2893;Taihei Ocean;;;;;;;;;;;;;x
-PROV2894;The Kuriles;;;;;;;;;;;;;x
-PROV2895;Bay of Uka;;;;;;;;;;;;;x
-PROV2896;Bay of Oljut;;;;;;;;;;;;;x
-PROV2897;Bay of Anadyr;;;;;;;;;;;;;x
-PROV2898;Yekaterina Plains;;;;;;;;;;;;;x
-PROV2899;Horn of Africa;;;;;;;;;;;;;x
-PROV2900;Coast of Pepper;;;;;;;;;;;;;x
-PROV2901;Zanzibar Strait;;;;;;;;;;;;;x
-PROV2902;Mozambique Channel;;;;;;;;;;;;;x
-PROV2903;Diego Suarez Bay;;;;;;;;;;;;;x
-PROV2904;Western Arabian Sea;;;;;;;;;;;;;x
-PROV2905;Eastern Arabian Sea;;;;;;;;;;;;;x
-PROV2906;The Seychelles;;;;;;;;;;;;;x
-PROV2907;Coast of Tamatave;;;;;;;;;;;;;x
-PROV2908;The Mascareignes;;;;;;;;;;;;;x
-PROV2909;Gulf of Zambeze;;;;;;;;;;;;;x
-PROV2910;Coast of Natal;;;;;;;;;;;;;x
-PROV2911;Coast of Transkei;;;;;;;;;;;;;x
-PROV2912;Coast of Ciskei;;;;;;;;;;;;;x
-PROV2913;Cape of Good Hope;;;;;;;;;;;;;x
-PROV2914;Coast of Namibia;;;;;;;;;;;;;x
-PROV2915;Walvis Bay;;;;;;;;;;;;;x
-PROV2916;Coast of Angola;;;;;;;;;;;;;x
-PROV2917;Coast of Kongo;;;;;;;;;;;;;x
-PROV2918;Bight of Benin;;;;;;;;;;;;;x
-PROV2919;Gold Coast;;;;;;;;;;;;;x
-PROV2920;Ivory Coast;;;;;;;;;;;;;x
-PROV2921;Coast of Guinea;;;;;;;;;;;;;x
-PROV2922;Coast of Senegambia;;;;;;;;;;;;;x
-PROV2923;Maueretanian Coast;;;;;;;;;;;;;x
-PROV2924;Canarian Sea;;;;;;;;;;;;;x
-PROV2925;Coast of Morocco;;;;;;;;;;;;;x
-PROV2926;Norwegian Sea;;;;;;;;;;;;;x
-PROV2927;Jan Mayen Sea;;;;;;;;;;;;;x
-PROV2928;Icelandic Sea;;;;;;;;;;;;;x
-PROV2929;North Atlantic;;;;;;;;;;;;;x
-PROV2930;Coast of Iceland;;;;;;;;;;;;;x
-PROV2931;Northeastern Atlantic;;;;;;;;;;;;;x
+PROV2874;Mare di Tasmania;;;;;;;;;;;;;x
+PROV2875;Mare di Tasmania Meridionale;;;;;;;;;;;;;x
+PROV2876;Stretto di Cook;;;;;;;;;;;;;x
+PROV2877;Mare di Tasmania Settentrionale;;;;;;;;;;;;;x
+PROV2878;Capo Farwell;;;;;;;;;;;;;x
+PROV2879;Costa della Nuova Zelanda;;;;;;;;;;;;;x
+PROV2880;Baia di Canterbury;;;;;;;;;;;;;x
+PROV2881;Oceano Antartico;;;;;;;;;;;;;x
+PROV2882;Mare di Nuova Caledonia;;;;;;;;;;;;;x
+PROV2883;Mare dei Coralli;;;;;;;;;;;;;x
+PROV2884;Mare di Gilbert;;;;;;;;;;;;;x
+PROV2885;Mare di Salomone;;;;;;;;;;;;;x
+PROV2886;Isole Nauru;;;;;;;;;;;;;x
+PROV2887;Mare di Melanesia;;;;;;;;;;;;;x
+PROV2888;Mare di Micronesia;;;;;;;;;;;;;x
+PROV2889;Fossa Oceanica Filippina;;;;;;;;;;;;;x
+PROV2890;Bacino Filippino;;;;;;;;;;;;;x
+PROV2891;Mare di Tinian;;;;;;;;;;;;;x
+PROV2892;Mare di Iwo Jima;;;;;;;;;;;;;x
+PROV2893;Oceano di Taihei;;;;;;;;;;;;;x
+PROV2894;Curili;;;;;;;;;;;;;x
+PROV2895;Baia di Uka;;;;;;;;;;;;;x
+PROV2896;Baia di Oljut;;;;;;;;;;;;;x
+PROV2897;Baia di Anadyr;;;;;;;;;;;;;x
+PROV2898;Piana di Ekaterina;;;;;;;;;;;;;x
+PROV2899;Corno d'Africa;;;;;;;;;;;;;x
+PROV2900;Costa del Pepe;;;;;;;;;;;;;x
+PROV2901;Stretto di Zanzibar;;;;;;;;;;;;;x
+PROV2902;Canale del Mozambico;;;;;;;;;;;;;x
+PROV2903;Baia Diego Suarez;;;;;;;;;;;;;x
+PROV2904;Mare Arabico Occidentale;;;;;;;;;;;;;x
+PROV2905;Mare Arabico Orientale;;;;;;;;;;;;;x
+PROV2906;Seychelles;;;;;;;;;;;;;x
+PROV2907;Costa di Tamatave;;;;;;;;;;;;;x
+PROV2908;Mascarene;;;;;;;;;;;;;x
+PROV2909;Golfo di Zambeze;;;;;;;;;;;;;x
+PROV2910;Costa di Natal;;;;;;;;;;;;;x
+PROV2911;Costa di Transkei;;;;;;;;;;;;;x
+PROV2912;Costa di Ciskei;;;;;;;;;;;;;x
+PROV2913;Capo di Buona Speranza;;;;;;;;;;;;;x
+PROV2914;Costa di Namibia;;;;;;;;;;;;;x
+PROV2915;Baia Walvis;;;;;;;;;;;;;x
+PROV2916;Costa dell'Angola;;;;;;;;;;;;;x
+PROV2917;Costa del Congo;;;;;;;;;;;;;x
+PROV2918;Baia del Benin;;;;;;;;;;;;;x
+PROV2919;Costa d'Oro;;;;;;;;;;;;;x
+PROV2920;Costa d'Avorio;;;;;;;;;;;;;x
+PROV2921;Costa di Guinea;;;;;;;;;;;;;x
+PROV2922;Costa di Senegambia;;;;;;;;;;;;;x
+PROV2923;Costa Mauritana;;;;;;;;;;;;;x
+PROV2924;Mare delle Canarie;;;;;;;;;;;;;x
+PROV2925;Costa del Marocco;;;;;;;;;;;;;x
+PROV2926;Mar Norvegese;;;;;;;;;;;;;x
+PROV2927;Mare di Jan Mayen;;;;;;;;;;;;;x
+PROV2928;Mare Islandese;;;;;;;;;;;;;x
+PROV2929;Atlantico Settentrionale;;;;;;;;;;;;;x
+PROV2930;Costa dell'Islanda;;;;;;;;;;;;;x
+PROV2931;Atlantico Nordorientale;;;;;;;;;;;;;x
 PROV2932;Rockall;;;;;;;;;;;;;x
-PROV2933;Denmark Strait;;;;;;;;;;;;;x
-PROV2934;Eastern Coast of Greenland;;;;;;;;;;;;;x
-PROV2935;Western Coast of Greenland;;;;;;;;;;;;;x
-PROV2936;Labrador Strait;;;;;;;;;;;;;x
-PROV2937;Baffin Bay;;;;;;;;;;;;;x
-PROV2938;Hudson Straits;;;;;;;;;;;;;x
-PROV2939;James Bay;;;;;;;;;;;;;x
-PROV2940;Western Hudson Bay;;;;;;;;;;;;;x
-PROV2941;Eastern Hudson Bay;;;;;;;;;;;;;x
-PROV2942;Foxe Bassin;;;;;;;;;;;;;x
-PROV2943;Gulf of St. Lawrence;;;;;;;;;;;;;x
-PROV2944;Cabot Strait;;;;;;;;;;;;;x
-PROV2945;Bay of Fundy;;;;;;;;;;;;;x
-PROV2946;Strait of Belle Isle;;;;;;;;;;;;;x
-PROV2947;Fortune Bay;;;;;;;;;;;;;x
-PROV2948;Notre Dame Bay;;;;;;;;;;;;;x
-PROV2949;Labrador Sea;;;;;;;;;;;;;x
-PROV2950;Greenland Sea;;;;;;;;;;;;;x
-PROV2951;Hecala Seamount;;;;;;;;;;;;;x
-PROV2952;Masschusetts Bay;;;;;;;;;;;;;x
-PROV2953;New York Bight;;;;;;;;;;;;;x
-PROV2954;Chesapeake Bay;;;;;;;;;;;;;x
-PROV2955;Coast of Carolina;;;;;;;;;;;;;x
-PROV2956;Coast of Florida;;;;;;;;;;;;;x
-PROV2957;Coast of the Bahamas;;;;;;;;;;;;;x
-PROV2958;Florida Straits;;;;;;;;;;;;;x
-PROV2959;Apalachee Bay;;;;;;;;;;;;;x
-PROV2960;Mobile Bay;;;;;;;;;;;;;x
-PROV2961;Galveston Bay;;;;;;;;;;;;;x
-PROV2962;Tampico Bay;;;;;;;;;;;;;x
-PROV2963;Yucatan Sea;;;;;;;;;;;;;x
-PROV2964;Gulf of Mexico;;;;;;;;;;;;;x
-PROV2965;Yucatan Channel;;;;;;;;;;;;;x
-PROV2966;Belize Bay;;;;;;;;;;;;;x
-PROV2967;Moscitos Coast;;;;;;;;;;;;;x
-PROV2968;Gulf of Darien;;;;;;;;;;;;;x
-PROV2969;Jamaica Channel;;;;;;;;;;;;;x
-PROV2970;Central Carribean;;;;;;;;;;;;;x
-PROV2971;Northwestern Carribean;;;;;;;;;;;;;x
-PROV2972;Venezualan Gulf;;;;;;;;;;;;;x
-PROV2973;Venezuelan Sea;;;;;;;;;;;;;x
-PROV2974;Eastern Carribean;;;;;;;;;;;;;x
-PROV2975;Windward Islands;;;;;;;;;;;;;x
-PROV2976;Lesser Antilles;;;;;;;;;;;;;x
-PROV2977;Turks & Caicos Sea;;;;;;;;;;;;;x
-PROV2978;Coast of Cuba;;;;;;;;;;;;;x
-PROV2979;Coast of Hispaniola;;;;;;;;;;;;;x
-PROV2980;Guyana Coast;;;;;;;;;;;;;x
-PROV2981;Coast of Amapa;;;;;;;;;;;;;x
-PROV2982;Amazonas Gulf;;;;;;;;;;;;;x
-PROV2983;Coast of Brazil;;;;;;;;;;;;;x
-PROV2984;Coast of Recife;;;;;;;;;;;;;x
-PROV2985;Coast of Pernambuc;;;;;;;;;;;;;x
-PROV2986;Todos Santos Bay;;;;;;;;;;;;;x
+PROV2933;Stretto di Danimarca;;;;;;;;;;;;;x
+PROV2934;Costa Orientale della Groenlandia;;;;;;;;;;;;;x
+PROV2935;Costa Occidentale della Groenlandia;;;;;;;;;;;;;x
+PROV2936;Stretto di Labrador;;;;;;;;;;;;;x
+PROV2937;Baia di Baffin;;;;;;;;;;;;;x
+PROV2938;Stretto di Hudson;;;;;;;;;;;;;x
+PROV2939;Baia di James;;;;;;;;;;;;;x
+PROV2940;Baia di Hudson Occidentale;;;;;;;;;;;;;x
+PROV2941;Baia di Hudson Orientale;;;;;;;;;;;;;x
+PROV2942;Bacino Foxe;;;;;;;;;;;;;x
+PROV2943;Golfo di San Lorenzo;;;;;;;;;;;;;x
+PROV2944;Stretto di Cabot;;;;;;;;;;;;;x
+PROV2945;Baia di Fundy;;;;;;;;;;;;;x
+PROV2946;Stretto di Belle Isle;;;;;;;;;;;;;x
+PROV2947;Baia della Fortuna;;;;;;;;;;;;;x
+PROV2948;Baia di Notre Dame;;;;;;;;;;;;;x
+PROV2949;Mare di Labrador;;;;;;;;;;;;;x
+PROV2950;Mare di Groenlandia;;;;;;;;;;;;;x
+PROV2951;Montagne Sottomarine di Hecala;;;;;;;;;;;;;x
+PROV2952;Baia del Massachusetts;;;;;;;;;;;;;x
+PROV2953;Baia di New York;;;;;;;;;;;;;x
+PROV2954;Baia di Chesapeake;;;;;;;;;;;;;x
+PROV2955;Costa della Carolina;;;;;;;;;;;;;x
+PROV2956;Costa della Florida;;;;;;;;;;;;;x
+PROV2957;Costa delle Bahamas;;;;;;;;;;;;;x
+PROV2958;Stretto di Florida;;;;;;;;;;;;;x
+PROV2959;Baia Apalachee;;;;;;;;;;;;;x
+PROV2960;Baia di Mobile;;;;;;;;;;;;;x
+PROV2961;Baia di Galveston;;;;;;;;;;;;;x
+PROV2962;Baia di Tampaco;;;;;;;;;;;;;x
+PROV2963;Mare dello Yucatan;;;;;;;;;;;;;x
+PROV2964;Golfo del Messico;;;;;;;;;;;;;x
+PROV2965;Canale dello Yucatan;;;;;;;;;;;;;x
+PROV2966;Baia del Belize;;;;;;;;;;;;;x
+PROV2967;Costa dei Mosquito;;;;;;;;;;;;;x
+PROV2968;Golfo di Darien;;;;;;;;;;;;;x
+PROV2969;Canale di Giamaica;;;;;;;;;;;;;x
+PROV2970;Caraibi Centrali;;;;;;;;;;;;;x
+PROV2971;Caraibi Nordoccidentale;;;;;;;;;;;;;x
+PROV2972;Golfo Venezuelano;;;;;;;;;;;;;x
+PROV2973;Mar Venezuelano;;;;;;;;;;;;;x
+PROV2974;Caraibi Orientali;;;;;;;;;;;;;x
+PROV2975;Isole Sopravento;;;;;;;;;;;;;x
+PROV2976;Piccole Antille;;;;;;;;;;;;;x
+PROV2977;Mare di Turks e Caicos;;;;;;;;;;;;;x
+PROV2978;Costa di Cuba;;;;;;;;;;;;;x
+PROV2979;Costa di Hispaniola;;;;;;;;;;;;;x
+PROV2980;Costa della Guyana;;;;;;;;;;;;;x
+PROV2981;Costa d'Amapa;;;;;;;;;;;;;x
+PROV2982;Golfo Amazzonico;;;;;;;;;;;;;x
+PROV2983;Costa del Brasile;;;;;;;;;;;;;x
+PROV2984;Costa di Recife;;;;;;;;;;;;;x
+PROV2985;Costa di Pernambuc;;;;;;;;;;;;;x
+PROV2986;Baia di Ognissanti;;;;;;;;;;;;;x
 PROV2987;Rio De Janeiro;;;;;;;;;;;;;x
 PROV2988;Baia Parangua;;;;;;;;;;;;;x
 PROV2989;Rio De La Plata;;;;;;;;;;;;;x
 PROV2990;Bahia Blanca;;;;;;;;;;;;;x
-PROV2991;Coast of Patagonia;;;;;;;;;;;;;x
-PROV2992;Magellan Strait;;;;;;;;;;;;;x
-PROV2993;South Chilean Coast;;;;;;;;;;;;;x
-PROV2994;Coast of Chile;;;;;;;;;;;;;x
-PROV2995;Atacama Coast;;;;;;;;;;;;;x
-PROV2996;Antofagasta Coast;;;;;;;;;;;;;x
-PROV2997;Arequipa Bay;;;;;;;;;;;;;x
-PROV2998;Coast of Peru;;;;;;;;;;;;;x
-PROV2999;Guayaguil Bay;;;;;;;;;;;;;x
-PROV3000;Coast of Ecuador;;;;;;;;;;;;;x
-PROV3001;Gulf of Panama;;;;;;;;;;;;;x
-PROV3002;Bay of Costa Rica;;;;;;;;;;;;;x
-PROV3003;Acapulco Bay;;;;;;;;;;;;;x
-PROV3004;Manzazilla Bay;;;;;;;;;;;;;x
-PROV3005;Mazatlan Bay;;;;;;;;;;;;;x
-PROV3006;Gulf of California;;;;;;;;;;;;;x
-PROV3007;Coast of Baja;;;;;;;;;;;;;x
-PROV3008;Coast of California;;;;;;;;;;;;;x
-PROV3009;Santa Catalina Islands;;;;;;;;;;;;;x
-PROV3010;Coast of Oregon;;;;;;;;;;;;;x
-PROV3011;Coast of Columbia;;;;;;;;;;;;;x
-PROV3012;Hecate Strait;;;;;;;;;;;;;x
-PROV3013;Gulf of Alaska;;;;;;;;;;;;;x
-PROV3014;Coast of Alaska;;;;;;;;;;;;;x
-PROV3015;Kuskowim Bay;;;;;;;;;;;;;x
+PROV2991;Costa di Patagonia;;;;;;;;;;;;;x
+PROV2992;Stretto di Magellano;;;;;;;;;;;;;x
+PROV2993;Costa Meridionale del Cile;;;;;;;;;;;;;x
+PROV2994;Costa del Cile;;;;;;;;;;;;;x
+PROV2995;Costa di Atacama;;;;;;;;;;;;;x
+PROV2996;Costa di Antofagasta;;;;;;;;;;;;;x
+PROV2997;Baia di Arequipa;;;;;;;;;;;;;x
+PROV2998;Costa del Perù;;;;;;;;;;;;;x
+PROV2999;Baia di Guayaguil;;;;;;;;;;;;;x
+PROV3000;Costa dell'Ecuador;;;;;;;;;;;;;x
+PROV3001;Golfo di Panama;;;;;;;;;;;;;x
+PROV3002;Baia della Costa Rica;;;;;;;;;;;;;x
+PROV3003;Baia Acapulco;;;;;;;;;;;;;x
+PROV3004;Baia Manzazilla;;;;;;;;;;;;;x
+PROV3005;Baia Mazatlan;;;;;;;;;;;;;x
+PROV3006;Golfo di California;;;;;;;;;;;;;x
+PROV3007;Costa di Baja;;;;;;;;;;;;;x
+PROV3008;Costa della California;;;;;;;;;;;;;x
+PROV3009;Isole di Santa Catalina;;;;;;;;;;;;;x
+PROV3010;Costa dell'Oregon;;;;;;;;;;;;;x
+PROV3011;Costa della Columbia;;;;;;;;;;;;;x
+PROV3012;Stretto di Hecate;;;;;;;;;;;;;x
+PROV3013;Golfo di Alaska;;;;;;;;;;;;;x
+PROV3014;Costa dell'Alaska;;;;;;;;;;;;;x
+PROV3015;Baia Kuskowin;;;;;;;;;;;;;x
 PROV3016;Hatton Bank;;;;;;;;;;;;;x
-PROV3017;Eastern Gibbs Fracture;;;;;;;;;;;;;x
-PROV3018;Western Gibbs Fracture;;;;;;;;;;;;;x
-PROV3019;Iberian Shelf;;;;;;;;;;;;;x
-PROV3020;Sea of Azores;;;;;;;;;;;;;x
-PROV3021;Corner Seamounts;;;;;;;;;;;;;x
-PROV3022;New England Seamounts;;;;;;;;;;;;;x
+PROV3017;Frattura di Gibbs Orientale;;;;;;;;;;;;;x
+PROV3018;Frattura di Gibbs Occidentale;;;;;;;;;;;;;x
+PROV3019;Piattaforma Iberica;;;;;;;;;;;;;x
+PROV3020;Mare delle Azzorre;;;;;;;;;;;;;x
+PROV3021;Montagne Sottomarine di Corner;;;;;;;;;;;;;x
+PROV3022;Montagne Sottomarine della Nuova Inghilterra;;;;;;;;;;;;;x
 PROV3023;Sable Island Bank;;;;;;;;;;;;;x
-PROV3024;Blake Plataeu;;;;;;;;;;;;;x
-PROV3025;West Bermuda Sea;;;;;;;;;;;;;x
-PROV3026;East Bermuda Sea;;;;;;;;;;;;;x
-PROV3027;Canary Current;;;;;;;;;;;;;x
-PROV3028;Northern Guiana Basin;;;;;;;;;;;;;x
-PROV3029;Guiana Basin;;;;;;;;;;;;;x
-PROV3030;Southern Guiana Basin;;;;;;;;;;;;;x
-PROV3031;Canary Approach;;;;;;;;;;;;;x
-PROV3032;Cap Verde Approach;;;;;;;;;;;;;x
-PROV3033;Cruiser Tablemount;;;;;;;;;;;;;x
-PROV3034;Barracuda Fracture Zone;;;;;;;;;;;;;x
-PROV3035;Eastern Sargasso Sea;;;;;;;;;;;;;x
-PROV3036;Central Sargasso Sea;;;;;;;;;;;;;x
-PROV3037;Romanche Gap;;;;;;;;;;;;;x
-PROV3038;East Coast of Saint Helena;;;;;;;;;;;;;x
-PROV3039;Gulf of Guinea;;;;;;;;;;;;;x
-PROV3040;Coast of Falklands;;;;;;;;;;;;;x
-PROV3041;Argentine Rise;;;;;;;;;;;;;x
+PROV3024;BLago Plataeu;;;;;;;;;;;;;x
+PROV3025;Mare di Bermuda Occidentale;;;;;;;;;;;;;x
+PROV3026;Mare di Bermuda Orientale;;;;;;;;;;;;;x
+PROV3027;Corrente della Canarie;;;;;;;;;;;;;x
+PROV3028;Bacino della Guiana Settentrionale;;;;;;;;;;;;;x
+PROV3029;Bacino della Guiana;;;;;;;;;;;;;x
+PROV3030;Bacino della Guiana Meridionale;;;;;;;;;;;;;x
+PROV3031;Approccio delle Canarie;;;;;;;;;;;;;x
+PROV3032;Approccio di Capo Verde;;;;;;;;;;;;;x
+PROV3033;Guyot di Cruiser;;;;;;;;;;;;;x
+PROV3034;Zona di Frattura di Barracuda;;;;;;;;;;;;;x
+PROV3035;Mar dei Sargassi Orientale;;;;;;;;;;;;;x
+PROV3036;Mar dei Sargassi Centrale;;;;;;;;;;;;;x
+PROV3037;Gola di Romanche;;;;;;;;;;;;;x
+PROV3038;Costa Orientale di Sant'Elena;;;;;;;;;;;;;x
+PROV3039;Golfo di Guinea;;;;;;;;;;;;;x
+PROV3040;Costa delle Falklands;;;;;;;;;;;;;x
+PROV3041;Altopiano Argentino;;;;;;;;;;;;;x
 PROV3042;Cornet Bank;;;;;;;;;;;;;x
-PROV3043;Vema Channel;;;;;;;;;;;;;x
-PROV3044;South Brazil Basin;;;;;;;;;;;;;x
-PROV3045;Zapiola Plain;;;;;;;;;;;;;x
-PROV3046;Argentine Basin;;;;;;;;;;;;;x
-PROV3047;Falkland Plateau;;;;;;;;;;;;;x
-PROV3048;East of Magellans;;;;;;;;;;;;;x
-PROV3049;Fernando de Noronha Islands;;;;;;;;;;;;;x
-PROV3050;North Brazil Basin;;;;;;;;;;;;;x
-PROV3051;Sierra Leone Basin;;;;;;;;;;;;;x
-PROV3052;Martin Vaz Ridge;;;;;;;;;;;;;x
-PROV3053;West Coast of Ascension;;;;;;;;;;;;;x
-PROV3054;East Coast of Ascension;;;;;;;;;;;;;x
-PROV3055;Walvis Ridge;;;;;;;;;;;;;x
-PROV3056;Cape Plain;;;;;;;;;;;;;x
-PROV3057;Gough Island;;;;;;;;;;;;;x
-PROV3058;Coast of Tristan da Cunha;;;;;;;;;;;;;x
-PROV3059;San Marin Gap;;;;;;;;;;;;;x
-PROV3060;South Sandwich Islands;;;;;;;;;;;;;x
-PROV3061;Inaccesable Island;;;;;;;;;;;;;x
-PROV3062;Bouvet Island;;;;;;;;;;;;;x
-PROV3063;Cape of Storms;;;;;;;;;;;;;x
-PROV3064;Gulf of Bengal;;;;;;;;;;;;;x
-PROV3065;Northen Bay of Bengal;;;;;;;;;;;;;x
-PROV3066;Southern Bay of Bengal;;;;;;;;;;;;;x
-PROV3067;Ceylon Sea;;;;;;;;;;;;;x
-PROV3068;Coast of Maldives;;;;;;;;;;;;;x
-PROV3069;Eight Degree Channel;;;;;;;;;;;;;x
-PROV3070;Madingley Rise;;;;;;;;;;;;;x
-PROV3071;Arabian Basin;;;;;;;;;;;;;x
-PROV3072;One And Half Degree Channel;;;;;;;;;;;;;x
-PROV3073;Chagos Archipelago;;;;;;;;;;;;;x
-PROV3074;Cocos Basin;;;;;;;;;;;;;x
-PROV3075;Southern Sumatra Trench;;;;;;;;;;;;;x
-PROV3076;Coast of the Keelings;;;;;;;;;;;;;x
-PROV3077;Java Trench;;;;;;;;;;;;;x
-PROV3078;Prince Edward Islands;;;;;;;;;;;;;x
-PROV3079;Del Cano Rise;;;;;;;;;;;;;x
-PROV3080;Cape Sainte Marie;;;;;;;;;;;;;x
-PROV3081;Crozet Island;;;;;;;;;;;;;x
-PROV3082;Mascarene Plain;;;;;;;;;;;;;x
-PROV3083;Rodrigues Island;;;;;;;;;;;;;x
-PROV3084;Southwest Indian Basin;;;;;;;;;;;;;x
-PROV3085;Kerguelen Islands;;;;;;;;;;;;;x
-PROV3086;St Paul Island;;;;;;;;;;;;;x
-PROV3087;Broken Ridge;;;;;;;;;;;;;x
-PROV3088;South Australian Basin;;;;;;;;;;;;;x
-PROV3089;Egeria Fracture Zone;;;;;;;;;;;;;x
-PROV3090;Argo Zone;;;;;;;;;;;;;x
-PROV3091;Cuvier Basin;;;;;;;;;;;;;x
-PROV3092;Wallaby Plateau;;;;;;;;;;;;;x
-PROV3093;Ninety East Ridge;;;;;;;;;;;;;x
-PROV3094;Roa Rise;;;;;;;;;;;;;x
-PROV3095;Venig-Meisenz Seamounts;;;;;;;;;;;;;x
-PROV3096;Wharton Basin;;;;;;;;;;;;;x
-PROV3097;Northern Cocos Plateau;;;;;;;;;;;;;x
-PROV3098;Southern Cocos Plateau;;;;;;;;;;;;;x
-PROV3099;Amsterdam Island;;;;;;;;;;;;;x
-PROV3100;Marie-Celeste Fracture Zone;;;;;;;;;;;;;x
-PROV3101;Lake Chad;;;;;;;;;;;;;x
+PROV3043;Canale di Vema;;;;;;;;;;;;;x
+PROV3044;Bacino Brasiliano Meridionale;;;;;;;;;;;;;x
+PROV3045;Piana di Zapiola;;;;;;;;;;;;;x
+PROV3046;Bacino Argentino;;;;;;;;;;;;;x
+PROV3047;Plateau delle Falklands;;;;;;;;;;;;;x
+PROV3048;Stretto di Magellano Orientale;;;;;;;;;;;;;x
+PROV3049;Isole di Fernando de Noronha;;;;;;;;;;;;;x
+PROV3050;Bacino Brasiliano Settentrionale;;;;;;;;;;;;;x
+PROV3051;Bacino della Sierra Leone;;;;;;;;;;;;;x
+PROV3052;Dorsale di Martin Vaz;;;;;;;;;;;;;x
+PROV3053;Costa di Ascension Occidentale;;;;;;;;;;;;;x
+PROV3054;Costa di Ascension Orientale;;;;;;;;;;;;;x
+PROV3055;Dorsale di Walvis;;;;;;;;;;;;;x
+PROV3056;Capo Plain;;;;;;;;;;;;;x
+PROV3057;Isola di Gough;;;;;;;;;;;;;x
+PROV3058;Costa di Tristan da Cunha;;;;;;;;;;;;;x
+PROV3059;Gola di San Marin;;;;;;;;;;;;;x
+PROV3060;Isole Sandwich Meridionali;;;;;;;;;;;;;x
+PROV3061;Isola Inaccessibile;;;;;;;;;;;;;x
+PROV3062;Isola di Bouvet;;;;;;;;;;;;;x
+PROV3063;Capo delle Tempeste;;;;;;;;;;;;;x
+PROV3064;Golfo del Bengala;;;;;;;;;;;;;x
+PROV3065;Baia del Bengala Settentrionale;;;;;;;;;;;;;x
+PROV3066;Baia del Bengala Meridionale;;;;;;;;;;;;;x
+PROV3067;Mare di Ceylon;;;;;;;;;;;;;x
+PROV3068;Costa delle Maldive;;;;;;;;;;;;;x
+PROV3069;Canale degli Otto Gradi;;;;;;;;;;;;;x
+PROV3070;Altopiano di Madingley;;;;;;;;;;;;;x
+PROV3071;Bacino Arabico;;;;;;;;;;;;;x
+PROV3072;Canale di Un Grado e Mezzo;;;;;;;;;;;;;x
+PROV3073;Arcipelago delle Chagos;;;;;;;;;;;;;x
+PROV3074;Bacino delle Cocos;;;;;;;;;;;;;x
+PROV3075;Fossa Oceanica Meridionale di Sumatra;;;;;;;;;;;;;x
+PROV3076;Costa delle Keelings;;;;;;;;;;;;;x
+PROV3077;Fossa Oceanica Giavanese;;;;;;;;;;;;;x
+PROV3078;Isole Principe Edoardo;;;;;;;;;;;;;x
+PROV3079;Altopiano Del Cano;;;;;;;;;;;;;x
+PROV3080;Capo Sainte Marie;;;;;;;;;;;;;x
+PROV3081;Isola di Crozet;;;;;;;;;;;;;x
+PROV3082;Piana di Mascarene;;;;;;;;;;;;;x
+PROV3083;Isola di Rodrigues;;;;;;;;;;;;;x
+PROV3084;Bacino Indiano Sudoccidentale;;;;;;;;;;;;;x
+PROV3085;Isole Kerguelen;;;;;;;;;;;;;x
+PROV3086;Isola di San Paolo;;;;;;;;;;;;;x
+PROV3087;Dorsale Rotta;;;;;;;;;;;;;x
+PROV3088;Bacino Australiano Meridionale;;;;;;;;;;;;;x
+PROV3089;Zona di Frattura di Egeria;;;;;;;;;;;;;x
+PROV3090;Zona di Argo;;;;;;;;;;;;;x
+PROV3091;Bacino di Cuvier;;;;;;;;;;;;;x
+PROV3092;Plateau di Wallaby;;;;;;;;;;;;;x
+PROV3093;Dorsale Novanta Est;;;;;;;;;;;;;x
+PROV3094;Altopiano di Roa;;;;;;;;;;;;;x
+PROV3095;Montagne Sottomarine di Venig-Meisenz;;;;;;;;;;;;;x
+PROV3096;Bacino di Wharton;;;;;;;;;;;;;x
+PROV3097;Plateau Settentrionale delle Cocos;;;;;;;;;;;;;x
+PROV3098;Plateau Meridionale delle Cocos;;;;;;;;;;;;;x
+PROV3099;Isola di Amsterdam;;;;;;;;;;;;;x
+PROV3100;Zona di Frattura di Marie-Celeste;;;;;;;;;;;;;x
+PROV3101;Lago Ciad;;;;;;;;;;;;;x
 PROV3102;Ukerewe;;;;;;;;;;;;;x
-PROV3103;Lake Tangayika;;;;;;;;;;;;;x
-PROV3104;Lake Nyasa;;;;;;;;;;;;;x
-PROV3105;Gulden-Drake Seamount;;;;;;;;;;;;;x
-PROV3106;Lake Balkhash;;;;;;;;;;;;;x
-PROV3107;Lake Baikal;;;;;;;;;;;;;x
-PROV3108;Lake Dongting;;;;;;;;;;;;;x
-PROV3109;Lake Titicaca;;;;;;;;;;;;;x
-PROV3110;Lake Nicaragua;;;;;;;;;;;;;x
-PROV3111;Sedna Basin;;;;;;;;;;;;;x
-PROV3112;Lake Ontario;;;;;;;;;;;;;x
-PROV3113;Lake Erie;;;;;;;;;;;;;x
-PROV3114;Lake Huron;;;;;;;;;;;;;x
-PROV3115;Lake Michigan;;;;;;;;;;;;;x
-PROV3116;Lake Superior;;;;;;;;;;;;;x
-PROV3117;Lake Nipigon;;;;;;;;;;;;;x
-PROV3118;Lake Winnipeg;;;;;;;;;;;;;x
-PROV3119;Korskiyev Gulch;;;;;;;;;;;;;x
+PROV3103;Lago Tangayika;;;;;;;;;;;;;x
+PROV3104;Lago Nyasa;;;;;;;;;;;;;x
+PROV3105;Montagne Sottomarine di Gulden-Drake;;;;;;;;;;;;;x
+PROV3106;Lago Balchaš;;;;;;;;;;;;;x
+PROV3107;Lago Bajkal;;;;;;;;;;;;;x
+PROV3108;Lago Dongting;;;;;;;;;;;;;x
+PROV3109;Lago Titicaca;;;;;;;;;;;;;x
+PROV3110;Lago Nicaragua;;;;;;;;;;;;;x
+PROV3111;Bacino di Sedna;;;;;;;;;;;;;x
+PROV3112;Lago Ontario;;;;;;;;;;;;;x
+PROV3113;Lago Erie;;;;;;;;;;;;;x
+PROV3114;Lago Huron;;;;;;;;;;;;;x
+PROV3115;Lago Michigan;;;;;;;;;;;;;x
+PROV3116;Lago Superiore;;;;;;;;;;;;;x
+PROV3117;Lago Nipigon;;;;;;;;;;;;;x
+PROV3118;Lago Winnipeg;;;;;;;;;;;;;x
+PROV3119;Gola di Korskiev;;;;;;;;;;;;;x
 PROV3120;Orsova Bank;;;;;;;;;;;;;x
-PROV3121;Novarsk Plain;;;;;;;;;;;;;x
-PROV3122;Sorvskiya Plains;;;;;;;;;;;;;x
-PROV3123;Yamara Gulch;;;;;;;;;;;;;x
-PROV3124;Northwest Pacific Basin;;;;;;;;;;;;;x
-PROV3125;Sevrance Shoals;;;;;;;;;;;;;x
-PROV3126;Coast of Minami;;;;;;;;;;;;;x
-PROV3127;Coast of the Mariana Islands;;;;;;;;;;;;;x
-PROV3128;Maysdale Flats;;;;;;;;;;;;;x
-PROV3129;Izamo Drop;;;;;;;;;;;;;x
-PROV3130;North Bering Sea;;;;;;;;;;;;;x
-PROV3131;South Bering Sea;;;;;;;;;;;;;x
-PROV3132;Western Aleutian Islands;;;;;;;;;;;;;x
-PROV3133;Pribilof Islands;;;;;;;;;;;;;x
-PROV3134;Eastern Aleutian Islands;;;;;;;;;;;;;x
-PROV3135;Uminak Pass;;;;;;;;;;;;;x
-PROV3136;Western Aleutian Sea;;;;;;;;;;;;;x
-PROV3137;Baker Seamount;;;;;;;;;;;;;x
-PROV3138;Alaska Plain;;;;;;;;;;;;;x
-PROV3139;Eastern Aleutian Sea;;;;;;;;;;;;;x
-PROV3140;Explorer Trench;;;;;;;;;;;;;x
-PROV3141;Moonless Seamounts;;;;;;;;;;;;;x
-PROV3142;Chinook Basin;;;;;;;;;;;;;x
-PROV3143;Ulchi Basin;;;;;;;;;;;;;x
-PROV3144;Jingu Basin;;;;;;;;;;;;;x
-PROV3145;Chinook Trough;;;;;;;;;;;;;x
-PROV3146;Stanley Seamount;;;;;;;;;;;;;x
-PROV3147;Mendocino Escarpment;;;;;;;;;;;;;x
-PROV3148;California Seamount;;;;;;;;;;;;;x
-PROV3149;Murray Fracture Zone;;;;;;;;;;;;;x
-PROV3150;Coast of Hawaii;;;;;;;;;;;;;x
-PROV3151;Argo Seamount;;;;;;;;;;;;;x
-PROV3152;Musicians Seamount;;;;;;;;;;;;;x
-PROV3153;Coast of Midway Island;;;;;;;;;;;;;x
-PROV3154;Kepler Plain;;;;;;;;;;;;;x
-PROV3155;Galois Plain;;;;;;;;;;;;;x
-PROV3156;O’Gorman Rise;;;;;;;;;;;;;x
-PROV3157;Coast of the Galapagos Islands;;;;;;;;;;;;;x
-PROV3158;Lapira Plains;;;;;;;;;;;;;x
-PROV3159;Coast of the Cook Islands;;;;;;;;;;;;;x
-PROV3160;Coast of Clipperton Island;;;;;;;;;;;;;x
-PROV3161;Henderson Seamount;;;;;;;;;;;;;x
-PROV3162;Madijera Ridge;;;;;;;;;;;;;x
-PROV3163;Bauer Basin;;;;;;;;;;;;;x
-PROV3164;Northeast Pacific Basin;;;;;;;;;;;;;x
-PROV3165;Discoverer Seamount;;;;;;;;;;;;;x
-PROV3166;Tasavulu Flats;;;;;;;;;;;;;x
-PROV3167;Hawaiian Arch;;;;;;;;;;;;;x
-PROV3168;Radford Basin;;;;;;;;;;;;;x
-PROV3169;Northern Line Islands;;;;;;;;;;;;;x
-PROV3170;Coast of the Society Islands;;;;;;;;;;;;;x
-PROV3171;Peru Basin;;;;;;;;;;;;;x
-PROV3172;Yupanqui Basin;;;;;;;;;;;;;x
-PROV3173;Severance Plains;;;;;;;;;;;;;x
-PROV3174;Altamira Plains;;;;;;;;;;;;;x
-PROV3175;Southern Line Islands;;;;;;;;;;;;;x
-PROV3176;Central Pacific Basin;;;;;;;;;;;;;x
-PROV3177;Coast of Samoa;;;;;;;;;;;;;x
-PROV3178;Johnston Atoll;;;;;;;;;;;;;x
-PROV3179;Coast of Tonga;;;;;;;;;;;;;x
-PROV3180;Coast of the Marquesas;;;;;;;;;;;;;x
-PROV3181;Resolution Flats;;;;;;;;;;;;;x
-PROV3182;Coast of the Tuamotus;;;;;;;;;;;;;x
-PROV3183;Titus Ridge;;;;;;;;;;;;;x
-PROV3184;Chatham Islands;;;;;;;;;;;;;x
-PROV3185;Southwest Pacific Basin;;;;;;;;;;;;;x
-PROV3186;Ludovico Gulch;;;;;;;;;;;;;x
-PROV3187;Coast of Pitcairn Island;;;;;;;;;;;;;x
-PROV3188;Rogeveen Basin;;;;;;;;;;;;;x
-PROV3189;Menard Fracture Zone;;;;;;;;;;;;;x
-PROV3190;Coast of Easter Island;;;;;;;;;;;;;x
-PROV3191;Coast of the Ellice Islands;;;;;;;;;;;;;x
-PROV3192;New Caledonia Basin;;;;;;;;;;;;;x
-PROV3193;Juan Fernandez Islands;;;;;;;;;;;;;x
-PROV3194;Selkirk Rise;;;;;;;;;;;;;x
-PROV3195;Karasev Plains;;;;;;;;;;;;;x
-PROV3196;Timkin Plain;;;;;;;;;;;;;x
-PROV3197;Syrus Reef;;;;;;;;;;;;;x
-PROV3198;Humboldt Plains;;;;;;;;;;;;;x
-PROV3199;Valdivia Flats;;;;;;;;;;;;;x
-PROV3200;Coast of South Georgia;;;;;;;;;;;;;x
-PROV3201;Argentine Plain;;;;;;;;;;;;;x
-PROV3202;Zapiola Seamount;;;;;;;;;;;;;x
-PROV3203;West Coast of Saint Helena;;;;;;;;;;;;;x
-PROV3204;Moore Fracture Zone;;;;;;;;;;;;;x
-PROV3205;West Demerara Plain;;;;;;;;;;;;;x
-PROV3206;East Demerara Plain;;;;;;;;;;;;;x
-PROV3207;Cape Verde Basin;;;;;;;;;;;;;x
-PROV3208;Nares Plain;;;;;;;;;;;;;x
-PROV3209;Bahamas Basin;;;;;;;;;;;;;x
-PROV3210;Western Sargasso Sea;;;;;;;;;;;;;x
-PROV3211;Bermuda Approaches;;;;;;;;;;;;;x
-PROV3212;Ceylon Plain;;;;;;;;;;;;;x
-PROV3213;Sunda Trench;;;;;;;;;;;;;x
-PROV3214;Northern Sumatra Trench;;;;;;;;;;;;;x
-PROV3215;Central Indian Basin;;;;;;;;;;;;;x
-PROV3216;Fiji Basin;;;;;;;;;;;;;x
-PROV3217;Solace Flats;;;;;;;;;;;;;x
-PROV3218;Pisaros Pass;;;;;;;;;;;;;x
-PROV3219;Coast of Fiji;;;;;;;;;;;;;x
-PROV3220;Coast of Norfolk Island;;;;;;;;;;;;;x
-PROV3221;Coast of the Gilbert Islands;;;;;;;;;;;;;x
-PROV3222;Mainu Reef;;;;;;;;;;;;;x
+PROV3121;Piana di Novarsk;;;;;;;;;;;;;x
+PROV3122;Piana di Sorvskija;;;;;;;;;;;;;x
+PROV3123;Gola di Jamara;;;;;;;;;;;;;x
+PROV3124;Bacino del Pacifico Nordoccidentale;;;;;;;;;;;;;x
+PROV3125;Banchi di Sabbia di Sevrance;;;;;;;;;;;;;x
+PROV3126;Costa di Minami;;;;;;;;;;;;;x
+PROV3127;Costa delle Isole Marianne;;;;;;;;;;;;;x
+PROV3128;Bassifondi di Maysdale;;;;;;;;;;;;;x
+PROV3129;Fossa di Izamo;;;;;;;;;;;;;x
+PROV3130;Mare di Bering Settentrionale;;;;;;;;;;;;;x
+PROV3131;Mare di Bering Meridionale;;;;;;;;;;;;;x
+PROV3132;Isole Aleutine Occidentali;;;;;;;;;;;;;x
+PROV3133;Isole Pribilof;;;;;;;;;;;;;x
+PROV3134;Isole Aleutine Orientali;;;;;;;;;;;;;x
+PROV3135;Isola di Unimak;;;;;;;;;;;;;x
+PROV3136;Mare Aleutino Occidentale;;;;;;;;;;;;;x
+PROV3137;Montagne Sottomarine di Baker;;;;;;;;;;;;;x
+PROV3138;Piana d'Alaska;;;;;;;;;;;;;x
+PROV3139;Mare Aleutino Orientale;;;;;;;;;;;;;x
+PROV3140;Fossa Oceanica dell'Esploratore;;;;;;;;;;;;;x
+PROV3141;Montagne Sottomarine Senza Luna;;;;;;;;;;;;;x
+PROV3142;Bacino Chinook;;;;;;;;;;;;;x
+PROV3143;Bacino degli Ulchi;;;;;;;;;;;;;x
+PROV3144;Bacino Jingu;;;;;;;;;;;;;x
+PROV3145;Depressione Chinook;;;;;;;;;;;;;x
+PROV3146;Montagne Sottomarine di Stanley;;;;;;;;;;;;;x
+PROV3147;Scarpata di Mendocino;;;;;;;;;;;;;x
+PROV3148;Montagne Sottomarine della California;;;;;;;;;;;;;x
+PROV3149;Zona di Frattura di Murray;;;;;;;;;;;;;x
+PROV3150;Costa delle Hawaii;;;;;;;;;;;;;x
+PROV3151;Montagne Sottomarine di Argo;;;;;;;;;;;;;x
+PROV3152;Montagne Sottomarine dei Musicisti;;;;;;;;;;;;;x
+PROV3153;Costa dell'Isola Midway;;;;;;;;;;;;;x
+PROV3154;Piana di Keplero;;;;;;;;;;;;;x
+PROV3155;Piana di Galois;;;;;;;;;;;;;x
+PROV3156;Altopiano di O'Gorman;;;;;;;;;;;;;x
+PROV3157;Costa delle Isole Galapagos;;;;;;;;;;;;;x
+PROV3158;Piana di Lapira;;;;;;;;;;;;;x
+PROV3159;Costa delle Isole Cook;;;;;;;;;;;;;x
+PROV3160;Costa dell'Isola Clipperton;;;;;;;;;;;;;x
+PROV3161;Montagne Sottomarine di Henderson;;;;;;;;;;;;;x
+PROV3162;Dorsale di Madijera;;;;;;;;;;;;;x
+PROV3163;Bacino di Bauer;;;;;;;;;;;;;x
+PROV3164;Bacino del Pacifico Nordorientale;;;;;;;;;;;;;x
+PROV3165;Montagne Sottomarine dello Scopritore;;;;;;;;;;;;;x
+PROV3166;Piana di Tasavulu;;;;;;;;;;;;;x
+PROV3167;Arco Hawaiano;;;;;;;;;;;;;x
+PROV3168;Bacino di Radford;;;;;;;;;;;;;x
+PROV3169;Isole della Linea Settentrionale;;;;;;;;;;;;;x
+PROV3170;Costa delle Isole della Società;;;;;;;;;;;;;x
+PROV3171;Bacino del Perù;;;;;;;;;;;;;x
+PROV3172;Bacino Yupanqui;;;;;;;;;;;;;x
+PROV3173;Piana di Severance;;;;;;;;;;;;;x
+PROV3174;Piana di Altamira;;;;;;;;;;;;;x
+PROV3175;Isole della Linea Meridionale;;;;;;;;;;;;;x
+PROV3176;Bacino del Pacifico Centrale;;;;;;;;;;;;;x
+PROV3177;Costa di Samoa;;;;;;;;;;;;;x
+PROV3178;Atollo di Johnston;;;;;;;;;;;;;x
+PROV3179;Costa di Tonga;;;;;;;;;;;;;x
+PROV3180;Costa delle Marchesi;;;;;;;;;;;;;x
+PROV3181;Piana di Resolution;;;;;;;;;;;;;x
+PROV3182;Costa delle Tuamotu;;;;;;;;;;;;;x
+PROV3183;Dorsale di Tito;;;;;;;;;;;;;x
+PROV3184;Isole Chatham;;;;;;;;;;;;;x
+PROV3185;Bacino del Pacifico Sudoccidentale;;;;;;;;;;;;;x
+PROV3186;Gola Ludovico;;;;;;;;;;;;;x
+PROV3187;Costa dell'Isola Pitcairn;;;;;;;;;;;;;x
+PROV3188;Bacino di Rogeveen;;;;;;;;;;;;;x
+PROV3189;Zona di Frattura di Menard;;;;;;;;;;;;;x
+PROV3190;Costa dell'Isola di Pasqua;;;;;;;;;;;;;x
+PROV3191;Costa delle Isole Ellice;;;;;;;;;;;;;x
+PROV3192;Bacino di Nuova Caledonia;;;;;;;;;;;;;x
+PROV3193;Isole Juan Fernandes;;;;;;;;;;;;;x
+PROV3194;Altopiano di Selkirk;;;;;;;;;;;;;x
+PROV3195;Piana di Sarakev;;;;;;;;;;;;;x
+PROV3196;Piana di Timkin;;;;;;;;;;;;;x
+PROV3197;Barriera Corallina di Syrus;;;;;;;;;;;;;x
+PROV3198;Piana di Humboldt;;;;;;;;;;;;;x
+PROV3199;Piana di Valdivia;;;;;;;;;;;;;x
+PROV3200;Costa della Georgia Meridionale;;;;;;;;;;;;;x
+PROV3201;Piana Argentina;;;;;;;;;;;;;x
+PROV3202;Montagne Sottomarine di Zapiola;;;;;;;;;;;;;x
+PROV3203;Costa Occidentale di Sant'Elena;;;;;;;;;;;;;x
+PROV3204;Zona di Frattura di Moore;;;;;;;;;;;;;x
+PROV3205;Piana di Demerara Occidentale;;;;;;;;;;;;;x
+PROV3206;Piana di Demerara Orientale;;;;;;;;;;;;;x
+PROV3207;Bacino di Capo Verde;;;;;;;;;;;;;x
+PROV3208;Piana di Nares;;;;;;;;;;;;;x
+PROV3209;Bacino delle Bahamas;;;;;;;;;;;;;x
+PROV3210;Mare dei Sargassi Occidentali;;;;;;;;;;;;;x
+PROV3211;Approcci di Bermuda;;;;;;;;;;;;;x
+PROV3212;Piana di Ceylon;;;;;;;;;;;;;x
+PROV3213;Fossa Oceanica di Sunda;;;;;;;;;;;;;x
+PROV3214;Fossa Oceanica Settentrionale di Sumatra;;;;;;;;;;;;;x
+PROV3215;Bacino Indiano Centrale;;;;;;;;;;;;;x
+PROV3216;Bacino delle Figi;;;;;;;;;;;;;x
+PROV3217;Piana di Solace;;;;;;;;;;;;;x
+PROV3218;Passo di Pisaros;;;;;;;;;;;;;x
+PROV3219;Costa delle Figi;;;;;;;;;;;;;x
+PROV3220;Costa dell'Isola di Norfolk;;;;;;;;;;;;;x
+PROV3221;Costa delle Isole Gilbert;;;;;;;;;;;;;x
+PROV3222;Barriera Corallina di Mainu;;;;;;;;;;;;;x
 PROV3223;Tusei Bank;;;;;;;;;;;;;x
-PROV3224;Lake Tana;;;;;;;;;;;;;x
+PROV3224;Lago Tana;;;;;;;;;;;;;x
 PROV3225;Laguna Timpanogos;;;;;;;;;;;;;x
-PROV3226;South Australian Plain;;;;;;;;;;;;;x
-PROV3227;Great Slave Lake;;;;;;;;;;;;;x
-PROV3228;Lake Athabasca;;;;;;;;;;;;;x
-PROV3229;Reindeer Lake;;;;;;;;;;;;;x
-PROV3230;Gulf of Ob;;;;;;;;;;;;;x
-PROV3231;Lake Van;;;;;;;;;;;;;x
-PROV3232;Lake Urmia;;;;;;;;;;;;;x
+PROV3226;Piana Austrliana Meridionale;;;;;;;;;;;;;x
+PROV3227;Grande Lago degli Schiavi;;;;;;;;;;;;;x
+PROV3228;Lago Athabasca;;;;;;;;;;;;;x
+PROV3229;Lago Reindeer;;;;;;;;;;;;;x
+PROV3230;Golfo di Ob;;;;;;;;;;;;;x
+PROV3231;Lago Van;;;;;;;;;;;;;x
+PROV3232;Lago Urmia;;;;;;;;;;;;;x
 PROV3233;Issyk Kul;;;;;;;;;;;;;x
-PROV3234;Qinghai Lake;;;;;;;;;;;;;x
-PROV3235;Lake Poyang;;;;;;;;;;;;;x
+PROV3234;Lago di Qinghai;;;;;;;;;;;;;x
+PROV3235;Lago Poyang;;;;;;;;;;;;;x
 PROV3236;Anam a Cheper;;;;;;;;;;;;;x
 PROV3237;Sohm Plain;;;;;;;;;;;;;x
-PROV3238;Lake Mweru;;;;;;;;;;;;;x
-PROV3239;Lake Champlain;;;;;;;;;;;;;x
-PROV3240;Lake Poopo;;;;;;;;;;;;;x
-PROV3241;Arctic Ocean;;;;;;;;;;;;;x
-PROV3242;Maury Sea Channel;;;;;;;;;;;;;x
-PROV3243;Southeast Pacific Basin;;;;;;;;;;;;;x
-PROV3244;Jaluit Passage;;;;;;;;;;;;;x
-PROV3245;Markov Plains;;;;;;;;;;;;;x
+PROV3238;Lago Mweru;;;;;;;;;;;;;x
+PROV3239;Lago Champlain;;;;;;;;;;;;;x
+PROV3240;Lago Poopo;;;;;;;;;;;;;x
+PROV3241;Oceano Artico;;;;;;;;;;;;;x
+PROV3242;Canale del Mare di Maury;;;;;;;;;;;;;x
+PROV3243;Bacino del Pacifico Sudorientale;;;;;;;;;;;;;x
+PROV3244;Passaggio di Jaluit;;;;;;;;;;;;;x
+PROV3245;Piana di Markov;;;;;;;;;;;;;x
 PROV3246;St. Barthélemy;;;;;;;;;;;;;x
-PROV3247;West Hawaii;;;;;;;;;;;;;x
-PROV3248;West Magellan Strait;;;;;;;;;;;;;x
-PROV3249;Old Tianjin;;;;;;;;;;;;;x
+PROV3247;Hawaii Occidentali;;;;;;;;;;;;;x
+PROV3248;Stretto di Magellano Occidentale;;;;;;;;;;;;;x
+PROV3249;Vecchia Tianjin;;;;;;;;;;;;;x
 PROV3250;Fribourg;;;;;;;;;;;;;x
 PROV3251;Monaco;;;;;;;;;;;;;x
 PROV3252;Andorra;;;;;;;;;;;;;x
@@ -3436,7 +3436,7 @@ PROV3434;Jakobshavn;;;;;;;;;;;;;x
 PROV3435;Blosseville Kyst;;;;;;;;;;;;;x
 PROV3436;Sydlige Indlandsis;;;;;;;;;;;;;x
 PROV3437;Nordvestlige Indlandsis;;;;;;;;;;;;;x
-PROV3438;Lake Harbour;;;;;;;;;;;;;x
+PROV3438;Lago Harbour;;;;;;;;;;;;;x
 PROV3439;Thelon River;;;;;;;;;;;;;x
 PROV3440;Clyde River;;;;;;;;;;;;;x
 PROV3441;Fort Liard;;;;;;;;;;;;;x

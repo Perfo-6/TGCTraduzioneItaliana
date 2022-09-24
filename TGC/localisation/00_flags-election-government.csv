@@ -1,23 +1,23 @@
 CODE;ENGLISH;FRENCH;GERMAN;POLISH;SPANISH;ITALIAN;SWEDISH;CZECH;HUNGARIAN;DUTCH;PORTUGUESE;RUSSIAN;FINNISH;x
-absolute_monarchy_gov;Absolute monarchy;;;;;;;;;;;;;x
-anarcho_liberal_gov;Radical government;;;;;;;;;;;;;x
-anarcho_liberal_election_win;Radicals won election;;;;;;;;;;;;;x
-colonial_company_gov;Colonial government;;;;;;;;;;;;;x
-communist_gov;Communist government;;;;;;;;;;;;;x
-communist_election_win;Communists won election;;;;;;;;;;;;;x
-constitutional_monarchy_gov;Parliamentary monarchy;;;;;;;;;;;;;x
-democracy_gov;Democratic government;;;;;;;;;;;;;x
-dominion_gov;Dominion;;;;;;;;;;;;;x
-fascist_gov;Fascist government;;;;;;;;;;;;;x
-fascist_election_win;Fascists won election;;;;;;;;;;;;;x
-khanate_gov;Khanate;;;;;;;;;;;;;x
-liberal_election_win;Liberals won election;;;;;;;;;;;;;x
-monarchy_gov;Monarchy;;;;;;;;;;;;;x
-presidential_dictatorship_gov;Presidential dictatorship;;;;;;;;;;;;;x
-puppet_gov;Puppet State;;;;;;;;;;;;;x
-reactionary_election_win;Reactionaries won election;;;;;;;;;;;;;x
-semi_constitutional_monarchy_gov;Constitutional monarchy;;;;;;;;;;;;;x
-social_liberal_election_win;Social Liberals won election;;;;;;;;;;;;;x
-socialist_election_win;Socialists won election;;;;;;;;;;;;;x
-theocratic_government;Theocratic government;;;;;;;;;;;;;x
-tory_election_win;Conservatives won election;;;;;;;;;;;;;x
+absolute_monarchy_gov;Monarchia assoluta;;;;;;;;;;;;;x
+anarcho_liberal_gov;Governo radicale;;;;;;;;;;;;;x
+anarcho_liberal_election_win;I radicali hanno vinto le elezioni;;;;;;;;;;;;;x
+colonial_company_gov;Governo coloniale;;;;;;;;;;;;;x
+communist_gov;Governo comunista;;;;;;;;;;;;;x
+communist_election_win;I comunisti hanno vinto le elezioni;;;;;;;;;;;;;x
+constitutional_monarchy_gov;Monarchia parlamentare;;;;;;;;;;;;;x
+democracy_gov;Governo democratico;;;;;;;;;;;;;x
+dominion_gov;Dominio;;;;;;;;;;;;;x
+fascist_gov;Governo fascista;;;;;;;;;;;;;x
+fascist_election_win;I fascisti hanno vinto le elezioni;;;;;;;;;;;;;x
+khanate_gov;Khanato;;;;;;;;;;;;;x
+liberal_election_win;I liberali hanno vinto le elezioni;;;;;;;;;;;;;x
+monarchy_gov;Monarchia;;;;;;;;;;;;;x
+presidential_dictatorship_gov;Dittatura presidenziale;;;;;;;;;;;;;x
+puppet_gov;Stato fantoccio;;;;;;;;;;;;;x
+reactionary_election_win;I reazionari hanno vinto le elezioni;;;;;;;;;;;;;x
+semi_constitutional_monarchy_gov;Monarchia costituzionale;;;;;;;;;;;;;x
+social_liberal_election_win;I social liberali hanno vinto le elezioni;;;;;;;;;;;;;x
+socialist_election_win;I socialisti hanno vinto le elezioni;;;;;;;;;;;;;x
+theocratic_government;Governo teocratico;;;;;;;;;;;;;x
+tory_election_win;I conservatori hanno vinto le elezioni;;;;;;;;;;;;;x
