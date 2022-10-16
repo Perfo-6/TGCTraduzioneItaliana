@@ -2310,7 +2310,9 @@ release_salaverry_desc;Il ribelle Salaverry marcisce nelle nostre carceri. Ha av
 release_salaverry_title;Scarcera Salaverry;;;;;;;;;;;;;x
 release_silesia_desc;Dopo che i nostri possedimenti in Silesia sono stati separati dal resto del nostro paese, ha senso dare ai locali maggiore autonomia. Che i Polacchi reclutino i propri eserciti, se lo faranno al servizio del nostro paese.;;;;;;;;;;;;;x
 release_silesia_title;Rilascia la Silesia;;;;;;;;;;;;;x
-remove_central_american_cores_desc;Gli stati nel Centroamerica avevano una storia tumultuosa, con caudillo indipendenti, ribellionie e repubbliche che vengono dichiarate a destra e a manca. Questi tempi di caos sembrano quasi finiti e gran parte dei territori godono di un'autonomia limitata e della pace. Il nostro $MONARCH_TITLE$ ha ora presentato una proposta di legge per cementificare la nostra influenza in queste terre ed al contempo accontentare la popolazione nativa con una serie di garanzie, concessioni ed investimenti.;;;;;;;;;;;;;x
+remove_any_french_cores_desc;Assicurati che la Francia abbia tutte le sue province chiave corrette quando cambia tag.;;;;;;;;;;;;;x
+remove_any_french_cores_title;IA: Aggiusta le Province Chiavi Francesi;;;;;;;;;;;;;x
+remove_central_american_cores_desc;Gli stati nel Centroamerica avevano una storia tumultuosa, con caudillo indipendenti, ribellioni e repubbliche che vengono dichiarate a destra e a manca. Questi tempi di caos sembrano quasi finiti e gran parte dei territori godono di un'autonomia limitata e della pace. Il nostro $MONARCHTITLE$ ha ora presentato una proposta di legge per cementificare la nostra influenza in queste terre ed al contempo accontentare la popolazione nativa con una serie di garanzie, concessioni ed investimenti.;;;;;;;;;;;;;x
 remove_central_american_cores_title;L'Autonomia negli Stati Centroamericani;;;;;;;;;;;;;x
 remove_fifth_pillar_desc;Gli avversari dello stato hanno atteso troppo a lungo: devono essere schiacciati!;;;;;;;;;;;;;x
 remove_fifth_pillar_title;Schiaccia la Quinta Colonna della Resistenza!;;;;;;;;;;;;;x
@@ -2318,8 +2320,6 @@ remove_kebab_desc;Dobbiamo rimuovere i Turchi per rendere la nostra nazione fort
 remove_kebab_title;Rimuovi i Turchi!;;;;;;;;;;;;;x
 remove_landlords_desc;La descrizione va qui.;;;;;;;;;;;;;x
 remove_landlords_title;Rimuovi i Proprietari Terrieri;;;;;;;;;;;;;x
-remove_any_french_cores_desc;Assicurati che la Francia abbia tutte le sue province chiave corrette quando cambia tag.;;;;;;;;;;;;;x
-remove_any_french_cores_title;IA: Aggiusta le Province Chiavi Francesi;;;;;;;;;;;;;x
 remove_undesireables_desc;Il nostro paese è stato infestato troppo a lungo da persone non della nostra cultura. Costoro stanno portando l'economia al collasso, causando tutti i nostri problemi, e sono fonte di tutte le nostre pene. Dovremmo istituire un programma per rimuoverli dal nostro glorioso paese.;;;;;;;;;;;;;x
 remove_undesireables_title;Promulga una Politica di Integrazione;;;;;;;;;;;;;x
 removing_neuchatel_cores_desc;Una crisi incombente su Neuchatel non è peggiorata ed è stata risolta in nostro favore. I Tedeschi hanno rinunciato alle loro rivendicazioni sul cantone, che è diventato parte integrante della Svizzera.;;;;;;;;;;;;;x
