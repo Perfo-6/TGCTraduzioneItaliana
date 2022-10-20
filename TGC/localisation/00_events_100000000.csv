@@ -13,28 +13,28 @@ EVTOPTB152009873;Ci opporremo al governo militare!;;;;;;;;;;;;;x
 EVTDESC152009874;C'è un gran combattere per le strade di Parigi mentre l'esercito $FROMCOUNTRY_ADJ$ avanza per catturare la città. L'artiglieria è spostata alla Collina di Chaillot, dopo delle barricate improvvisate mentre la fanteria scappa dal 7º arrondissement e si muove sistematicamente di casa in casa, di quartiere in quartiere, combattendo una battaglia contro irregolari armati. L'Arco di Trionfo è demolito dai pionieri mentre l'artiglieria sulla collina mira verso la Torre Eiffel. Per molti minuti la città è assordata dal tuonare dell'artiglieria finché non cala il silenzio e l'unico suono è la stridere del metallo, che lentamente crolla. I soldati nemici urlano eccitati mentre guardano la Torre Eiffel piegarsi e cadere nella Senna, ormai ridotta ad un blocco amorfo di metallo. \n \nIl fuoco imperversa fuori controllo nelle parti orientali della città, illuminando la città mentre i combattimenti continuano nella notte.;;;;;;;;;;;;;x
 EVTNAME152009874;Distruzione della Torre Eiffel;;;;;;;;;;;;;x
 EVTOPTA152009874;Un giorno mesto per il nostro paese.;;;;;;;;;;;;;x
-EVTDESC152009875;Scattered gunfire can be heard echoing through the empty streets of London as the last pockets of resistance to the $FROMCOUNTRY_ADJ$ occupation are quelled. The parliament houses in the Palace of Westminster lay empty while $FROMCOUNTRY_ADJ$ soldiers run up and down placing explosives in the silent corridors. A $FROMCOUNTRY_ADJ$ general silently read the orders that came from the $FROMCOUNTRY_ADJ$ capital with instructions to destroy the Palace in an attempt to crush the $COUNTRY_ADJ$ spirit. The explosives are detonated at the same time as the Clock Tower bell strike its precise hourly strike. The tower is engulfed by flames as parts of the western palace collapse, with pieces of the Big Ben landing on the Thames along with other debris while nearby buildings are hit by flaming debris and catch fire. $FROMCOUNTRY_ADJ$ soldiers watch and cherish from a safe distance as the glass that once contained the phrase ‘DOMINE SALVAM FAC REGINAM NOSTRAM VICTORIAM PRIMAM’ rains on the ground. Nearby, $FROMCOUNTRY_ADJ$ soldiers storm the Buckingham Palace just to find out that the $MONARCHTITLE$ has already fled the country. They hoist the $FROMCOUNTRY_ADJ$ flag and turn to see the smoke rising in the horizon. London is lost.;;;;;;;;;;;;;x
-EVTNAME152009875;The Fall of the Palace of Westminster;;;;;;;;;;;;;x
-EVTDESC190419120;Sell Fort Ross to the Mexican citizen John Sutter?;;;;;;;;;;;;;x
-EVTNAME190419120;Fort Ross Purchase?;;;;;;;;;;;;;x
-EVTOPTA190419120;We gladly accept.;;;;;;;;;;;;;x
-EVTOPTB190419120;We refuse.;;;;;;;;;;;;;x
-EVTDESC190419121;$FROMCOUNTRY$ has agreed to sell the Fort Ross trading post to us! Long live $COUNTRY$!;;;;;;;;;;;;;x
-EVTNAME190419121;$FROMCOUNTRY$ Accepts!;;;;;;;;;;;;;x
-EVTOPTA190419121;Excellent.;;;;;;;;;;;;;x
-EVTDESC190419122;$MONARCHTITLE$, negotiations with $FROMCOUNTRY$ over Fort Ross have stalled, and they have declined to sell us the colony.;;;;;;;;;;;;;x
-EVTNAME190419122;$FROMCOUNTRY$ Declines!;;;;;;;;;;;;;x
-EVTOPTA190419122;Hm, I see.;;;;;;;;;;;;;x
-EVTDESC232000000;I saw, about four miles to the left, a sheet of water, which ultimately proved to be a creek and the southernmost part of what the Arabs call the Ukerewe Sea. Convinced that I finally found the source of the Nile, I went down a grassy and jungled depression into a deep, dirty, viscid nullah, which communicated with the southern end of the creek, which we named Jordan. As we followed the creek, that increased in breadth as it extended northwards, we saw many little islands in Ukerewe, well wooded, standing boldly out of the water. The journey continued through another tortuous day until we reached the village of Isamiro, where the view was clearer and better. In the distant horizon a calm sea line started to appear between north and west. Even in a well-known country the view would have attracted attention for its placid beauty, he thought to himself. He felt he had solved the great old riddle.;;;;;;;;;;;;;x
-EVTNAME232000000;The Source of the Nile Discovered?;;;;;;;;;;;;;x
-EVTOPTA232000000;We shall name it…;;;;;;;;;;;;;x
-EVTOPTB232000000;Perhaps it should be called…;;;;;;;;;;;;;x
-EVTOPTC232000000;Our $MONARCHTITLE$ would be satisfied with the name…;;;;;;;;;;;;;x
-EVTOPTD232000000;This great body of water will be known as…;;;;;;;;;;;;;x
-EVTOPTE232000000;We need a name worthy of its beauty…;;;;;;;;;;;;;x
-EVTDESC232000003;One of our explorers found a massive body of water in Africa, and he claims that it's the true source of the Nile! Upon preliminary reports, it seems that what was found is a huge lake that might as well be the source of the Nile. He insists we should call this discovery Lake Victoria.;;;;;;;;;;;;;x
-EVTOPTA232000003;Oh well.;;;;;;;;;;;;;x
-EVTDESC370000002;The factories extend their flanks of fouler brick one after another, bare, with shutter-less windows, like economical and colossal prisons… and inside, lit by gas-jets and deafened by the uproar of their own labour, toil thousands of workmen, penned in, regimented, hands active, feet motionless, all day and every day, mechanically serving their machines…’ \n The hard work that the city’s workers perform has outraged many, and a committee has been formed to tackle the rough working conditions.;;;;;;;;;;;;;x
-EVTNAME370000002;Long Work Hours;;;;;;;;;;;;;x
-EVTOPTA370000002;We should consider legislation to change this.;;;;;;;;;;;;;x
-EVTOPTB370000002;Hard work is the foundation of a good moral character.;;;;;;;;;;;;;x
+EVTDESC152009875;Si possono udire spari sparsi per le strade vuote di Londra mentre gli ultimi bastioni della resistenza all'occupazione nemica sono sopraffatti. Le camere del parlamento nel Palazzo di Westminster sono vuote mentre i soldati stranieri vanno avanti e indietro per posizionare gli esplosivi nei corridori silenziosi. Un generale legge silenziosamente gli ordini arrivati dalla capitale, con le istruzioni di distruggere il Palazzo in un tentativo di fiaccare lo spirito $COUNTRY_ADJ$. Gli esplosivi sono detonati allo stesso momento in cui la campana della Torre dell'Orologio scocca il suo preciso rintocco orario. La torre viene inghiottita dalle fiame mentre collassano parti del palazzo occidentale e pezzi del Big Ben precipitano nel Tamigi insieme ad altri detriti, contemporaneamente gli edifici vicini sono colpiti da rottami in fiamme e bruciano. I soldati nemici guardano ed esultano da una distanza di sicurezza mentre il vetro, che un tempo conteneva la frase:«DOMINE SALVAM FAC REGINAM NOSTRAM VICTORIAM PRIMAM», cade a terra. Lì vicino altri soldati assaltano Buckingham Palace, soltanto per scoprire che $MONARCHTITLE$ ha già lasciato il paese. Sventolano la bandiera $FROMCOUNTRY_ADJ$ e osservano compiaciuti il fiumo alzarsi all'orizzonte. Londra è persa.;;;;;;;;;;;;;x
+EVTNAME152009875;Caduta del Palazzo di Westminster;;;;;;;;;;;;;x
+EVTDESC190419120;Vendiamo Fort Ross al cittadino messicano John Sutter?;;;;;;;;;;;;;x
+EVTNAME190419120;Acquistol di Fort Ross?;;;;;;;;;;;;;x
+EVTOPTA190419120;Accettiamo volentieri.;;;;;;;;;;;;;x
+EVTOPTB190419120;Ci rifiutiamo.;;;;;;;;;;;;;x
+EVTDESC190419121;$FROMCOUNTRY$ ha accettato di vendere l'avamposto commerciale di Fort Ross! Lunga vita a $COUNTRY$!;;;;;;;;;;;;;x
+EVTNAME190419121;$FROMCOUNTRY$ Accetta!;;;;;;;;;;;;;x
+EVTOPTA190419121;Eccellente.;;;;;;;;;;;;;x
+EVTDESC190419122;$MONARCHTITLE$, le negoziazioni riguardo Fort Ross si sono bloccate, e si sono rifiutati di venderci la colonia.;;;;;;;;;;;;;x
+EVTNAME190419122;$FROMCOUNTRY$ Rifiuta!;;;;;;;;;;;;;x
+EVTOPTA190419122;Hm, capisco.;;;;;;;;;;;;;x
+EVTDESC232000000;Vidi, circa quattro miglia sulla sinistra, una distesa d'acqua, che si confermò essere un fiume e la parte più meridionale di quello che gli Arabi chiamano Ukerewe. Convinto di aver finalmente trovato la sorgente del Nilo, discesi per una depressione erbosa in un corso d'acqua profondo, sporco, viscido, che comunicava con la fine meridionale del fiume, che chiamammo Giordano. Seguendo il fiume, che aumentava in ampiezza man mano che andava a nord, vedemmo molte piccole isole nell'Ukerewe, molto boscose, che si erigevano audaci dall'acqua. Il viaggio continuò per un altro tortuoso giorno finché non raggiungemmo il villaggio di Isamiro, dove la vista era più chiara e migliore. Nel orizzonte lontano cominciò ad apparire il mare, calmo, tra il nord e l'ovest. Anche in un paee famoso ciò avrebbe attratto l'attenzione grazie alla sua pacifica bellezza, pensai. Sentii di aver risolto l'antico grande enigma.;;;;;;;;;;;;;x
+EVTNAME232000000;Scoperta la Sorgente del Nilo?;;;;;;;;;;;;;x
+EVTOPTA232000000;Lo chiameremo…;;;;;;;;;;;;;x
+EVTOPTB232000000;Forse dovrebbe essere chiamato…;;;;;;;;;;;;;x
+EVTOPTC232000000;Il nostro $MONARCHTITLE$ sarebbe soddisfatto del nome…;;;;;;;;;;;;;x
+EVTOPTD232000000;Questo grande corpo d'acqua sarà noto come…;;;;;;;;;;;;;x
+EVTOPTE232000000;Ci serve un nome degno della sua bellezza…;;;;;;;;;;;;;x
+EVTDESC232000003;Uno dei nostri esploratori ha trovato un enorme specchio d'acqua in Africa e afferma che sia la vera sorgente del Nilo! Dopo alcuni accertamenti, pare che ciò che è stato trovato sia un enorme lago che potrebbe anche essere la sorgente del Nilo. Insiste che dovremmo chiamare questa scoperta Lago Vittoria.;;;;;;;;;;;;;x
+EVTOPTA232000003;Oh bene.;;;;;;;;;;;;;x
+EVTDESC370000002;Le fabbriche si espandono sempre più, ogni mattone più ripugnante del precedente, vuote, con finestre senza serrande, come colossali prigioni economiche… e dentro, illuminati da fiamme a gas e assordati dal frastuono della loro stessa fatica, faticano migliaia di lavoratori, rinchiusi, irregimentati, mani attivi, piedi immobili, tutto il giorno ed ogni giorno, servendo meccanicamente i loro macchinari…» \nIl duro lavoro svolto dai lavoratori della città ha oltraggiato molti, ed è stato formato un comitato per affrontare le aspre condizioni lavorative.;;;;;;;;;;;;;x
+EVTNAME370000002;Lunghi Turni Lavorativi;;;;;;;;;;;;;x
+EVTOPTA370000002;Dovremmo pensare di cambiare tutto questo.;;;;;;;;;;;;;x
+EVTOPTB370000002;Il duro lavoro è fondamento di una buona condotta morale.;;;;;;;;;;;;;x
