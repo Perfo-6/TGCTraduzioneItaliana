@@ -1809,7 +1809,7 @@ DCG_MONEY_MOD;Quantità di denaro ottenuta dall'IC è modificata di;La somme d'arg
 DCG_TOTAL_NEED;Abbiamo bisogno di un totale di §Y$PERC$%§W del nostro IC in beni di consumo.;Il nous faut un total de §Y$PERC$%§W de CI en biens de consommation.;;;;;;;;;;;;x
 December;Dicembre;Décembre;;;;;;;;;;;;x
 DECISIONOTHER_1;$ACTOR$;$ACTOR$;;;;;;;;;;;;x
-DECISIONOTHER_2;Hanno deciso di;Ils ont décidé de;In $COUNTRY$ ereignete sich kürzlich;;;;;;;;;;;x
+DECISIONOTHER_2;Ha preso la decisione;Ils ont décidé de;In $COUNTRY$ ereignete sich kürzlich;;;;;;;;;;;x
 DECISIONOTHER_3;$EVENT$!;$EVENT$ !;$EVENT$!;;;;;;;;;;;x
 DECISIONOTHER_4;$DESC$;$DESC$;$DESC$;;;;;;;;;;;x
 DECISIONOTHER_5;*;*;*;;;;;;;;;;;x
@@ -2967,7 +2967,7 @@ INFRA_LEVEL_HERE;Infrastrutture a §Y$VAL$%§W.;Infrastructure à §Y$VAL$%§W.;;;;;;
 infrastructure;Infrastrutture;Infrastructure;;;;;;;;;;;;x
 INFRASTRUCTURE_EFFECT;$DIRECTION$ $VALUE$ livello di ferrovie\n;$DIRECTION$ $VALUE$ niveau de chemin de fer\n;;;;;;;;;;;;x
 INHERIT;Eredita §Y$WHO$§W.\n;Héritage de §Y$WHO$§W.\n;;;;;;;;;;;;x
-INIT_MAP_LOGIC;Inizializzando Maplogic…;Initialisation Maplogic…;;;;;;;;;;;;x
+INIT_MAP_LOGIC;Inizializzazione Maplogic…;Initialisation Maplogic…;;;;;;;;;;;;x
 INITIAL_COLONIZE_DEFAULT_TIME;Se nessuno sfida la tua spedizione entro il §Y$DATE$§W puoi saltare direttamente alla creazione di un protettorato;;;;;;;;;;;;;x
 INPUT_LACKING;Non c'è abbastanza §Y$GOOD$§W sul mercato per soddisfare i bisogni d'entrata della fabbriche;Il n'y a pas assez de §Y$GOOD$§W sur le marché pour satisfaire les besoins en matières premières de l'usine.;;;;;;;;;;;;x
 INTEREST;Interesse;Intérêt;;;;;;;;;;;;x
@@ -3108,7 +3108,7 @@ IS_NOT_CULTURE;La cultura non è;La culture n'est pas;;;;;;;;;;;;x
 IS_NOT_CULTURE_GROUP;Il Gruppo Culturale non è;Le groupe de cultures n'est pas;;;;;;;;;;;;x
 IS_NOT_DISARMED;non è disarmato;n'est pas désarmé(e);;;;;;;;;;;;x
 IS_NOT_EMPTY; ha un proprietario; a un propriétaire;;;;;;;;;;;;x
-IS_NOT_GREAT_NATION;non è una Grande Potenza.\n;n'est pas une Grande Puissance.\n;;;;;;;;;;;;x
+IS_NOT_GREAT_NATION;Non è una Grande Potenza.\n;n'est pas une Grande Puissance.\n;;;;;;;;;;;;x
 IS_NOT_GUARANTEEING_TRIGGER;§Y$COUNTRY$§W non garantisce §Y$TARGET_COUNTRY$§W.\n;§Y$COUNTRY$§W ne protège pas §Y$TARGET_COUNTRY$§W.\n;;;;;;;;;;;;x
 IS_NOT_IN_A_SPHERE;Non in una sfera d'influenza.;;;;;;;;;;;;;x
 IS_NOT_IN_CRISIS;non è coinvolto in una crisi.;;;;;;;;;;;;;x
@@ -5835,7 +5835,7 @@ TOPBAR_MOBILIZE_TOOLTIP;Possiamo schierare §Y$CURR$§W reggimenti se mobilitiamo 
 TOPBAR_MOBILIZED;Abbiamo mobilitato tutte le truppe disponibili!;Nous avons mobilisé toutes nos troupes disponibles !;;;;;;;;;;;;x
 TOPBAR_OPEN_OUTLINER;Apri l'Outliner;Ouvrir l'aperçu;;;;;;;;;;;;x
 TOPBAR_PAUSE_INDICATOR;Il gioco è al momento in pausa.;La partie est actuellement mise en pause.;;;;;;;;;;;;x
-TOPBAR_POPULATION;La nostra popolazione adulta maschile al momento è di $CURR$. Our adult male population has changed by $CHANGE$ in the last §Y$DAYS$ days.;;;;;;;;;;;;;x
+TOPBAR_POPULATION;La nostra popolazione adulta maschile al momento è di $CURR$. La nostra popolazione adulta maschile è cambiata di $CHANGE$ negli ultimi §Y$DAYS$ giorni.;;;;;;;;;;;;;x
 TOPBAR_POPULATION_VISUAL;La nostra popolazione totale è di $CURR$.;Notre population totale s'élève à $CURR$.;;;;;;;;;;;;x
 TOPBAR_PROJECTED_INCOME;Ricavo giornaliero previsto: $VAL$¤;Projection du revenu quotidien : $VAL$¤;;;;;;;;;;;;x
 TOPBAR_RULING_PARTY;Il partito attualmente al governo è §Y$CURR$§W;Notre parti dirigeant actuel est §Y$CURR$§W.;;;;;;;;;;;;x

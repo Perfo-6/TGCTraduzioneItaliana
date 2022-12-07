@@ -1,5 +1,5 @@
 CODE;ENGLISH;FRENCH;GERMAN;POLISH;SPANISH;ITALIAN;SWEDISH;CZECH;HUNGARIAN;DUTCH;PORTUGUESE;RUSSIAN;FINNISH;x
-USA_1;Alyaska;;;;;;;;;;;;;x
+USA_1;Aljaska;;;;;;;;;;;;;x
 ENG_6;MacKenzie District;;;;;;;;;;;;;x
 ENG_9;North-Western Territories;;;;;;;;;;;;;x
 CAN_13;Columbia Department;;;;;;;;;;;;;x
@@ -207,7 +207,7 @@ WAL_665;Muntenia;;;;;;;;;;;;;x
 WAL_666;Oltenia;;;;;;;;;;;;;x
 MOL_673;Moldova;;;;;;;;;;;;;x
 TUR_674;Dobruca;;;;;;;;;;;;;x
-MOL_676;Bessarabiya;;;;;;;;;;;;;x
+MOL_676;Bessarabija;;;;;;;;;;;;;x
 PRU_682;Schlesien;;;;;;;;;;;;;x
 PRU_690;Westpreußen;;;;;;;;;;;;;x
 PRU_695;Ostpreußen;;;;;;;;;;;;;x
@@ -300,13 +300,13 @@ RUS_962;Chernigov;;;;;;;;;;;;;x
 RUS_964;Krym;;;;;;;;;;;;;x
 RUS_968;Kherson;;;;;;;;;;;;;x
 RUS_973;Tavrida;;;;;;;;;;;;;x
-RUS_974;Katerynoslavshchyna;;;;;;;;;;;;;x
+RUS_974;Katerynoslavšchyna;;;;;;;;;;;;;x
 RUS_977;Kursk;;;;;;;;;;;;;x
 RUS_978;Kharkov;;;;;;;;;;;;;x
 RUS_979;Oblast Voyska Donskogo;;;;;;;;;;;;;x
-RUS_980;Voronezh;;;;;;;;;;;;;x
-RUS_981;Arkhangelsk;;;;;;;;;;;;;x
-RUS_984;Kareliya;;;;;;;;;;;;;x
+RUS_980;Voronež;;;;;;;;;;;;;x
+RUS_981;Archangelsk;;;;;;;;;;;;;x
+RUS_984;Karelija;;;;;;;;;;;;;x
 RUS_990;Galich;;;;;;;;;;;;;x
 RUS_994;St. Peterburg;;;;;;;;;;;;;x
 RUS_998;Tver;;;;;;;;;;;;;x
@@ -320,17 +320,17 @@ RUS_1020;Kazan;;;;;;;;;;;;;x
 RUS_1023;Kostroma;;;;;;;;;;;;;x
 RUS_1025;Tambov;;;;;;;;;;;;;x
 RUS_1026;Perm;;;;;;;;;;;;;x
-RUS_1028;Vyatkha;;;;;;;;;;;;;x
+RUS_1028;Vjatcha;;;;;;;;;;;;;x
 RUS_1037;Saratov;;;;;;;;;;;;;x
-RUS_1041;Astrakhan;;;;;;;;;;;;;x
+RUS_1041;Astrachan;;;;;;;;;;;;;x
 RUS_1048;Kuban;;;;;;;;;;;;;x
 RUS_1052;Dagestan;;;;;;;;;;;;;x
-RUS_1060;Orenburzhye;;;;;;;;;;;;;x
+RUS_1060;Orenburže;;;;;;;;;;;;;x
 RUS_1064;Tobolsk;;;;;;;;;;;;;x
-RUS_1065;Yamalia;;;;;;;;;;;;;x
-RUS_1069;West Yakutsk;;;;;;;;;;;;;x
-RUS_1070;Yeniseysk;;;;;;;;;;;;;x
-RUS_1071;Yakutia;;;;;;;;;;;;;x
+RUS_1065;Jamalia;;;;;;;;;;;;;x
+RUS_1069;Jakuck Occidentale;;;;;;;;;;;;;x
+RUS_1070;Eniseysk;;;;;;;;;;;;;x
+RUS_1071;Jakutia;;;;;;;;;;;;;x
 RUS_1072;Hailanpao;;;;;;;;;;;;;x
 RUS_1074;Kamchatka;;;;;;;;;;;;;x
 RUS_1075;Irkutsk;;;;;;;;;;;;;x
@@ -720,12 +720,12 @@ SWI_2568;Svizzera Italiana;;;;;;;;;;;;;x
 MON_2582;Karadag;;;;;;;;;;;;;x
 RUS_2589;Nenetsia;;;;;;;;;;;;;x
 RUS_2590;Chukotka;;;;;;;;;;;;;x
-RUS_2615;Northern Yeniseysk;;;;;;;;;;;;;x
+RUS_2615;Eniseysk Settentrionale;;;;;;;;;;;;;x
 RUS_2618;Magadan;;;;;;;;;;;;;x
 RUS_2621;Kolyma;;;;;;;;;;;;;x
 DEN_2636;Grønland;;;;;;;;;;;;;x
-RUS_2653;Khanty-Mansi;;;;;;;;;;;;;x
-RUS_2668;North Yakutsk;;;;;;;;;;;;;x
+RUS_2653;Chanty-Mansi;;;;;;;;;;;;;x
+RUS_2668;Jakuck Settentrionale;;;;;;;;;;;;;x
 RUS_2685;Ural;;;;;;;;;;;;;x
 RUS_2694;Evenkiysk;;;;;;;;;;;;;x
 CHI_3315;South China Sea Islands;;;;;;;;;;;;;x
