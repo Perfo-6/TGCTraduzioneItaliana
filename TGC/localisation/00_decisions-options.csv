@@ -1,92 +1,92 @@
 CODE;ENGLISH;FRENCH;GERMAN;POLISH;SPANISH;ITALIAN;SWEDISH;CZECH;HUNGARIAN;DUTCH;PORTUGUESE;RUSSIAN;FINNISH;x
-1836_initial_setup_desc;A few changes that can only be made this way.;;;;;;;;;;;;;x
-1836_initial_setup_title;AI: 1836 Setup;;;;;;;;;;;;;x
-option_disable_anarcho_liberals_desc;This tweak will stop anarcho-liberal ideology from spawning. It may help performance a bit. Some people think they are too unrealistic for them, so they might want to disable it. I didn’t test any balance issues that might arise without them in the game though.;;;;;;;;;;;;;x
-option_disable_anarcho_liberals_title;Option: Disable Anarcho-Liberal Ideology;;;;;;;;;;;;;x
-option_disable_assimilation_events_desc;Disables the immigration into province events such as Ethnic Flavour or Intermarriage as they can become spammy and not everyone likes them.;;;;;;;;;;;;;x
-option_disable_assimilation_events_title;Option: Disable Immigrant Assimilation Events;;;;;;;;;;;;;x
-option_disable_bankruptcy_events_desc;Disabling the Bankruptcy events will stop you from getting the CB and effects that happen when a country goes bankrupt on you. It won’t stop the event for the AI nor will it stop countries going bankrupt.;;;;;;;;;;;;;x
-option_disable_bankruptcy_events_title;Option: Disable Bankruptcy Events;;;;;;;;;;;;;x
-option_disable_colonial_railroading_desc;Within TGC are a number of flavour events and decisions which help both the AI and the player to follow a historical colonisation path in Africa and Asia. You may prefer to play without these leading to more unpredictable colonisation.;;;;;;;;;;;;;x
-option_disable_colonial_railroading_title;Option: Disable Colonial Railroading;;;;;;;;;;;;;x
-option_disable_commiemod_desc;The Commie Mod content is a bit volatile and buggy at the moment so it is disabled by default, if you desperately want to try it out you can enable it here. Bug reports about it are still welcome please just don't complain how it broke your game.;;;;;;;;;;;;;x
-option_disable_commiemod_title;Option: Enable Commie Mod;;;;;;;;;;;;;x
-option_disable_easter_eggs_desc;Easter Egg events are flavor events that don't impact the game in any real way but serve to just be something interesting to see in specific circumstances.;;;;;;;;;;;;;x
-option_disable_easter_eggs_title;Option: Disable Easter Eggs;;;;;;;;;;;;;x
-option_disable_extra_flavour_desc;TGC has intergrated some ahistorical and wacky submods allowing players to take their nation down implausible alternative paths. You may prefer to play without these. (The AI will never take major ahistorical options regardless of this decision);;;;;;;;;;;;;x
-option_disable_extra_flavour_title;Option: Disable Extra Flavour;;;;;;;;;;;;;x
-option_disable_hpm_crisis_desc;In TGC, crises only start after 1870, when Revolution and Counter-revolution is researched and an event fires. This is to stop stuff like independent Ireland in 1840 because of the militancy that the famine generates, among other weird crises. Selecting this option will remove these restrictions and allow crises to happen from the start of the game, like it happens in vanilla Victoria 2.;;;;;;;;;;;;;x
-option_disable_hpm_crisis_title;Option: Enable Crisis From The Start;;;;;;;;;;;;;x
-option_disable_microstates_desc;Activate this if you do not want the microstates of Andorra, Liechtenstein, Monaco, San Marino, Couto Misto, Mt. Athos,and Neutral Moresnet in the game. It removes their cores and annexes them to the nearest country.;;;;;;;;;;;;;x
-option_disable_microstates_title;Option: Disable Microstates;;;;;;;;;;;;;x
-option_disable_options_desc;This will hide all optional tweaks to vanilla TGC. You still have until 1837 to change your mind though.;;;;;;;;;;;;;x
-option_disable_options_title;Hide ‘Options’ Decisions;;;;;;;;;;;;;x
-option_disable_starting_party_loyalty_desc;This option will remove all starting party loyalty.;;;;;;;;;;;;;x
-option_disable_starting_party_loyalty_title;Option: Remove Starting Party Loyalty;;;;;;;;;;;;;x
-option_disable_uk_isolation_desc;Historically the UK did not ally major european powers, and so in TGC the UK is forced to break alliances with any Great Powers who aren't Portugal, Belgium, Japan or the Ottomans. You may wish to turn this off.;;;;;;;;;;;;;x
-option_disable_uk_isolation_title;Option: Disable Splendid Isolation For The UK;;;;;;;;;;;;;x
-option_disable_unite_as_puppet_decisions_desc;This option will disable decisions which allow a Great Power to unite some of their spherelings into a culture union puppet (Italy, Iberia, Scandinavia, Yugoslavia, Romania, Arabia, Transcaucasia, Turkestan and the United Baltic Duchy) as some players consider these to be OP and prefer to play without them.;;;;;;;;;;;;;x
-option_disable_unite_as_puppet_decisions_title;Option: Disable 'Unite as Puppet' Decisions;;;;;;;;;;;;;x
-option_disable_leader_events_desc;Disable events for political leader modifiers.;;;;;;;;;;;;;x
-option_disable_leader_events_title;Option: Disable Leader Events;;;;;;;;;;;;;x
-option_disable_trade_policy_desc;Disable Choose Trade Policy decisions for all countries (as opposed to choosing disable in the event which only disables them for you).;;;;;;;;;;;;;x
-option_disable_trade_policy_title;Option: Disable Trade Policy decisions;;;;;;;;;;;;;x
-option_disable_workplace_events_desc;A few province events related to the workplace, such as ‘The Old Man and the Sea’, ‘All the Tea in PROVINCENAME’ and ‘Blood and Iron Mine’ can get quite spammy. I increased the MTTH and tried to balance it out, adding more requirements, but if you still find it spammy, you can use this option to completely disable them. Keep in mind that I didn’t test balance with these events disabled or anything like this, and this might help improve performance a little bit. A few events that only trigger because you have no or low workplace safety standards are still in though. Pass workplace reforms if you want to get rid of them.;;;;;;;;;;;;;x
-option_disable_workplace_events_title;Option: Disable Workplace Events;;;;;;;;;;;;;x
-option_disable_warship_commissions_desc;Disable the decisions to commission a warship from another country or take a warship commission from another country.;;;;;;;;;;;;;x
-option_disable_warship_commissions_title;Option: Disable Warship Commission decisions;;;;;;;;;;;;;x
-option_enable_lucky_nations_desc;Sometimes in this world, nations seem to be blessed by God in certain periods. Their leaders are brilliant, their people are hardy, they excel in warfare, produce amazing works of culture, and their economies boom. Do we live in such a world? If Lucky Nations are enabled ten random (non-great power) civilized nations and five random uncivilized nations will be given special powerful bonuses that will enable them to shake up the status quo.;;;;;;;;;;;;;x
-option_enable_lucky_nations_title;Option: Enable Lucky Nations;;;;;;;;;;;;;x
-option_enable_money_hoarder_desc;Money hoarder modifiers will trigger when a country has too much money in its stockpile and reduce its tax efficiency, forcing money back into the economy.;;;;;;;;;;;;;x
-option_enable_money_hoarder_title;Option: Enable Money Hoarder Modifiers;;;;;;;;;;;;;x
-option_enable_options_desc;This decision shows all optional decisions to tweak and change the game’s behaviour from vanilla TGC. This, along with all decisions it enables, will disappear January 1st 1837 to reduce clutter, so you have a year in-game to pick and choose what you want. Once a tweak is chosen, you can’t disable it anymore, so if you mis-click you need to edit your save or start a new game.;;;;;;;;;;;;;x
-option_enable_options_title;Show ‘Options’ Decisions;;;;;;;;;;;;;x
-option_enable_overrides_desc;This decision allows players to access override decisions which give them greater control of their country's borders and conscription by bypassing some vanilla mechanics.;;;;;;;;;;;;;x
-option_enable_overrides_title;Option: Enable Override Decisions;;;;;;;;;;;;;x
-option_enable_spectator_mode_desc;Disable ‘Winds of Westernization’ events for spectator games as an uncivilized nation.;;;;;;;;;;;;;x
-option_enable_spectator_mode_title;Option: Set Up Game In Spectator Mode;;;;;;;;;;;;;x
-option_enable_usa_gtfo_africa_desc;With this option, AI USA will get events to reduce its influence in Africa, as historically the USA was not interested in Africa beyond Liberia. This will not affect a player USA.;;;;;;;;;;;;;x
-option_enable_usa_gtfo_africa_title;Option: Disable USA influence in Africa;;;;;;;;;;;;;x
-option_minor_greater_power_desc;Bans the 7th and 8th Great-Power from influencing nations through diplomacy (although not through the use of CB's and other ways of earning influence). For people that like a game with less nations meddling with global affairs.;;;;;;;;;;;;;x
-option_minor_greater_power_title;Option: Enable Minor Great-Powers;;;;;;;;;;;;;x
-option_mobilisation_limiter_desc;Enable the optional mechanic that limits the situations where the AI can mobilize, stopping them from throwing their economy down the Grand Canyon for every little war.;;;;;;;;;;;;;x
-option_mobilisation_limiter_title;Option: Enable Mobilisation Limiter;;;;;;;;;;;;;x
-override_change_border_policy_desc;Our immigration laws and our policies towards the borders of our country are ours and ours alone to decide, and we think it might be time to revise a few rules.;;;;;;;;;;;;;x
-override_change_border_policy_title;Change our Border Policy;;;;;;;;;;;;;x
-override_close_change_border_policy_desc;We decided that our country is good as it is and there won’t be any changes in our immigration policies.;;;;;;;;;;;;;x
-override_close_change_border_policy_title;Hide the Border Policy Options;;;;;;;;;;;;;x
-override_disable_override_desc;This hides the overide decisions from view to reduce clutter.;;;;;;;;;;;;;x
-override_disable_override_title;Hide 'Override' Decisions;;;;;;;;;;;;;x
-override_enable_override_desc;This decision shows a number of player only decisions which allow you to force through certain law and RGO changes, as well as using province immigrators.;;;;;;;;;;;;;x
-override_enable_override_title;Show 'Override' Decisions;;;;;;;;;;;;;x
-override_infamy_for_growth_modifier_removal_desc;Cancel the current ongoing growth campaign.;;;;;;;;;;;;;x
-override_infamy_for_growth_modifier_removal_title;Stop the Ongoing Population Campaign;;;;;;;;;;;;;x
-override_infamy_for_growth_selector_desc;Start a campaign to trade infamy & tax-efficiency reduction in-exchange for more overall pop-growth.;;;;;;;;;;;;;x
-override_infamy_for_growth_selector_title;Commence a Population Growth Campaign;;;;;;;;;;;;;x
-override_policy_closed_border_desc;A closed border is a border that prevents movement of people between different jurisdictions with limited or no exceptions associated with this movement. These borders normally have fences or walls in which any gates or border crossings are closed and if these border gates are opened, they generally only allow movement of people in exceptional circumstances. In case of emigration as well as immigrations, departing ships are inspected for illegal emigrants. These controls and checks come at the cost of an increased demand from the State’s bureaucracy.;;;;;;;;;;;;;x
-override_policy_closed_border_title;Close the Borders;;;;;;;;;;;;;x
-override_policy_immigration_quota_desc;A conditionally open border is a border that allows movement of people across the border that meet a special set of conditions. This special set of conditions which limits the application of border controls that would normally otherwise apply could be defined by an international agreement or international law, or the special conditions could be defined by a regulation or law of the jurisdiction that the people are claiming the right to enter. Conditionally open borders generally requires a claim to be submitted from the people who are proposing to enter the new jurisdiction stating why they meet the special conditions which allow entry into the new jurisdiction. In the case of our country, quotas mean that no foreigners that fail a literacy test in their own language or are nationals of countries that were or are at war with our nation are allowed. These controls and checks come at the cost of an increased demand from the State’s bureaucracy.;;;;;;;;;;;;;x
-override_policy_immigration_quota_title;Implement Immigration Quotas;;;;;;;;;;;;;x
-override_policy_open_borders_desc;An open border is a border that enables free movement of people between different jurisdictions with limited or no restrictions on movement. A border may be an open border due to intentional legislation allowing free movement of people across the border, or a border may be an open border due to lack of adequate enforcement or adequate supervision of the border. One of the advantages of such a policy is that it requires little to none effort from the State’s bureaucracy to keep control over immigrants.;;;;;;;;;;;;;x
-override_policy_open_borders_title;Abolish Immigration Restrictions;;;;;;;;;;;;;x
-override_rgo_change_farming_desc;This decision converts 1 province to a farming RGO of your choosing. The options are Wool, Timber, Cotton, Cattle, Fish, Fruit and Grain. For whichever you select, one province currently producing one of the other resources will be converted. This can be done once every 12.5 years.;;;;;;;;;;;;;x
-override_rgo_change_farming_title;Change Farming RGO;;;;;;;;;;;;;x
-override_rgo_change_mining_desc;This decision converts 1 province to a mining RGO of your choosing. The options are Coal, Iron and Sulphur. For whichever you select, one province currently producing one of the other resources will be converted. This can be done once every 25 years.;;;;;;;;;;;;;x
-override_rgo_change_mining_title;Change Mining RGO;;;;;;;;;;;;;x
-setup_claim_host_desc;There is currently no Host set. The Host is the only player who can select gameplay options at the game start.;;;;;;;;;;;;;x
-setup_claim_host_title;Claim the role of Host;;;;;;;;;;;;;x
-setup_renounce_host_desc;You are currently the Host. If you renounce this role another player can claim this role and select gameplay options.;;;;;;;;;;;;;x
-setup_renounce_host_title;Renounce the role of Host;;;;;;;;;;;;;x
-utility_disable_utility_desc;This will hide the utility decisions.;;;;;;;;;;;;;x
-utility_disable_utility_title;Hide 'Utility' Decisions;;;;;;;;;;;;;x
-utility_enable_utility_desc; The decision shows a mix of tools and decisions to facilitate small changes and fixes during gameplay.;;;;;;;;;;;;;x
-utility_enable_utility_title;Show 'Utility' Decisions;;;;;;;;;;;;;x
-utility_popreduction_decisions_disable_desc;The 'Global Pop Reduction' decisions will disappear from this game session and won’t reappear again. You won’t be able to use these decisions again for this game.;;;;;;;;;;;;;x
-utility_popreduction_decisions_disable_title;Disable 'Global Pop Reduction' decisions;;;;;;;;;;;;;x
-utility_popreduction_decisions_hide_desc;Your decision list will now be uncluttered.;;;;;;;;;;;;;x
-utility_popreduction_decisions_hide_title;Hide 'Global Pop Reduction' decisions;;;;;;;;;;;;;x
-utility_popreduction_decisions_show_desc;The 'Global Pop Reduction' decisions will reduce all the pops in the world by a specific factor. This can help increase performance on low-end machines but can also cause unpredictable issues with mechanics that depend on specific pop size thresholds. Use at your own risk.;;;;;;;;;;;;;x
-utility_popreduction_decisions_show_title;Show 'Global Pop Reduction' decisions;;;;;;;;;;;;;x
+1836_initial_setup_desc;Pochi cambiamenti che possono essere fatti solo in questo modo.;;;;;;;;;;;;;x
+1836_initial_setup_title;IA: Disposizione del 1836;;;;;;;;;;;;;x
+option_disable_anarcho_liberals_desc;Questo aggiustamento impedirà la creazione dell'ideologia anarco-liberale. Potrebbe aumentare un po' la velocità. Alcuni pensano siano troppo irrealistici per loro, quindi potrebbero voler disattivarli. Però non ho verificato se possono accadere dei problemi di bilanciamento senza di loro nel gioco.;;;;;;;;;;;;;x
+option_disable_anarcho_liberals_title;Opzione: Disattiva l'Ideologia Anarco-Liberale;;;;;;;;;;;;;x
+option_disable_assimilation_events_desc;Disattiva gli eventi di immigrazione nelle province come "Sapore Etnico" o "Matrimonio Misto" in quanto possono diventare fastidiosamente frequenti e non a tutti piacciono.;;;;;;;;;;;;;x
+option_disable_assimilation_events_title;Opzione: Disattiva gli Eventi di Assimilazione degli Immigrati;;;;;;;;;;;;;x
+option_disable_bankruptcy_events_desc;Disattivare gli eventi di bancarotta ti impedirà di ottenere il CB e gli effetti che avvengono quando un paese va in bancarotta nei tuoi confronti. Non impedirà l'evento per l'IA e non impedirà ai paesi di andare in bancarotta.;;;;;;;;;;;;;x
+option_disable_bankruptcy_events_title;Opzione: Disattiva gli Eventi di Bancarotta;;;;;;;;;;;;;x
+option_disable_colonial_railroading_desc;In TGC ci sono molti eventi e decisioni che aiutano sia l'IA sia il giocatore a seguire un percorso storico di colonizzazione in Africa ed in Asia. Potresti preferire di giocare senza di essi per portare ad una colonizzazione più imprevedibile.;;;;;;;;;;;;;x
+option_disable_colonial_railroading_title;Opzione: Disattiva la Forzatura della Colonizzazione;;;;;;;;;;;;;x
+option_disable_commiemod_desc;Il contenuto della "Commie Mod" è un po' instabile e pieno di bug al momento quindi è disattivato di base, se vuoi disperatamente provarlo puoi attivarlo qui. Sono molto benviste le segnalazioni di bug ma, perfavore, non lamentarti di come abbia rovinato la tua partita.;;;;;;;;;;;;;x
+option_disable_commiemod_title;Opzione: Attiva la Commie Mod;;;;;;;;;;;;;x
+option_disable_easter_eggs_desc;Gli "Easter Egg" sono eventi che non hanno impatto sul gioco in nessun modo ma servono soltanto per essere qualcosa di interessante da vedere in circostanze specifiche.;;;;;;;;;;;;;x
+option_disable_easter_eggs_title;Opzione: Disattiva gli Easter Egg;;;;;;;;;;;;;x
+option_disable_extra_flavour_desc;TGC ha integrato alcune submod antistoriche e strambe che permettono ai giocatori di portare la loro nazione per strade alternative non plausibile. Potresti preferire giocare senza di queste. (L'IA non prenderà mai delle importanti opzioni antistoriche indipendentemente da questa decisione);;;;;;;;;;;;;x
+option_disable_extra_flavour_title;Opzione: Disattiva il Contenuto Extra;;;;;;;;;;;;;x
+option_disable_hpm_crisis_desc;In TGC le crisi cominciano soltanto dopo il 1870, quando viene ricercata "Rivoluzione e Controrivoluzione" e con un evento. Questo è per impedire cose come l'Irlanda indipendente nel 1840 a causa della militanza che causa la carestia, tra le altre strane crisi. Selezionare questa opzione rimuoverà queste restrizioni e permetterà che le crisi avvengano liberamente dall'inizio del gioco, come avviene in Victoria 2 senza mod.;;;;;;;;;;;;;x
+option_disable_hpm_crisis_title;Opzione: Attiva le Crisi dall'Inizio;;;;;;;;;;;;;x
+option_disable_microstates_desc;Attiva questa se non vuoi i microstati di Andorra, Liechtenstein, Monaco, San Marino, Couto Misto, Monte Athos e Moresnet Neutrale nel gioco. Rimuove le loro province chiave e li annette al paese più vicino.;;;;;;;;;;;;;x
+option_disable_microstates_title;Opzione: Disattiva i Microstati;;;;;;;;;;;;;x
+option_disable_options_desc;Questo nasconderà tutti i cambiamenti opzionali rispetto a TGC base. Hai ancora fino al 1837 per cambiare idea, però.;;;;;;;;;;;;;x
+option_disable_options_title;Nascondi le Decisioni "Opzioni";;;;;;;;;;;;;x
+option_disable_starting_party_loyalty_desc;Questa opzione rimuoverà tutta la lealtà iniziale dei partiti.;;;;;;;;;;;;;x
+option_disable_starting_party_loyalty_title;Opzione: Rimuovi la Lealtà Iniziale dei Partiti;;;;;;;;;;;;;x
+option_disable_uk_isolation_desc;Storicamente il Regno Unito non si alleò con importanti potenze europee e così in TGC è costretto a rompere le alleanze con ogni Grande Potenza che non sono il Portogallo, il Belgio, il Giappone e gli Ottomani. Potresti desiderare di disattivare ciò.;;;;;;;;;;;;;x
+option_disable_uk_isolation_title;Opzione: Disattiva l'Isolazione Splendida per il Regno Unito;;;;;;;;;;;;;x
+option_disable_unite_as_puppet_decisions_desc;Questa opzione disattiverà le decisioni che permettono ad una Grande Potenza di unire alcuni dei paesi nella propria sfera in un fantoccio unione culturale (Italia, Iberia, Scandinavia, Jugoslavia, Romania, Arabia, Transcaucasia, Turkestan ed il Ducato Baltico Unito) perché alcuni giocatori le considerano sbilanciate e preferiscono giocare senza.;;;;;;;;;;;;;x
+option_disable_unite_as_puppet_decisions_title;Opzione: Disattiva le Decisioni "Unisci in un Fantoccio";;;;;;;;;;;;;x
+option_disable_leader_events_desc;Disattiva gli eventi per i modificatori "leader politico".;;;;;;;;;;;;;x
+option_disable_leader_events_title;Opzione: Disattiva gli Eventi dei Leader;;;;;;;;;;;;;x
+option_disable_trade_policy_desc;Disattiva le decisioni "Scegli una Politica Commerciale" per tutti i paesi (mentre scegliere di disattivarla nell'evento stesso ha effetto solo per te).;;;;;;;;;;;;;x
+option_disable_trade_policy_title;Opzione: Disattiva le Decisioni della Politica Commerciale;;;;;;;;;;;;;x
+option_disable_workplace_events_desc;Pochi eventi provinciali collegati al posto di lavoro, come "Anziano e Mare", "Tutto il Tè a PROVINCENAME" e "Miniera di Ferro e Sangue" possono diventare abbastanza frequenti. Ho aumentato il MTTH e provato a bilanciarli, aggiungengo più requisiti, ma se lo trovi ancora fastidioso puoi usare questa opzione per disattivarli completamente. Ricorda che non ho verificato come funziona il gioco senza di essi e questo potrebbe aumentare un pochino la velocità. Pochi eventi che innescano soltanto poiché hai pochi o nessuno standard di sicurezza sono ancora attivi, però. Passa delle riforme se vuoi sbarazzartene.;;;;;;;;;;;;;x
+option_disable_workplace_events_title;Opzione: Disattiva gli Eventi del Posto di Lavoro;;;;;;;;;;;;;x
+option_disable_warship_commissions_desc;Disattiva le decisioni per commissionare una nave da guerra ad un altro paese o per prendere una commissione di una nave da guerra da un altro paese.;;;;;;;;;;;;;x
+option_disable_warship_commissions_title;Opzione: Disattiva le Decisioni di Commissione di Navi da Guerra;;;;;;;;;;;;;x
+option_enable_lucky_nations_desc;Alcune volte, in questo mondo, sembra che delle nazioni siano benedette da Dio in certi periodi. I loro leader sono brillanti, il loro popolo è temprato, si distinguono in guerra, producono meravigliose opere culturali e la loro economia prospera. Viviamo in un mondo simile? Se le Nazioni Fortunate sono attivate a dieci nazioni civilizzate (non Grandi Potenze) a caso e a cinque nazioni non civilizzate a caso saranno dati potenti bonus che permetteranno di dissestare lo status quo.;;;;;;;;;;;;;x
+option_enable_lucky_nations_title;Opzione: Attiva le Nazioni Fortunate;;;;;;;;;;;;;x
+option_enable_money_hoarder_desc;I modificatori da accumulatore di denaro si attiveranno quando un paese ha troppo denaro nel suo deposito e riducono la sua efficienza fiscale, facendo tornare il denaro nell'economia.;;;;;;;;;;;;;x
+option_enable_money_hoarder_title;Opzione: Attiva i Modificatori dell'Accumulatore di Denaro;;;;;;;;;;;;;x
+option_enable_options_desc;Questa decisione mostra tutte le decisioni opzionali per cambiare e modificare il comportamento del gioco rispetto a TGC base. Questo, inseme alle decisioni che attiva, scomparirà il 1º Gennaio 1837 per ridurre la confusione, così che tu abbia un anno della partita per selezionare quello che vuoi. Una volta che un cambiamento è selezionato, non puoi più disattivarlo, quindi se clicchi per sbaglio su una di esse dovrai modificare il tuo salvataggio o cominciare una nuova partita.;;;;;;;;;;;;;x
+option_enable_options_title;Mostra le Decisioni "Opzioni";;;;;;;;;;;;;x
+option_enable_overrides_desc;Questa decisione permette ai giocatori di accedere alle decisioni di override che danno loro un controllo maggiore dei confini del loro paese e della coscrizione superando alcune meccaniche di base.;;;;;;;;;;;;;x
+option_enable_overrides_title;Opzione: Attiva le Decisioni di Override;;;;;;;;;;;;;x
+option_enable_spectator_mode_desc;Disattiva gli eventi "Venti di Occidentalizzazione" per partite da spettatore come nazione non civilizzata.;;;;;;;;;;;;;x
+option_enable_spectator_mode_title;Opzione: Imposta la Partita in Modalità Spettatore;;;;;;;;;;;;;x
+option_enable_usa_gtfo_africa_desc;Con questa opzione l'IA degli Stati Uniti ha degli eventi per ridurre la sua influenza in Africa, poiché storicamente essi non erano interessati nell'Africa oltre alla Liberia. Questo non avrà effetto su Stati Uniti controllati dal giocatore.;;;;;;;;;;;;;x
+option_enable_usa_gtfo_africa_title;Opzione: Disattiva l'Influenza Statunitense in Africa;;;;;;;;;;;;;x
+option_minor_greater_power_desc;Impedisci la 7ª e l'8ª Grande Potenza dall'influenzare le nazione con la diplomazia (anche se non con l'uso di CB ed altri modi di ottenere influenza). Per chi apprezza una partita con meno nazioni che si immischiano negli affari globali.;;;;;;;;;;;;;x
+option_minor_greater_power_title;Opzione: Attiva le Grandi Potenze Minori;;;;;;;;;;;;;x
+option_mobilisation_limiter_desc;Attiva la meccanica opzionale che limita le situazione in cui l'IA può mobilitare, impedendo che mandino l'economia a quel paese per ogni singola minuscola guerra.;;;;;;;;;;;;;x
+option_mobilisation_limiter_title;Opzione: Attiva il Limitatore alla Mobilitazione;;;;;;;;;;;;;x
+override_change_border_policy_desc;Le nostre leggi sull'immigrazione e le nostre politiche riguardo i confini del nostro paese sono le nostre e le decideremo noi e solo noi e pensiamo potrebbe essere il momento di rivedere qualche regole.;;;;;;;;;;;;;x
+override_change_border_policy_title;Cambia la Nostra Politica sui Confini;;;;;;;;;;;;;x
+override_close_change_border_policy_desc;Abbiamo deciso che il nostro paese va bene così com'è e non ci saranno dei cambiamenti nelle nostre politiche sull'immigrazione.;;;;;;;;;;;;;x
+override_close_change_border_policy_title;Nascondi le Opzioni di Politica sull'Immigrazione;;;;;;;;;;;;;x
+override_disable_override_desc;Questo nasconde le decisioni di override dalla finestra per ridure il caos.;;;;;;;;;;;;;x
+override_disable_override_title;Nascondi le Decisioni "Override";;;;;;;;;;;;;x
+override_enable_override_desc;Questa decisione mostra alcune decisione esclusive per il giocatore che ti permettono di superare certe leggi e cambiare degli ORR, ed anche utilizzare gli immigratori di provincia.;;;;;;;;;;;;;x
+override_enable_override_title;Mostra le Decisioni "Override";;;;;;;;;;;;;x
+override_infamy_for_growth_modifier_removal_desc;Cancella l'attuale campagna di crescita in corso.;;;;;;;;;;;;;x
+override_infamy_for_growth_modifier_removal_title;Ferma la Campagna di Crescita della Popolazione in Corso;;;;;;;;;;;;;x
+override_infamy_for_growth_selector_desc;Inizia una campagna per scambiare una riduzione dell'infamia e dell'efficienza fiscale in cambio di una crescità dei POP maggiore.;;;;;;;;;;;;;x
+override_infamy_for_growth_selector_title;Comincia una Campagna di Crescita della Popolazione;;;;;;;;;;;;;x
+override_policy_closed_border_desc;Un confine chiuso è un confine che previene lo spostamento di persone tra giurisdizioni differenti con poche o nessun'eccezione associata a questo spostamento. Questi confini di solito hanno steccati o muri in cui qualsiasi passaggio o attraversamento dei confini è chiuso e se questi passaggi vengono aperti, permettono soltanto lo spostamento di persone in circostanze eccezionali. In caso di emigrazione, oltre che di immigrazione, le navi in partenza sono ispezionate alla ricerca di emigranti illegali. Questi controlli hanno come costo una domanda crescente dalla burocrazia statale.;;;;;;;;;;;;;x
+override_policy_closed_border_title;Chiudi i Confini;;;;;;;;;;;;;x
+override_policy_immigration_quota_desc;Un confine aperto a certe condizioni è un confine che permette lo spostamento tra il confine di persone che rispettano alcune speciali condizioni. Queste speciali condizioni che limitano l'applicazione di controlli al confine che altrimenti si applicherebbero normalmente potrebbero essere definiti da un accordo internazionale o dalla legge internazionale, o le condizioni speciali potrebbero essere definite da un regolamento o da una legge della giurisdizione del paese in cui le persone stanno rivendicando il diritto di entrare. Dei confini aperti a certe condizioni generalmente richiedono di inviare una richiesta da chi sta proponendo di entrare nella nuova giurisdizione, in cui si afferma perché riscontrino le condizioni speciali che permettono l'ingresso nella nuova giurisdizione. Nel caso del nostro paese, le quote vogliono dire che non sono permessi stranieri analfabeti o che provengono da paesi in guerra o che erano in guerra. Questi controlli hanno come costo una domanda crescente dalla burocrazia statale.;;;;;;;;;;;;;x
+override_policy_immigration_quota_title;Implementa delle Quota d'Immigrazione;;;;;;;;;;;;;x
+override_policy_open_borders_desc;Un confine aperto è un confine che permette il libero spostamento delle persone tra giurisdizioni diverse con poche e nessuna restrizione sul movimento. Un confine potrebbe essere un confine aperto a causa di legislazione intenzionale che permette il libero spostamento delle persone in esso, o un confine potrebbe essere un confine aperto a causa della mancanza di supervisione adeguata di esso. Uno dei vantaggi di tale politica è che richiede poco o nessun lavoro da parte della burocrazia statale per mantenere il controllo sugli immigrati.;;;;;;;;;;;;;x
+override_policy_open_borders_title;Abolisci le Restrizioni sull'Immigrazione;;;;;;;;;;;;;x
+override_rgo_change_farming_desc;Questa decisione converte 1 provincia ad un'ORR agricola a tua scelta. Le opzioni sono Lana, Legno, Cotone, Bestiame, Pesce, Frutta e Grano. Qualunque tu scelga, una provinca che attualmente produce una delle altre risorse sarà convertita. Questo può essere fatto una volta ogni 12 anni e mezzo.;;;;;;;;;;;;;x
+override_rgo_change_farming_title;Cambia un'ORR Agricola;;;;;;;;;;;;;x
+override_rgo_change_mining_desc;Questa decisione converte 1 provincia ad un'ORR mineraria a tua scelta. Le opzioni sono Carbone, Ferro e Zolfo. Qualunque tu scelga, una provincia che attualmente produce una delle altre risorse sarà convertita. Questo può essere fatto una volta ogni 25 anni.;;;;;;;;;;;;;x
+override_rgo_change_mining_title;Cambia un'ORR Mineraria;;;;;;;;;;;;;x
+setup_claim_host_desc;Attualmente non c'è nessun Host impostato. L'Host è l'unico giocatore che può scegliere le opzioni di gioco all'inizio della partita.;;;;;;;;;;;;;x
+setup_claim_host_title;Rivendica il Ruolo di Host;;;;;;;;;;;;;x
+setup_renounce_host_desc;Attualmente sei l'Host. Se rinunci a questo ruolo un altro giocatore può rivendicarlo e scegliere le opzioni di gioco.;;;;;;;;;;;;;x
+setup_renounce_host_title;Rinuncia al Ruolo di Host;;;;;;;;;;;;;x
+utility_disable_utility_desc;Questo nasconderà le decisioni di utilità.;;;;;;;;;;;;;x
+utility_disable_utility_title;Nascondi le Decisioni "Utilità";;;;;;;;;;;;;x
+utility_enable_utility_desc;La decisione mostra un insieme di strumenti e decisioni per facilitare piccoli cambiamenti ed aggiustamenti durante la partita.;;;;;;;;;;;;;x
+utility_enable_utility_title;Mostra le Decisioni "Utilità";;;;;;;;;;;;;x
+utility_popreduction_decisions_disable_desc;Le decisioni "Riduzione Globale dei POP" spariranno da questa partita e non riappariranno più. Non sarai più in grado di usare queste decisioni di nuovo per questa partita.;;;;;;;;;;;;;x
+utility_popreduction_decisions_disable_title;Disattiva le Decisioni "Riduzione Globale dei POP";;;;;;;;;;;;;x
+utility_popreduction_decisions_hide_desc;La tua lista delle decisioni sarà ora riordinata.;;;;;;;;;;;;;x
+utility_popreduction_decisions_hide_title;Nascondi le Decisioni "Riduzione Globale dei POP";;;;;;;;;;;;;x
+utility_popreduction_decisions_show_desc;Le decisioni "Riduzione Globale dei POP" ridurranno tutti i POP del mondo per un fattore specifico. Questo può aiutarci ad aumentare la velocità sulle macchine più scarse ma può anche causare problemi imprevedibili con delle meccaniche che dipendono su limiti specifici alla dimensione dei POP. Usale a tuo rischio e pericolo.;;;;;;;;;;;;;x
+utility_popreduction_decisions_show_title;Mostra le Decisioni "Riduzione Globale dei POP";;;;;;;;;;;;;x
 utility_release_vassal_desc;The ‘Release Vassal’ Menu will open allowing you to choose what nation to revoke the vassalage of.;;;;;;;;;;;;;x
 utility_release_vassal_title;Open ‘Release Vassal’ Menu;;;;;;;;;;;;;x
 utility_return_cores_desc;The ‘Return Cores’ Menu will open allowing you to choose what nation to return cores to.;;;;;;;;;;;;;x
