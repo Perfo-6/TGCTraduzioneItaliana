@@ -87,25 +87,25 @@ utility_popreduction_decisions_hide_desc;La tua lista delle decisioni sarà ora r
 utility_popreduction_decisions_hide_title;Nascondi le Decisioni "Riduzione Globale dei POP";;;;;;;;;;;;;x
 utility_popreduction_decisions_show_desc;Le decisioni "Riduzione Globale dei POP" ridurranno tutti i POP del mondo per un fattore specifico. Questo può aiutarci ad aumentare la velocità sulle macchine più scarse ma può anche causare problemi imprevedibili con delle meccaniche che dipendono su limiti specifici alla dimensione dei POP. Usale a tuo rischio e pericolo.;;;;;;;;;;;;;x
 utility_popreduction_decisions_show_title;Mostra le Decisioni "Riduzione Globale dei POP";;;;;;;;;;;;;x
-utility_release_vassal_desc;The ‘Release Vassal’ Menu will open allowing you to choose what nation to revoke the vassalage of.;;;;;;;;;;;;;x
-utility_release_vassal_title;Open ‘Release Vassal’ Menu;;;;;;;;;;;;;x
-utility_return_cores_desc;The ‘Return Cores’ Menu will open allowing you to choose what nation to return cores to.;;;;;;;;;;;;;x
-utility_return_cores_title;Open 'Return Cores' Menu;;;;;;;;;;;;;x
-utility_tech_school_close_desc;We are still not decided on the direction our nation research should take.;;;;;;;;;;;;;x
-utility_tech_school_close_title;Hide 'Choose A Tech School' decisions;;;;;;;;;;;;;x
-utility_tech_school_open_desc;If we are to advance as a nation, we need to pick a direction for our research.;;;;;;;;;;;;;x
-utility_tech_school_open_title;Choose A Tech School;;;;;;;;;;;;;x
-utility_turn_off_vassal_payments_desc;Our coffers are full enough and members of the cabinet have put forward the proposal of exempting our vassals, not the substates, from contributing to $COUNTRY$’s treasury. This tax break would boost our relations with them in the short term, but wouldn’t benefit our finances in any way.;;;;;;;;;;;;;x
-utility_turn_off_vassal_payments_title;Exempt Vassals from Contributing to our Treasury;;;;;;;;;;;;;x
-utility_turn_on_vassal_payments_desc;The earlier tax break offered to vassals has run its course. We need that every vassal of $COUNTRY$ to do their part and contribute to the maintenance of $COUNTRY_ADJ$ glory.;;;;;;;;;;;;;x
-utility_turn_on_vassal_payments_title;Oblige Vassals to Contribute to our Treasury;;;;;;;;;;;;;x
-utility_wants_a_general_desc;This will allow us to give grants to other players. It must be activated before a player chooses to request grants. It can be reversed at any time.;;;;;;;;;;;;;x
-utility_wants_a_general_title;Gain A Standard General;;;;;;;;;;;;;x
-utility_will_give_desc;To reduce the impact of RNG on multiplayer this decision allows any player to gain a single +2 attack general at any time.;;;;;;;;;;;;;x
-utility_will_give_title;Enable Giving Grants;;;;;;;;;;;;;x
-utility_will_not_give_desc;This will prevent us from getting events when other players request grants. It can be reversed at any time.;;;;;;;;;;;;;x
-utility_will_not_give_title;Disable Giving Grants;;;;;;;;;;;;;x
-utility_will_not_receive_desc;This will mean we no longer will receive grants from other players.;;;;;;;;;;;;;x
-utility_will_not_receive_title;No More Grants!;;;;;;;;;;;;;x
-utility_will_receive_desc;This will request a grant from other players. Please note they must have chosen the decision to enable giving grants for the request to go through. It can be reversed at any time.;;;;;;;;;;;;;x
-utility_will_receive_title;Request A Grant;;;;;;;;;;;;;x
+utility_release_vassal_desc;Si aprirà il Menù "Libera Vassallo" che ti permette di scegliere di quale nazione revocare il vassallaggio.;;;;;;;;;;;;;x
+utility_release_vassal_title;Apri il Menù "Libera Vassallo";;;;;;;;;;;;;x
+utility_return_cores_desc;Si aprirà il Menù "Restituisci Province Chiave" che ti permette di scegliere a quale nazione restituire le province chiave.;;;;;;;;;;;;;x
+utility_return_cores_title;Apri il Menù "Restituisci Province Chiave";;;;;;;;;;;;;x
+utility_tech_school_close_desc;Non abbiamo ancora deciso la direzione che la nostra ricerca nazionale dovrebbe prendere.;;;;;;;;;;;;;x
+utility_tech_school_close_title;Nascondi le decisioni "Scegli un'Accademia";;;;;;;;;;;;;x
+utility_tech_school_open_desc;Se vogliamo avanzare come nazione, dobbiamo scegliere una direzione per la nostra ricerca.;;;;;;;;;;;;;x
+utility_tech_school_open_title;Scegli un'Accademia;;;;;;;;;;;;;x
+utility_turn_off_vassal_payments_desc;Le nostre casse sono abbastanza piene ed i membri del gabinetto hanno proposto di esonerare i nostri vassalli, non i sottostati, dal contribuire alla tesoreria del nostro paese. Questa interruzione delle tasse aumenterebbe le nostre relazioni con loro sul breve termine, ma le nostre finanze non ne beneficerebbero in nessun modo.;;;;;;;;;;;;;x
+utility_turn_off_vassal_payments_title;Esonera i Vassalli dal Contribuire alla Nostra Tesoreria;;;;;;;;;;;;;x
+utility_turn_on_vassal_payments_desc;La precedente interruzione delle tasse offerta ai vassalli si è conclusa. È necessario che ogni vassallo del nostro paese faccia la sua parte e contribuisca al mantenimento della nostra gloria.;;;;;;;;;;;;;x
+utility_turn_on_vassal_payments_title;Costringi i Vassalli a Contribuire alla Nostra Tesoreria;;;;;;;;;;;;;x
+utility_wants_a_general_desc;Questo ci permetterà di dare donazioni agli altri giocatori. Deve essere attivato prima che una giocatore scelga di richiedere donazioni. Può essere annullato ad ogni momento.;;;;;;;;;;;;;x
+utility_wants_a_general_title;Ottieni un Generale Standard;;;;;;;;;;;;;x
+utility_will_give_desc;Per ridurre l'impatto del caso nel multigiocatore questa decisione permette ad ogni giocatore di ottenere un solo generale con +2 attacco ad ogni momento.;;;;;;;;;;;;;x
+utility_will_give_title;Attiva le Donazioni;;;;;;;;;;;;;x
+utility_will_not_give_desc;Questo ci impedirà di avere degli eventi quando gli altri giocatori richiedono delle donazioni. Può essere annullato ad ogni momento.;;;;;;;;;;;;;x
+utility_will_not_give_title;Disattiva le Donazioni;;;;;;;;;;;;;x
+utility_will_not_receive_desc;Questo significa che non riceveremo più donazioni da altri giocatori.;;;;;;;;;;;;;x
+utility_will_not_receive_title;Basta Donazioni!;;;;;;;;;;;;;x
+utility_will_receive_desc;Questo richiederà una donazioni agli altri giocatori. Perfavore ricorda che devono aver scelto la decisione per attivare le donazioni affinché la domanda arrivi. Può essere annullato ad ogni momento.;;;;;;;;;;;;;x
+utility_will_receive_title;Richiedi una Donazione;;;;;;;;;;;;;x
