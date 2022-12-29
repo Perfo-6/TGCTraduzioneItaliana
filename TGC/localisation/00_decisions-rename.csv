@@ -73,33 +73,33 @@ rename_texas_usa_desc;Ora che il Texas è tornato sotto il nostro controllo legit
 rename_texas_usa_title;Ribattezza il Texas;;;;;;;;;;;;;x
 rename_the_congo_desc;Dopo che lo Stato Libero del Congo è stato confermato come La Proprietà Personale del Re Leopoldo II, non è soltanto giusto e ragionevole esplorare ora la regione e, forse, lasciare una piccola impronta personale?;L’Etat Libre du Congo ayant été confirmé comme étant la propriété privée du roi Léopold II, il semble juste et naturel que nous explorions la région, et peut-être y laisser notre marque?;Nachdem der Kongo-Freistaat als persönliches Eigentum von König Leopold II. bestätigt wurde, ist es nur vernünftig und gerecht, dass wir die Region nun erforschen … und ihr vielleicht ein bisschen unseren Stempel aufdrücken.;;;;;;;;;;;x
 rename_the_congo_title;Esplora il Congo!;Explorer le Congo!;Kongo erforschen!;;;;;;;;;;;x
-rename_the_falklands_argentina_desc;Now that we hold what the English used to call ‘Falklands’, it’s time to rename it to something more in line with its rightful owners. Let the Falklands Islands from now on be known as ‘Islas Malvinas’.;;;;;;;;;;;;;x
-rename_the_falklands_argentina_title;The Malvinas Renaming Act;;;;;;;;;;;;;x
-rename_the_falklands_england_desc;Now that we recaptured what the Argentinians call ‘Malvinas’, it’s time to rename it to something more in line with its rightful owners. Let the Malvinas Islands from now on be known as ‘Falkland Islands’.;;;;;;;;;;;;;x
-rename_the_falklands_england_title;The Falklands Renaming Act;;;;;;;;;;;;;x
-rename_uruguay_title;Restore Cisplatina;;;;;;;;;;;;;x
-rename_uruguay_desc;With Uruguay now under our control, the traditional state of Cisplatina should be re-instated.;;;;;;;;;;;;;x
-renaming_act_lushun_desc;The small port city known by the Chinese as Lüshun, by the Japanese as Ryojun and by the westerners as Port Arthur is now firmly in our hands, and nothing better to demonstrate that than changing its name to something more close to our culture.;;;;;;;;;;;;;
-renaming_act_lushun_title;Rename Lüshun;;;;;;;;;;;;;
-restore_alsace_desc;Since the Alsace has been restored to its rightful place within the French nation, we should probably revert the street signs back to French.;;;;;;;;;;;;;x
-restore_alsace_title;Restore Alsace-Lorraine!;;;;;;;;;;;;;x
-restore_anatolia_desc;We returned Anatolia under Turkish rule and should return the respective names for its provinces.;;;;;;;;;;;;;x
-restore_anatolia_title;Restore Anatolia;;;;;;;;;;;;;x
-restore_armenia_TUR_desc;We returned our Armenian lands and should restore their proper names.;;;;;;;;;;;;;x
-restore_armenia_TUR_title;Restore Armenia;;;;;;;;;;;;;x
-restore_armenia_not_TUR_desc;We should restore the Armenian names to the reclaimed provinces.;;;;;;;;;;;;;x
-restore_armenia_not_TUR_title;Restore Armenia;;;;;;;;;;;;;x
-restore_levant_desc;Levant is returned and the names of its provinces should be restored.;;;;;;;;;;;;;x
-restore_levant_title;Restore Levant;;;;;;;;;;;;;x
-restore_new_amsterdam_title;Yankees after all;;;;;;;;;;;;;x
-restore_new_amsterdam_desc;Our ties with the Dutch, while indisputable, didn't prove to be all that strong. We are a Yankee nation after all, and our great city should bear its Yankee name.;;;;;;;;;;;;;x
-restore_paraguay_title;Restore Paraguay;;;;;;;;;;;;;x
-restore_paraguay_desc;The Paraguayans have been liberated from Brazilian control. It is time to restore their independent name.;;;;;;;;;;;;;x
-restore_uruguay_title;Restore Uruguay;;;;;;;;;;;;;x
-restore_uruguay_desc;The Uruguayans have been liberated from Brazilian control. It is time to restore their independent name.;;;;;;;;;;;;;x
-suazi_rename_desc;Suazi is rightfully $COUNTRY_ADJ$, and should use a $COUNTRY_ADJ$ name.;;;;;;;;;;;;;x
-suazi_rename_title;Rename Suazi!;;;;;;;;;;;;;x
-transvaal_rename_desc;Transvaal is rightfully $COUNTRY_ADJ$, and should use $COUNTRY_ADJ$ names.;;;;;;;;;;;;;x
-transvaal_rename_title;Rename Transvaal!;;;;;;;;;;;;;x
-zout_rename_desc;Zoutspanberg is rightfully $COUNTRY_ADJ$, and should use a $COUNTRY_ADJ$ name.;;;;;;;;;;;;;x
-zout_rename_title;Rename Zoutspanberg!;;;;;;;;;;;;;x
+rename_the_falklands_argentina_desc;Ora che controlliamo quelle che gli Inglesi chiamavano "Falklands", è il momento di ribattezzarle con qualcosa più in linea con i suoi legittimi proprietari. Le Isole Falklands d'ora in poi saranno conosciute come "Isole Malvinas".;;;;;;;;;;;;;x
+rename_the_falklands_argentina_title;La Legge sul Nome delle Malvinas;;;;;;;;;;;;;x
+rename_the_falklands_england_desc;Ora che abbiamo ricatturato quelle che gli Argentini chiamano "Malvinas", è il momento di ribattezzarle con qualcosa più in linea con i suoi legittimi proprietari. Le Isole Malvinas d'ora in poi saranno conosciute come "Isole Falklands".;;;;;;;;;;;;;x
+rename_the_falklands_england_title;La Legge sul Nome delle Falklands;;;;;;;;;;;;;x
+rename_uruguay_desc;Ora che l'Uruguay è sotto il nostro controllo, lo stato tradizionale della Cisplatina dovrebbe essere istituito di nuovo.;;;;;;;;;;;;;x
+rename_uruguay_title;Ripristina la Cisplatina;;;;;;;;;;;;;x
+renaming_act_lushun_desc;La piccola città portuale chiamata dai Cinesi Lüshun, dai Giapponesi Ryojun e dagli occidentali Port Arthur è ora fermamente nelle nostre mani e per dimostrarlo non c'è niente di meglio che cambiare il suo nome in qualcosa di più vicino alla nostra cultura.;;;;;;;;;;;;;
+renaming_act_lushun_title;Ribattezza Lüshun;;;;;;;;;;;;;
+restore_alsace_desc;Siccome l'Alsazia è stata ripristinata al suo posto legittimo nella nazione francese, dovremmo probabilmente far tornare i nomi delle vie in Francese.;;;;;;;;;;;;;x
+restore_alsace_title;Ripristina l'Alsazia-Lorena!;;;;;;;;;;;;;x
+restore_anatolia_desc;Abbiamo fatto tornare l'Anatolia sotto il dominio turco e dovremmo far tornare i nomi rispettivi per le sue province.;;;;;;;;;;;;;x
+restore_anatolia_title;Ripristina l'Anatolia;;;;;;;;;;;;;x
+restore_armenia_TUR_desc;Ci siamo ripresi le nostre terre armene e dovremmo ripristinare i loro veri nomi.;;;;;;;;;;;;;x
+restore_armenia_TUR_title;Ripristina l'Armenia;;;;;;;;;;;;;x
+restore_armenia_not_TUR_desc;Dovremmo ripristinare i nomi Armeni nelle province rivenedicati.;;;;;;;;;;;;;x
+restore_armenia_not_TUR_title;Ripristina l'Armenia;;;;;;;;;;;;;x
+restore_levant_desc;Il Levante è stato ripreso ed i nomi delle sue province dovrebbero essere ripristinati.;;;;;;;;;;;;;x
+restore_levant_title;Ripristina il Levante;;;;;;;;;;;;;x
+restore_new_amsterdam_desc;I nostri legami con gli Olandesi, anche se indiscutibili, non si sono dimostrati per nulla forti. Siamo una nazione yankee dopo tutto e la nostra grande città dovrebbe portare il suo nome yankee.;;;;;;;;;;;;;x
+restore_new_amsterdam_title;Yankee Dopo Tutto;;;;;;;;;;;;;x
+restore_paraguay_desc;I Paraguaiani sono stati liberati dal controllo brasiliano. È il momento di ripristinare il loro nome indipendente.;;;;;;;;;;;;;x
+restore_paraguay_title;Ripristina il Paraguay;;;;;;;;;;;;;x
+restore_uruguay_desc;Gli Uruguaini sono stati liberati dal controllo brasiliano. È il momento di ripristinare il loro nome indipendente.;;;;;;;;;;;;;x
+restore_uruguay_title;Ripristina l'Uruguay;;;;;;;;;;;;;x
+suazi_rename_desc;Lo Suazi è nostro di diritto e dovrebbe usare un nome della nostra cultura.;;;;;;;;;;;;;x
+suazi_rename_title;Ribattezza lo Suazi!;;;;;;;;;;;;;x
+transvaal_rename_desc;Il Transvaal è nostro di diritto e dovrebbe usare un nome della nostra cultura.;;;;;;;;;;;;;x
+transvaal_rename_title;Ribattezza il Transvaal!;;;;;;;;;;;;;x
+zout_rename_desc;Lo Zoutspanberg è nostro di diritto e dovrebbe usare un nome della nostra cultura.;;;;;;;;;;;;;x
+zout_rename_title;Ribattezza lo Zoutspanberg!;;;;;;;;;;;;;x
