@@ -128,39 +128,39 @@ EVTDESC2610;$STATENAME$ è considerato un nostro territorio, che disputato soltan
 EVTNAME2610;Assimilazione di $STATENAME$;;;;;;;;;;;;;x
 EVTOPTA2610;Comincia ad assimilare $STATENAME$.;;;;;;;;;;;;;x
 EVTOPTB2610;Ciò causerà soltanto nuovi conflitti.;;;;;;;;;;;;;x
-EVTDESC2611;With the new government in power and its more liberal views on minorities within $COUNTRY$, the policies of assimilation that attempted to stamp out minorities of other nationalities have all been rescinded. There are those within the $COUNTRY_ADJ$ military who warn that this is a dangerous idea, and that allowing these foreign identities to perpetuate will only lead to further conflict with our neighbours-but, for now, their voices have been ignored.;;;;;;;;;;;;;x
-EVTNAME2611;Assimilation Policies Rescinded;;;;;;;;;;;;;x
-EVTOPTA2611;So be it!;;;;;;;;;;;;;x
-EVTDESC2612;There is no longer a need for the assimilation policies currently underway in $STATENAME$.;;;;;;;;;;;;;x
-EVTNAME2612;Assimilation Cancelled in $STATENAME$;;;;;;;;;;;;;x
-EVTOPTA2612;It was worth the effort.;;;;;;;;;;;;;x
-EVTDESC2615;A demonstration in $PROVINCENAME$ turned violent as minorities held up $COUNTRY_ADJ$ flags and burned them-a demonstration of their rejection of our attempts to assimilate them into $COUNTRY$. Authorities broke up the demonstration, but there continues to be a growing discontent in the area. The turmoil has even spread to other citizens, who have begun calling on the $COUNTRY_ADJ$ government to end its assimilation policies and let the minority groups be.;;;;;;;;;;;;;x
-EVTNAME2615;Flags Burned in $PROVINCENAME$;;;;;;;;;;;;;x
-EVTOPTA2615;The assimilation must continue!;;;;;;;;;;;;;x
-EVTOPTB2615;Abandon assimilation in $STATENAME$.;;;;;;;;;;;;;x
-EVTDESC2616;The recent arrest of a foreign national in $PROVINCENAME$ has led to a diplomatic incident. Many of the minorities within $PROVINCENAME$ claim that the man was arrested solely because he opposed the $COUNTRY_ADJ$ assimilation policies, and was trying to spread word of a peaceful resistance. The $COUNTRY_ADJ$ authorities say the man’s interest was not peaceful in the least, and they suspect he in fact works for one of our neighbours with a claim on $PROVINCENAME$. Whatever the truth, the reaction has not been peaceful in the least-riots are expected, and authorities say to be wary of rebellion in the area.;;;;;;;;;;;;;x
-EVTNAME2616;Incident in $PROVINCENAME$;;;;;;;;;;;;;x
-EVTOPTA2616;Unfortunate.;;;;;;;;;;;;;x
-EVTDESC2620;A parade has recently taken place in $PROVINCENAME$, with the $COUNTRY_ADJ$ flag flying high-and being held by people who, until very recently, likely wouldn’t have considered themselves $COUNTRY_ADJ$ citizens at all. $PROVINCENAME$ is still claimed by another country, but the acceptance of $PROVINCENAME$’s people is going a long way towards making elimination of that an inevitable fact.;;;;;;;;;;;;;x
-EVTNAME2620;Flags Flying in $PROVINCENAME$!;;;;;;;;;;;;;x
-EVTOPTA2620;Well done, $PROVINCENAME$!;;;;;;;;;;;;;x
-EVTDESC2625;The $COUNTRY_ADJ$ flag is the only one that can now be found flying in the streets of $PROVINCENAME$. At long last, it can be considered $COUNTRY_ADJ$ and only $COUNTRY_ADJ$ territory. Even those who are members of other cultures no longer consider themselves truly part of our neighbours-much as those neighbours might be unhappy with the situation.;;;;;;;;;;;;;x
-EVTNAME2625;$PROVINCENAME$ Assimilated!;;;;;;;;;;;;;x
-EVTDESC2626;$FROMCOUNTRY$ continues to hold some of our lands, lands which until today have always been considered part of $COUNTRY_ADJ$ national territory. A $FROMCOUNTRY_ADJ$ program of assimilation has succeeded, however, in weaning our own people away from any feeling as if this true. They no longer consider themselves $COUNTRY_ADJ$, and indeed the international community appears to agree with them.;;;;;;;;;;;;;x
-EVTNAME2626;Claims in $FROMCOUNTRY$;;;;;;;;;;;;;x
-EVTOPTA2626;There is nothing we can do.;;;;;;;;;;;;;x
-EVTOPTB2626;We will not stand for this!;;;;;;;;;;;;;x
-EVTDESC2650;According to our peace treaty with $FROMCOUNTRY$, we must give up lands that rightfully belong to them-and only the ones that belong to them.;;;;;;;;;;;;;x
-EVTNAME2650;$FROMCOUNTRY_ADJ$ Lands;;;;;;;;;;;;;x
-EVTOPTA2650;Damn.;;;;;;;;;;;;;x
-EVTDESC2651;According to our peace treaty with $FROMCOUNTRY$, we must give up lands that rightfully belong to another nation-but only those lands.;;;;;;;;;;;;;x
-EVTNAME2651;The $FROMCOUNTRY_ADJ$ Demand;;;;;;;;;;;;;x
-EVTDESC2660;As a result of the treaty with $FROMCOUNTRY$, some of $COUNTRY$’s lands are to be returned. We are, however, only entitled to those lands over which we have a claim. Any others should, by all rights, be returned to $FROMCOUNTRY$. \n \n §RNOTE: If you took $FROMCOUNTRY_ADJ$ core provinces which are not also your own core provinces in this war, enacting the ‘return’ option will give those lands back. Be careful!§W;;;;;;;;;;;;;x
-EVTNAME2660;Our Lands Returned;;;;;;;;;;;;;x
-EVTOPTA2660;Only keep territories with our cores. Return the rest.;;;;;;;;;;;;;x
-EVTOPTB2660;We will keep everything we’ve gained.;;;;;;;;;;;;;x
-EVTDESC3000;The reeking, putrid stench welling out of the old house smells like mould and rotting timber. There isn’t a soul about, save an old drunkard who scurries out through a back-door at the first hint of light shining in through a soot-covered window. God alone knows for how long this house has been standing here, but it’s dilapidated state paints a clear picture of what our nation has become in the past few decades. Poverty is becoming ever more widespread, and housing like this is standard for far too many of our nation’s poor and downtrodden. Infinitely worse: These unsanitary hovels are an ample breeding ground for filth and disease.;Une odeur putride jaillit de la vieille bâtisse délabrée et sale. Il n’y a pas âme qui vive sauf peut-être un ivrogne dont l’ombre émerge d’une arrière-cour. Seul Dieu sait depuis combien de temps cette maison se tient ici, mais ces murs décrépits sont à l’image de la déchéance de notre nation ces dernières années. La pauvreté s’accroît, et les logements insalubres sont devenus monnaie courante. Pire encore, ces taudis plantés au milieu des ordures de la ville sont une bénédiction pour le développement des maladies les plus graves.;Der faule, ekelerregende Geruch, der aus dem alten Haus dringt, erinnert an Schimmel und verfaulendes Holz. Niemand ist hier, außer einem alten Trunkenbold, der beim ersten Anzeichen von Licht, das durch ein rußgeschwärztes Fenster dringt, durch eine Hintertür verschwindet. Der Himmel weiß, wie lange dieses Haus schon hier steht, aber sein heruntergekommener Zustand zeugt davon, was in den letzten Jahrzehnten aus unserer Nation geworden ist. Armut breitet sich immer weiter aus, und Behausungen wie diese sind zum Standard für viel zu viele der Armen und Unterdrückten unseres Landes geworden. Unsäglich schlimmer noch: diese unhygienischen Hütten sind Brutstätten für Filz und Krankheiten.;;;;;;;;;;;x
-EVTNAME3000;Squalid Slum;Taudis sordide;Heruntergekommener Slum;;;;;;;;;;;x
+EVTDESC2611;Con il nuovo governo al potere e le sue visioni più liberali sulle minoranze nel nostro paese, le politiche dell'assimilazione che provarono a sradicare le minoranze delle altre nazionalità sono state tutte abrogate. Ci sono coloro nelle nostre forze armate che ci avvisano sia un'idea pericolosa e che permettere a queste identità straniere di esistere porterà soltanto ad ulteriore conflitto con i nostri vicini, ma, per ora, le loro voci sono state ignorate.;;;;;;;;;;;;;x
+EVTNAME2611;Politiche d'Assimilazione Abrogate;;;;;;;;;;;;;x
+EVTOPTA2611;Così sia!;;;;;;;;;;;;;x
+EVTDESC2612;Non c'è più bisogno delle politiche di assimilazione attualmente in atto in $STATENAME$.;;;;;;;;;;;;;x
+EVTNAME2612;Assimilazione Cancellata in $STATENAME$;;;;;;;;;;;;;x
+EVTOPTA2612;Ne è valsa la pena.;;;;;;;;;;;;;x
+EVTDESC2615;Una manifestazione a $PROVINCENAME$ è divenuta violenta in quanto le minoranze hanno preso le nostre bandiere e le hanno bruciato: una manifestazione del loro rifiuto ai nostri tentativi di assimilarsi nel nostro paese. Le autorità hanno interrotto la manifestazione, ma continua ad esserci crescente scontento nell'area. I disordini si sono diffusi agli altri cittadini, che hanno cominciato a chiedere al nostro governo di terminare le sue politiche di assimilazione e lasciar stare le minoranze.;;;;;;;;;;;;;x
+EVTNAME2615;Bandiere Bruciate a $PROVINCENAME$;;;;;;;;;;;;;x
+EVTOPTA2615;L'assimilazione deve continuare!;;;;;;;;;;;;;x
+EVTOPTB2615;Ferma l'assimilazione in $STATENAME$.;;;;;;;;;;;;;x
+EVTDESC2616;L'arresto recente di un cittadino estero a $PROVINCENAME$ ha portato ad un incidente diplomatico. Molte delle minoranze lì affermano che l'uomo è stato arrestato soltanto perché si opponeva alle politiche di assimilazione e stava provando a diffondere il seme della resistenza pacifica. Le nostre autorità dicono che l'interesse dell'uomo non era affatto pacifico e sospettano che lavorasse in realtà per uno dei nostri vicini con una rivendicazione su $PROVINCENAME$. Qualunque sia la verità, la reazione non è stata per nulla pacifica, ci aspettiamo delle sommosse e le autorità dicono di essere attenti a ribellioni nell'area.;;;;;;;;;;;;;x
+EVTNAME2616;Incidente a $PROVINCENAME$;;;;;;;;;;;;;x
+EVTOPTA2616;Che sfortuna!;;;;;;;;;;;;;x
+EVTDESC2620;Recentemente si è svolta una parata a $PROVINCENAME$, con la nostra bandiera che sventolava in alto e che era tenuta da chi, fino a poco fa, probabilmente non si sarebbe considerato affatto nostro cittadino. $PROVINCENAME$ è ancora rivendicata da un altro paese, ma l'approvazione dei suoi abitanti sta rendendo l'eliminazione di ciò un fatto inevitabile.;;;;;;;;;;;;;x
+EVTNAME2620;Bandiere Sventolanti a $PROVINCENAME$!;;;;;;;;;;;;;x
+EVTOPTA2620;Ben fatto, $PROVINCENAME$!;;;;;;;;;;;;;x
+EVTDESC2625;La nostra bandiera è l'unica che ora sventola nelle strade di $PROVINCENAME$. Alla fine, si può considerare un territorio nostro e nostro soltanto. Anche coloro che sono membri di altri culture non si considerano più veramente parte dei nostri vicini, mentre i nostri vicini potrebbero essere insoddisfatti della situazione.;;;;;;;;;;;;;x
+EVTNAME2625;$PROVINCENAME$ Assimilata!;;;;;;;;;;;;;x
+EVTDESC2626;$FROMCOUNTRY$ continua a possedere alcune delle nostre terre, terre che fino ad oggi sono sempre state considerate parte del nostro territorio nazionale. Un loro programma di assimilazione ha avuto successo, però, nel far svanire nel nostro popolo la sensazione che ciò sia vero. Non si considerano più nostri cittadini e anche la comunità internazionale pare esser d'accordo con loro.;;;;;;;;;;;;;x
+EVTNAME2626;Rivendicazioni in $FROMCOUNTRY$;;;;;;;;;;;;;x
+EVTOPTA2626;Non c'è niente che possiamo fare.;;;;;;;;;;;;;x
+EVTOPTB2626;Non lo accetteremo!;;;;;;;;;;;;;x
+EVTDESC2650;In base al trattato di pace, dobbiamo rinunciare alle terre che appartengono a loro di diritto e solo quelle che appartengono a loro.;;;;;;;;;;;;;x
+EVTNAME2650;Terre $FROMCOUNTRY_ADJ$;;;;;;;;;;;;;x
+EVTOPTA2650;Maledizione.;;;;;;;;;;;;;x
+EVTDESC2651;In base al trattato di pace, dobbiamo rinunciare alle terre che appartengono di diritto ad un'altra nazione, ma solo quelle terre.;;;;;;;;;;;;;x
+EVTNAME2651;La Richiesta $FROMCOUNTRY_ADJ$;;;;;;;;;;;;;x
+EVTDESC2660;Come risultato del trattato, alcune delle nostre terre devono essere restituite. Abbiamo, però, diritto soltanto alle terre su cui abbiamo una rivendicazione. Tutte le altre dovrebbero, a quanto pare, essere restitute al paese di provenienza. \n \n §RNOTA: Se hai preso delle province chiave del tuo avversario che non sono anche tue province chiave in questa guerra, scegliere l'opzione "restituzione" le restituirà. Sta' attento!§W;;;;;;;;;;;;;x
+EVTNAME2660;Restituzione delle Nostre Terre;;;;;;;;;;;;;x
+EVTOPTA2660;Tieni solo le nostre province chiave. Resituisci il resto.;;;;;;;;;;;;;x
+EVTOPTB2660;Terremo tutto ciò che abbiamo ottenuto.;;;;;;;;;;;;;x
+EVTDESC3000;Il tanfo marcio e fetente che fuoriesce dalla vecchia casa odora di muffa e di legno in decomposizione. Non c'è anima viva, se non un vecchio ubriacone che si preceipita fuori per la porta posteriore al primo segno di luce che entra da una finestra coperta di fuliggine. Dio solo sa da quanto questa casa sia in piedi qui, ma le sue condizioni fatiscenti dipingono un'immagine netta di ciò che la nostra nazione è diventata negli ultimi decenni. La povertà si diffonde sempre di più ed alloggi come questo sono lo standard per troppi poveri ed oppressi della nostra nazione. Infinatemente peggio: questi tuguri lerci sono terreno fertile per lo sporco e le malattie.;Une odeur putride jaillit de la vieille bâtisse délabrée et sale. Il n’y a pas âme qui vive sauf peut-être un ivrogne dont l’ombre émerge d’une arrière-cour. Seul Dieu sait depuis combien de temps cette maison se tient ici, mais ces murs décrépits sont à l’image de la déchéance de notre nation ces dernières années. La pauvreté s’accroît, et les logements insalubres sont devenus monnaie courante. Pire encore, ces taudis plantés au milieu des ordures de la ville sont une bénédiction pour le développement des maladies les plus graves.;Der faule, ekelerregende Geruch, der aus dem alten Haus dringt, erinnert an Schimmel und verfaulendes Holz. Niemand ist hier, außer einem alten Trunkenbold, der beim ersten Anzeichen von Licht, das durch ein rußgeschwärztes Fenster dringt, durch eine Hintertür verschwindet. Der Himmel weiß, wie lange dieses Haus schon hier steht, aber sein heruntergekommener Zustand zeugt davon, was in den letzten Jahrzehnten aus unserer Nation geworden ist. Armut breitet sich immer weiter aus, und Behausungen wie diese sind zum Standard für viel zu viele der Armen und Unterdrückten unseres Landes geworden. Unsäglich schlimmer noch: diese unhygienischen Hütten sind Brutstätten für Filz und Krankheiten.;;;;;;;;;;;x
+EVTNAME3000;Baracche Squallide;Taudis sordide;Heruntergekommener Slum;;;;;;;;;;;x
 EVTOPTA3000;Call for a parliamentary investigation.;Demander une enquête parlementaire.;Nach einer parliamentarischen Untersuchung verlangen.;;;;;;;;;;;x
 EVTOPTB3000;Seek local support for reform.;Recueillir des soutiens locaux pour entreprendre des reformes.;Lokale Unterstützung für Reformen suchen.;;;;;;;;;;;x
 EVTOPTC3000;I, frankly, do not see the problem.;Honnêtement, je ne vois pas où est le problème.;Ehrlich gesagt, ich sehe das Problem nicht.;;;;;;;;;;;x
