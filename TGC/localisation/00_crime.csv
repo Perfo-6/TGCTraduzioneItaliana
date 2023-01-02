@@ -3,6 +3,8 @@ anarchic_bomb_throwers;Lanciatori di Bombe Anarchici;Lanceurs de bombes anarchis
 desc_anarchic_bomb_throwers;Meno finanziamenti alla lotta al crimine hanno portato ad una minore capacità di agire contro minacce alla sicurezza come le rivolte anarchiche.;La baisse des dépenses consacrées à la lutte contre le crime se traduit par une moindre efficacité en termes de réponse aux atteintes à la sécurité comme les soulèvements d'anarchistes.;Weniger Geld für die Verbrechensbekämpfung führt zu einer verringerten Reaktionsfähigkeit auf Sicherheitsrisiken wie anarchistische Rebellionen.;;La poca inversión en la lucha contra la delincuencia comporta menor capacidad de responder a amenazas contra la seguridad, como los brotes anarquistas.;;;;;;;;;x
 citizen_guard;Guardia Cittadina;Garde citoyenne;Bürgerwache;;Guardia ciudadana;;;;;;;;;x
 desc_citizen_guard;Meno finanziamenti alla lotta al crimine hanno portato ad una minore capacità di agire contro minacce alla sicurezza come le gang della strada.;La baisse des dépenses consacrées à la lutte contre le crime se traduit par une moindre efficacité en termes de réponse aux atteintes à la sécurité tels que les combats entre gangs.;Weniger Geld für die Verbrechensbekämpfung führt zu einer verringerten Reaktionsfähigkeit auf Sicherheitsrisiken wie Straßenbanden.;;La poca inversión en la lucha contra la delincuencia comporta menor capacidad de responder a amenazas, como las peleas de bandas callejeras.;;;;;;;;;x
+greedy_bankers;Banchieri Tirchi;;;;;;;;;;;;;x
+desc_greedy_bankers;Senza una corretta amministrazione ed una burocrazia funzionante il sistema bancario locale diventa corrotto e comincia a lavorare nell'interesse di poche, potenti, figure.;;;;;;;;;;;;;x
 good_healthcare_poorly_funded;Sistema Sanitario Poco Finanziato;;;;;;;;;;;;;x
 desc_good_healthcare_poorly_funded;Scarsi investimenti governativi nell'amministrazione hanno portato ad un sistema santario poco finanziato.;;;;;;;;;;;;;x
 immoral_business;Attività Immorali;Activité immorale;Unmoralische Geschäfte;;Negocios inmorales;;;;;;;;;x
@@ -11,6 +13,8 @@ instigators;Istigatori Politici;;;;;;;;;;;;;x
 desc_instigators;Se le istituzioni di lotta al crimine diventano sovraccariche, gli istigatori potranno girare senza controllo e eventualmente raccogliere attenzione e sopporto sufficienti per stravolgere l'ordine prestabilito.;;;;;;;;;;;;;x
 kleptocrats;Cleptocrati;;;;;;;;;;;;;x
 desc_kleptocrats;Cleptocrazia è un termine applicato ai governi che hanno un problema particolarmente grave con gli officiali e la classe dirigente (nel loro insieme, i cleptocrati) che utilizzano la corruzione per ampliare la loro ricchezza personale e il loro potere politico. Di solito questo sistema consiste nell'appropriazione indebita di fondi statali ai danni del resto della popolazione, a volte senza nemmeno la pretesa di un servizio onesto. Mancare di controllo istituzionale sufficiente in un paese dove la sorveglianza esterna è impossibile o non esiste significa che i burocrati diventeranno cleptocrati.;;;;;;;;;;;;;x
+loansharks;Strozzini;;;;;;;;;;;;;x
+desc_loansharks;Senza l'accesso ad un vero sistema bancario la popolazione locale è diventata una preda facile per gli opportunisti.;;;;;;;;;;;;;x
 low_healthcare_poorly_funded;Sistema Sanitario Poco Finanziato;;;;;;;;;;;;;x
 desc_low_healthcare_poorly_funded;Scarsi investimenti governativi nell'amministrazione hanno portato ad un sistema santario poco finanziato.;;;;;;;;;;;;;x
 machine_politics;Clientelismo;Clientélisme;Politikmaschinerie;;Clientelismo;;;;;;;;;x

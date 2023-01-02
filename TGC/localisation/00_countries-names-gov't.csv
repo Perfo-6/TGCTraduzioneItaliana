@@ -3,16 +3,16 @@ ABU_absolute_monarchy;Stati della Tregua;;;;;;;;;;;;;x
 ABU_bourgeois_dictatorship;Consigli Arabi Uniti;;;;;;;;;;;;;x
 ABU_fascist_dictatorship;Emirato;;;;;;;;;;;;;x
 ABU_proletarian_dictatorship;Repubblica Popolare Araba;;;;;;;;;;;;;x
-ACA_fra_colonial_company;Acadia;;;;;;;;;;;;;x
-ACA_fra_dominion;Acadia;;;;;;;;;;;;;x
+ACA_colonial_company;Acadia;;;;;;;;;;;;;x
+ACA_dominion;Acadia;;;;;;;;;;;;;x
 ACE_democracy;Repubblica di Acre;;;;;;;;;;;;;x
 ACE_proletarian_dictatorship;Comune di Acre;;;;;;;;;;;;;x
 ACE_fascist_dictatorship;Stato Acreano;;;;;;;;;;;;;x
 ADV_absolute_monarchy;Regno del Texas;;;;;;;;;;;;;x
 ADV_bourgeois_dictatorship;Repubblica Germano-Texana;;;;;;;;;;;;;x
-ADV_ger_colonial_company;Nobile Società di Magonza;;;;;;;;;;;;;x
+ADV_colonial_company;Nobile Società di Magonza;;;;;;;;;;;;;x
 ADV_democracy;Repubblica dei Germano-Texani;;;;;;;;;;;;;x
-ADV_ger_dominion;Colonia Imperiale del Texas;;;;;;;;;;;;;x
+ADV_dominion;Colonia Imperiale del Texas;;;;;;;;;;;;;x
 ADV_fascist_dictatorship;Reich Texano;;;;;;;;;;;;;x
 ADV_hms_government;Regno di Texas;;;;;;;;;;;;;x
 ADV_presidential_dictatorship;Repubblica Germano-Tedesca;;;;;;;;;;;;;x
@@ -30,17 +30,17 @@ AFG_theocracy;Impero Durrani;;;;;;;;;;;;;x
 AIN_absolute_monarchy;Ainu Mosir;;;;;;;;;;;;;x
 AKH_absolute_monarchy;Orda Bökei;;;;;;;;;;;;;x
 AKH_prussian_constitutionalism;Orda Bökei;;;;;;;;;;;;;x
-ALD_fra_colonial_company;Algeria;;;;;;;;;;;;;x
-ALD_fra_dominion;Algeria;;;;;;;;;;;;;x
-ALS_ger_colonial_company;Alsazia-Lorena;;;;;;;;;;;;;x
-ALS_ger_dominion;Alsazia-Lorena;;;;;;;;;;;;;x
+ALD_colonial_company;Algeria;;;;;;;;;;;;;x
+ALD_dominion;Algeria;;;;;;;;;;;;;x
+ALS_colonial_company;Alsazia-Lorena;;;;;;;;;;;;;x
+ALS_dominion;Alsazia-Lorena;;;;;;;;;;;;;x
 ALT_absolute_monarchy;Urianhaj d'Altaj;;;;;;;;;;;;;x
 ALT_hms_government;Urianhaj d'Altaj;;;;;;;;;;;;;x
 ALT_prussian_constitutionalism;Urianhaj d'Altaj;;;;;;;;;;;;;x
 ANB_absolute_monarchy;Ducato di Anhalt-Bernburg;;;;;;;;;;;;;x
-ANB_ger_colonial_company;Gau di Bernburg;;;;;;;;;;;;;x
+ANB_colonial_company;Gau di Bernburg;;;;;;;;;;;;;x
 ANB_democracy;Stato Libero di Anhalt-Bernburg;;;;;;;;;;;;;x
-ANB_ger_dominion;Gau di Bernburg;;;;;;;;;;;;;x
+ANB_dominion;Gau di Bernburg;;;;;;;;;;;;;x
 ANB_fascist_dictatorship;Reich Bernburghese;;;;;;;;;;;;;x
 ANB_federal_democracy;Stato Libero di Anhalt-Bernburg;;;;;;;;;;;;;x
 ANB_hms_government;Ducato di Anhalt-Bernburg;;;;;;;;;;;;;x
@@ -48,9 +48,9 @@ ANB_parliamentary_republic;Stato Libero di Anhalt-Bernburg;;;;;;;;;;;;;x
 ANB_proletarian_dictatorship;Repubblica Democratica Bernburghese;;;;;;;;;;;;;x
 ANB_prussian_constitutionalism;Ducato di Anhalt-Bernburg;;;;;;;;;;;;;x
 ANH_absolute_monarchy;Ducato di Anhalt;;;;;;;;;;;;;x
-ANH_ger_colonial_company;Gau di Dessau;;;;;;;;;;;;;x
+ANH_colonial_company;Gau di Dessau;;;;;;;;;;;;;x
 ANH_democracy;Stato Libero di Anhalt;;;;;;;;;;;;;x
-ANH_ger_dominion;Gau di Dessau;;;;;;;;;;;;;x
+ANH_dominion;Gau di Dessau;;;;;;;;;;;;;x
 ANH_fascist_dictatorship;Reich Dessauese;;;;;;;;;;;;;x
 ANH_federal_democracy;Stato Libero di Anhalt;;;;;;;;;;;;;x
 ANH_hms_government;Ducato di Anhalt;;;;;;;;;;;;;x
@@ -58,9 +58,9 @@ ANH_parliamentary_republic;Stato Libero di Anhalt;;;;;;;;;;;;;x
 ANH_proletarian_dictatorship;Repubblica Democratica Dessauese;;;;;;;;;;;;;x
 ANH_prussian_constitutionalism;Ducato di Anhalt;;;;;;;;;;;;;x
 ANK_absolute_monarchy;Ducato di Anhalt-Köthen;;;;;;;;;;;;;x
-ANK_ger_colonial_company;Gau di Köthen;;;;;;;;;;;;;x
+ANK_colonial_company;Gau di Köthen;;;;;;;;;;;;;x
 ANK_democracy;Stato Libero di Anhalt-Köthen;;;;;;;;;;;;;x
-ANK_ger_dominion;Gau di Köthen;;;;;;;;;;;;;x
+ANK_dominion;Gau di Köthen;;;;;;;;;;;;;x
 ANK_fascist_dictatorship;Reich Köthenese;;;;;;;;;;;;;x
 ANK_federal_democracy;Stato Libero di Anhalt-Köthen;;;;;;;;;;;;;x
 ANK_hms_government;Ducato di Anhalt-Köthen;;;;;;;;;;;;;x
@@ -92,17 +92,15 @@ ASM_bourgeois_dictatorship;Repubblica Assamese;;;;;;;;;;;;;x
 ASM_fascist_dictatorship;Repubblica Assamese;;;;;;;;;;;;;x
 ASM_presidential_dictatorship;Repubblica Assamese;;;;;;;;;;;;;x
 AST_absolute_monarchy;Dominio dell'Australia;;;;;;;;;;;;;x
-AST_eng_colonial_company;Australia;;;;;;;;;;;;;x
-AST_eng_dominion;Dominio dell'Australia;;;;;;;;;;;;;x
-AST_fra_colonial_company;Dominio dell'Australia;;;;;;;;;;;;;x
-AST_fra_dominion;Dominio dell'Australia;;;;;;;;;;;;;x
+AST_colonial_company;Australia;;;;;;;;;;;;;x
+AST_dominion;Dominio dell'Australia;;;;;;;;;;;;;x
 AST_hms_government;Dominio dell'Australia;;;;;;;;;;;;;x
 AST_prussian_constitutionalism;Dominio dell'Australia;;;;;;;;;;;;;x
 ASY_fascist_dictatorship;Aramea;;;;;;;;;;;;;x
 ATB_absolute_monarchy;Ducato di Sassonia-Altenburg;;;;;;;;;;;;;x
-ATB_ger_colonial_company;Gau di Altenberg;;;;;;;;;;;;;x
+ATB_colonial_company;Gau di Altenberg;;;;;;;;;;;;;x
 ATB_democracy;Stato Libero di Sassonia-Altenburg;;;;;;;;;;;;;x
-ATB_ger_dominion;Gau di Altenberg;;;;;;;;;;;;;x
+ATB_dominion;Gau di Altenberg;;;;;;;;;;;;;x
 ATB_fascist_dictatorship;Reich Altenburghese;;;;;;;;;;;;;x
 ATB_federal_democracy;Stato Libero di Sassonia-Altenburg;;;;;;;;;;;;;x
 ATB_hms_government;Ducato di Sassonia-Altenburg;;;;;;;;;;;;;x
@@ -111,9 +109,9 @@ ATB_proletarian_dictatorship;Repubblica Democratica Altenburghese;;;;;;;;;;;;;x
 ATB_prussian_constitutionalism;Ducato di Sassonia-Altenburg;;;;;;;;;;;;;x
 ATH_theocracy;Repubblica Monastica di Athos;;;;;;;;;;;;;x
 AUS_absolute_monarchy;Impero Austriaco;;;;;;;;;;;;;x
-AUS_ger_colonial_company;Land di Ostmark;;;;;;;;;;;;;x
+AUS_colonial_company;Land di Ostmark;;;;;;;;;;;;;x
 AUS_democracy;Repubblica d'Austria;;;;;;;;;;;;;x
-AUS_ger_dominion;Land di Ostmark;;;;;;;;;;;;;x
+AUS_dominion;Land di Ostmark;;;;;;;;;;;;;x
 AUS_fascist_dictatorship;Reich Austriaco;;;;;;;;;;;;;x
 AUS_federal_democracy;Repubblica d'Austria;;;;;;;;;;;;;x
 AUS_hms_government;Impero Austriaco;;;;;;;;;;;;;x
@@ -122,45 +120,44 @@ AUS_proletarian_dictatorship;Repubblica Sovietica Austriaca;;;;;;;;;;;;;x
 AUS_prussian_constitutionalism;Impero Austriaco;;;;;;;;;;;;;x
 AZH_absolute_monarchy;Sceiccato di Anazzah;;;;;;;;;;;;;x
 BAD_absolute_monarchy;Granducato di Baden;;;;;;;;;;;;;x
-BAD_ger_colonial_company;Land di Baden;;;;;;;;;;;;;x
+BAD_colonial_company;Land di Baden;;;;;;;;;;;;;x
 BAD_democracy;Repubblica di Baden;;;;;;;;;;;;;x
-BAD_ger_dominion;Land di Baden;;;;;;;;;;;;;x
+BAD_dominion;Land di Baden;;;;;;;;;;;;;x
 BAD_fascist_dictatorship;Reich Badeniana;;;;;;;;;;;;;x
 BAD_federal_democracy;Repubblica di Baden;;;;;;;;;;;;;x
 BAD_hms_government;Granducato di Baden;;;;;;;;;;;;;x
 BAD_parliamentary_republic;Repubblica di Baden;;;;;;;;;;;;;x
 BAD_proletarian_dictatorship;Repubblica Sovietica Badeniana;;;;;;;;;;;;;x
 BAD_prussian_constitutionalism;Granducato di Baden;;;;;;;;;;;;;x
-BAN_ger_colonial_company;Stato Libero del Banato;;;;;;;;;;;;;x
+BAN_colonial_company;Stato Libero del Banato;;;;;;;;;;;;;x
 BAN_democracy;Reubblica del Banato;;;;;;;;;;;;;x
-BAN_ger_dominion;Stato Libero del Banato;;;;;;;;;;;;;x
+BAN_dominion;Stato Libero del Banato;;;;;;;;;;;;;x
 BAV_absolute_monarchy;Regno di Baviera;;;;;;;;;;;;;x
-BAV_ger_colonial_company;Land di Bayern;;;;;;;;;;;;;x
+BAV_colonial_company;Land di Bayern;;;;;;;;;;;;;x
 BAV_democracy;Repubblica di Baviera;;;;;;;;;;;;;x
-BAV_ger_dominion;Land di Bayern;;;;;;;;;;;;;x
+BAV_dominion;Land di Bayern;;;;;;;;;;;;;x
 BAV_fascist_dictatorship;Reich Bavarese;;;;;;;;;;;;;x
 BAV_federal_democracy;Repubblica di Baviera;;;;;;;;;;;;;x
 BAV_hms_government;Regno di Baviera;;;;;;;;;;;;;x
 BAV_parliamentary_republic;Repubblica di Baviera;;;;;;;;;;;;;x
 BAV_proletarian_dictatorship;Repubblica Sovietica Bavarese;;;;;;;;;;;;;x
 BAV_prussian_constitutionalism;Regno di Baviera;;;;;;;;;;;;;x
-BEL_net_colonial_company;Paesi Bassi Meridionali;;;;;;;;;;;;;x
-BEL_ger_dominion;Fiandre-Vallonia;;;;;;;;;;;;;x
-BER_eng_colonial_company;Agenzia di Gujarat;;;;;;;;;;;;;x
-BER_eng_dominion;Agenzia di Gujarat;;;;;;;;;;;;;x
-BHM_eng_colonial_company;Colonia delle Bahamas;;;;;;;;;;;;;x
-BHM_eng_dominion;Confederazione delle Bahamas;;;;;;;;;;;;;x
+BEL_colonial_company;Paesi Bassi Meridionali;;;;;;;;;;;;;x
+BER_colonial_company;Agenzia di Gujarat;;;;;;;;;;;;;x
+BER_dominion;Agenzia di Gujarat;;;;;;;;;;;;;x
+BHM_colonial_company;Colonia delle Bahamas;;;;;;;;;;;;;x
+BHM_dominion;Confederazione delle Bahamas;;;;;;;;;;;;;x
 BHM_hms_government;Bahamas;;;;;;;;;;;;;x
 BHM_parliamentary_republic;Bahamas;;;;;;;;;;;;;x
 BIH_proletarian_dictatorship;Repubblica Popolare Bihari;;;;;;;;;;;;;x
-BLC_eng_colonial_company;Agenzia del Belucistan;;;;;;;;;;;;;x
-BLC_eng_dominion;Agenzia del Belucistan;;;;;;;;;;;;;x
-BLZ_eng_colonial_company;Honduras Britannico;;;;;;;;;;;;;x
-BLZ_eng_dominion;Honduras Britannico;;;;;;;;;;;;;x
+BLC_colonial_company;Agenzia del Belucistan;;;;;;;;;;;;;x
+BLC_dominion;Agenzia del Belucistan;;;;;;;;;;;;;x
+BLZ_colonial_company;Honduras Britannico;;;;;;;;;;;;;x
+BLZ_dominion;Honduras Britannico;;;;;;;;;;;;;x
 BLZ_hms_government;Belize;;;;;;;;;;;;;x
 BLZ_parliamentary_republic;Belize;;;;;;;;;;;;;x
-BMD_eng_colonial_company;Isole delle Bermuda;;;;;;;;;;;;;x
-BMD_eng_dominion;Isole delle Bermuda;;;;;;;;;;;;;x
+BMD_colonial_company;Isole delle Bermuda;;;;;;;;;;;;;x
+BMD_dominion;Isole delle Bermuda;;;;;;;;;;;;;x
 BMK_absolute_monarchy;Kaarta;;;;;;;;;;;;;x
 BMK_hms_government;Kaarta;;;;;;;;;;;;;x
 BMK_prussian_constitutionalism;Kaarta;;;;;;;;;;;;;x
@@ -168,29 +165,29 @@ BNG_absolute_monarchy;Bengala;;;;;;;;;;;;;x
 BNG_hms_government;Bengala;;;;;;;;;;;;;x
 BNG_proletarian_dictatorship;Repubblica Popolare Bengalese;;;;;;;;;;;;;x
 BNG_prussian_constitutionalism;Bengala;;;;;;;;;;;;;x
-BOH_ger_colonial_company;Protettorato di Boemia e Moravia;;;;;;;;;;;;;x
+BOH_colonial_company;Protettorato di Boemia e Moravia;;;;;;;;;;;;;x
 BOH_democracy;Repubblica Ceca;République tchèque;Tschechische Republik;;;;;;;;;;;x
-BOH_ger_dominion;Boemia e Moravia;;;;;;;;;;;;;x
-BOS_ger_colonial_company;Bosnia ed Erzegovina;;;;;;;;;;;;;x
-BOS_ger_dominion;Bosnia ed Erzegovina;;;;;;;;;;;;;x
+BOH_dominion;Boemia e Moravia;;;;;;;;;;;;;x
+BOS_colonial_company;Bosnia ed Erzegovina;;;;;;;;;;;;;x
+BOS_dominion;Bosnia ed Erzegovina;;;;;;;;;;;;;x
 BRA_absolute_monarchy;Ducato di Brunswick;;;;;;;;;;;;;x
-BRA_ger_colonial_company;Gau di Brunswick;;;;;;;;;;;;;x
+BRA_colonial_company;Gau di Brunswick;;;;;;;;;;;;;x
 BRA_democracy;Stato Libero di Brunswick;;;;;;;;;;;;;x
-BRA_ger_dominion;Gau di Brunswick;;;;;;;;;;;;;x
+BRA_dominion;Gau di Brunswick;;;;;;;;;;;;;x
 BRA_fascist_dictatorship;Reich Brunswickese;;;;;;;;;;;;;x
 BRA_federal_democracy;Stato Libero di Brunswick;;;;;;;;;;;;;x
 BRA_hms_government;Ducato di Brunswick;;;;;;;;;;;;;x
 BRA_parliamentary_republic;Stato Libero di Brunswick;;;;;;;;;;;;;x
 BRA_proletarian_dictatorship;Repubblica Democratica Brunswickese;;;;;;;;;;;;;x
 BRA_prussian_constitutionalism;Ducato di Brunswick;;;;;;;;;;;;;x
-BRB_eng_colonial_company;Colonia delle Barbados;;;;;;;;;;;;;x
-BRB_eng_dominion;Barbados;;;;;;;;;;;;;x
+BRB_colonial_company;Colonia delle Barbados;;;;;;;;;;;;;x
+BRB_dominion;Barbados;;;;;;;;;;;;;x
 BRB_hms_government;Barbados;;;;;;;;;;;;;x
 BRB_parliamentary_republic;Barbados;;;;;;;;;;;;;x
 BRE_absolute_monarchy;Ducato di Brema;;;;;;;;;;;;;x
-BRE_ger_colonial_company;Circondario di Brema;;;;;;;;;;;;;x
+BRE_colonial_company;Circondario di Brema;;;;;;;;;;;;;x
 BRE_democracy;Città Libera Anseatica di Brema;;;;;;;;;;;;;x
-BRE_ger_dominion;Circondario di Brema;;;;;;;;;;;;;x
+BRE_dominion;Circondario di Brema;;;;;;;;;;;;;x
 BRE_fascist_dictatorship;Reich Bremense;;;;;;;;;;;;;x
 BRE_federal_democracy;Città Libera Anseatica di Brema;;;;;;;;;;;;;x
 BRE_hms_government;Ducato di Brema;;;;;;;;;;;;;x
@@ -202,7 +199,7 @@ BRM_democracy;Repubblica di Baguirmi;;;;;;;;;;;;;x
 BRM_hms_government;Baguirmi;;;;;;;;;;;;;x
 BRM_prussian_constitutionalism;Baguirmi;;;;;;;;;;;;;x
 BRZ_absolute_monarchy;Impero del Brasile;;;;;;;;;;;;;x
-BRZ_por_colonial_company;Brasile;;;;;;;;;;;;;x
+BRZ_colonial_company;Brasile;;;;;;;;;;;;;x
 BRZ_dominion;Regno del Brasile;;;;;;;;;;;;;x
 BRZ_hms_government;Impero del Brasile;;;;;;;;;;;;;x
 BRZ_proletarian_dictatorship;Sfera di Co-Propsperità Brasiliana;;;;;;;;;;;;;x
@@ -217,8 +214,8 @@ BUK_democracy;Kirghizistan;;;;;;;;;;;;;x
 BUK_fascist_dictatorship;Kirghizia;;;;;;;;;;;;;x
 BUK_presidential_dictatorship;Kirghizistan;;;;;;;;;;;;;x
 BUK_proletarian_dictatorship;Kirghizia;;;;;;;;;;;;;x
-BUN_eng_colonial_company;Agenzia dell'India Centrale;;;;;;;;;;;;;x
-BUN_eng_dominion;Agenzia dell'India Centrale;;;;;;;;;;;;;x
+BUN_colonial_company;Agenzia dell'India Centrale;;;;;;;;;;;;;x
+BUN_dominion;Agenzia dell'India Centrale;;;;;;;;;;;;;x
 BUR_absolute_monarchy;Dinastia Konbaung;;;;;;;;;;;;;x
 BYZ_absolute_monarchy;Impero dei Greci;Empire byzantin;Byzantinisches Reich;;;;;;;;;;;x
 BYZ_bourgeois_dictatorship;Federazione Greca;;;;;;;;;;;;;x
@@ -229,23 +226,21 @@ BYZ_presidential_dictatorship;Grande Grecia;;;;;;;;;;;;;x
 BYZ_proletarian_dictatorship;Unione dei Themata Rossi;Union des thèmes rouges;Union der Rotthematiker;;;;;;;;;;;x
 BYZ_prussian_constitutionalism;Impero dei Greci;;;;;;;;;;;;;x
 CAL_absolute_monarchy;Impero di Californias;;;;;;;;;;;;;x
-CAL_spa_colonial_company;California Spagnola;;;;;;;;;;;;;x
+CAL_colonial_company;California Spagnola;;;;;;;;;;;;;x
 CAL_democracy;Repubblica di California;;;;;;;;;;;;;x
-CAL_eng_dominion;Territorio della California;;;;;;;;;;;;;x
+CAL_dominion;Territorio della California;;;;;;;;;;;;;x
 CAL_federal_democracy;Repubblica di California;;;;;;;;;;;;;x
 CAL_hms_government;Regno di California;Royaume de Californie;Kingdom of California;;;;;;;;;;;x
 CAL_prussian_constitutionalism;Impero di California;;;;;;;;;;;;;x
 CAN_absolute_monarchy;Canada;;;;;;;;;;;;;x
-CAN_eng_colonial_company;Provincia del Canada;;;;;;;;;;;;;x
+CAN_colonial_company;Provincia del Canada;;;;;;;;;;;;;x
 CAN_democracy;Repubblica del Canada;;;;;;;;;;;;;x
-CAN_eng_dominion;Dominio del Canada;;;;;;;;;;;;;x
-CAN_fra_colonial_company;Dominio del Canada;;;;;;;;;;;;;x
-CAN_fra_dominion;Dominio del Canada;;;;;;;;;;;;;x
+CAN_dominion;Dominio del Canada;;;;;;;;;;;;;x
 CAN_hms_government;Canada;;;;;;;;;;;;;x
 CAN_parliamentary_republic;Canada;;;;;;;;;;;;;x
 CAN_prussian_constitutionalism;Canada;;;;;;;;;;;;;x
 CAR_absolute_monarchy;Impero Centrafricano;;;;;;;;;;;;;x
-CAR_fra_colonial_company;Africa Equatoriale;;;;;;;;;;;;;x
+CAR_colonial_company;Africa Equatoriale;;;;;;;;;;;;;x
 CAR_fascist_dictatorship;Impero Centrafricano;;;;;;;;;;;;x
 CAR_hms_government;Ubangi-Sciari;;;;;;;;;;;;;x
 CAR_prussian_constitutionalism;Ubangi-Sciari;;;;;;;;;;;;;x
@@ -254,7 +249,7 @@ CGO_proletarian_dictatorship;Repubblica Popolare del Congo;;;;;;;;;;;;;x
 CHD_absolute_monarchy;Baguirmi;;;;;;;;;;;;;x
 CHD_prussian_constitutionalism;Baguirmi;;;;;;;;;;;;;x
 CHE_democracy;Nazione Cherokee;;;;;;;;;;;;;x
-CHE_eng_dominion;Nazione Cherokee;;;;;;;;;;;;;x
+CHE_dominion;Nazione Cherokee;;;;;;;;;;;;;x
 CHE_federal_democracy;Nazione Cherokee;;;;;;;;;;;;;x
 CHI_absolute_monarchy;Impero di Cina;;;;;;;;;;;;;x
 CHI_democracy;Repubblica di Cina;;;;;;;;;;;;;x
@@ -262,55 +257,55 @@ CHI_hms_government;Impero Cinese;;;;;;;;;;;;;x
 CHI_presidential_dictatorship;Cina Beiyang;;;;;;;;;;;;;x
 CHI_proletarian_dictatorship;Repubblica Popolare Cinese;;;;;;;;;;;;;x
 CHI_prussian_constitutionalism;Impero di Cina;;;;;;;;;;;;;x
-CHL_spa_colonial_company;Capitanato Generale del Cile;;;;;;;;;;;;;x
+CHL_colonial_company;Capitanato Generale del Cile;;;;;;;;;;;;;x
 CHO_absolute_monarchy;Choshu;;;;;;;;;;;;;x
 CHO_hms_government;Choshu;;;;;;;;;;;;;x
 CHO_prussian_constitutionalism;Choshu;;;;;;;;;;;;;x
-CHP_spa_colonial_company;Intendenza della Città Reale;;;;;;;;;;;;;x
+CHP_colonial_company;Intendenza della Città Reale;;;;;;;;;;;;;x
 CHP_democracy;Stato Libero di Chiapas;;;;;;;;;;;;;x
 CHP_federal_democracy;Stato Libero di Chiapas;;;;;;;;;;;;;x
 CLM_absolute_monarchy;Nuova Granada;;;;;;;;;;;;;x
 CLM_fascist_dictatorship;Gran Colombia;;;;;;;;;;;;;x
 CLM_hms_government;Nuova Granada;;;;;;;;;;;;;x
 CLM_prussian_constitutionalism;Nuova Granada;;;;;;;;;;;;;x
-CMR_ger_colonial_company;Camerun;;;;;;;;;;;;;x
+CMR_colonial_company;Camerun;;;;;;;;;;;;;x
 CNG_democracy;Repubblica di Congo;;;;;;;;;;;;;x
 CNG_hms_government;Stato Libero del Congo;;;;;;;;;;;;;x
 CNG_presidential_dictatorship;Zaire;Zaïre;Zaire;;;;;;;;;;;x
 CNG_prussian_constitutionalism;Stato Libero del Congo;;;;;;;;;;;;;x
 COB_absolute_monarchy;Ducato di Sassonia-Coburgo e Gotha;;;;;;;;;;;;;x
-COB_ger_colonial_company;Gau di Coburgo;;;;;;;;;;;;;x
+COB_colonial_company;Gau di Coburgo;;;;;;;;;;;;;x
 COB_democracy;Stato Libero di Coburgo;;;;;;;;;;;;;x
-COB_ger_dominion;Gau di Coburgo;;;;;;;;;;;;;x
+COB_dominion;Gau di Coburgo;;;;;;;;;;;;;x
 COB_fascist_dictatorship;Reich Coburgense;;;;;;;;;;;;;x
 COB_federal_democracy;Stato Libero di Coburgo;;;;;;;;;;;;;x
 COB_hms_government;Ducato di Sassonia-Coburgo e Gotha;;;;;;;;;;;;;x
 COB_parliamentary_republic;Stato Libero di Coburgo;;;;;;;;;;;;;x
 COB_proletarian_dictatorship;Repubblica Sovietica di Coburgo;;;;;;;;;;;;;x
 COB_prussian_constitutionalism;Ducato di Sassonia-Coburgo e Gotha;;;;;;;;;;;;;x
-COL_eng_colonial_company;Dipartimento di Columbia;;;;;;;;;;;;;x
+COL_colonial_company;Dipartimento di Columbia;;;;;;;;;;;;;x
 COL_democracy;Repubblica di Columbia;;;;;;;;;;;;;x
-COL_eng_dominion;Colonia della Columbia Britannica;;;;;;;;;;;;;x
+COL_dominion;Colonia della Columbia Britannica;;;;;;;;;;;;;x
 COL_hms_government;Columbia Britannica;;;;;;;;;;;;;x
 COL_parliamentary_republic;Columbia Britannica;;;;;;;;;;;;;x
-COS_spa_colonial_company;Governo della Costa Rica;;;;;;;;;;;;;x
+COS_colonial_company;Governo della Costa Rica;;;;;;;;;;;;;x
 COS_democracy;Repubblica di Costa Rica;;;;;;;;;;;;;x
 COS_federal_democracy;Repubblica di Costa Rica;;;;;;;;;;;;;x
 COS_presidential_dictatorship;Stato Libero di Costa Rica;;;;;;;;;;;;;x
-COU_rus_colonial_company;Governatorato di Curlandia;;;;;;;;;;;;;x
-COU_rus_dominion;Governatorato di Curlandia;;;;;;;;;;;;;x
+COU_colonial_company;Governatorato di Curlandia;;;;;;;;;;;;;x
+COU_dominion;Governatorato di Curlandia;;;;;;;;;;;;;x
 COU_hms_government;Granducato di Curlandia;;;;;;;;;;;;;x
 COU_prussian_constitutionalism;Granducato di Curlandia;;;;;;;;;;;;;x
 COU_absolute_monarchy;Granducato di Curlandia;;;;;;;;;;;;;x
 CPL_absolute_monarchy;Polonia;;;;;;;;;;;;;x
-CPL_rus_colonial_company;Regno del Congresso;;;;;;;;;;;;;x
-CPL_rus_dominion;Regno del Congresso;;;;;;;;;;;;;x
+CPL_colonial_company;Regno del Congresso;;;;;;;;;;;;;x
+CPL_dominion;Regno del Congresso;;;;;;;;;;;;;x
 CPL_hms_government;Polonia;;;;;;;;;;;;;x
 CPL_prussian_constitutionalism;Polonia;;;;;;;;;;;;;x
 CRB_absolute_monarchy;Federazione Caraibica;;;;;;;;;;;;;x
-CRB_eng_colonial_company;Colonia delle Isole Leeward;;;;;;;;;;;;;x
+CRB_colonial_company;Colonia delle Isole Leeward;;;;;;;;;;;;;x
 CRB_democracy;Federazione Caraibica;;;;;;;;;;;;;x
-CRB_eng_dominion;Colonia delle Isole Leeward;;;;;;;;;;;;;x
+CRB_dominion;Colonia delle Isole Leeward;;;;;;;;;;;;;x
 CRB_fascist_dictatorship;Impero dei Caraibi;;;;;;;;;;;;;x
 CRB_hms_government;Isole Leeward;;;;;;;;;;;;;x
 CRB_parliamentary_republic;Isole Leeward;;;;;;;;;;;;;x
@@ -325,7 +320,7 @@ CSA_hms_government;Confederazione Imperiale;;;;;;;;;;;;;x
 CSA_presidential_dictatorship;Stati Confederati d'America;États confédérés d'Amérique;;;;;;;;;;;;x
 CSA_proletarian_dictatorship;Confederazione del Popolo;;;;;;;;;;;;;x
 CSA_prussian_constitutionalism;Confederazione Imperiale;;;;;;;;;;;;;x
-CUB_spa_colonial_company;Capitanato Generale di Cuba;;;;;;;;;;;;;x
+CUB_colonial_company;Capitanato Generale di Cuba;;;;;;;;;;;;;x
 CUB_democracy;Repubblica di Cuba;;;;;;;;;;;;;x
 CUB_federal_democracy;Repubblica di Cuba;;;;;;;;;;;;;x
 CUB_presidential_dictatorship;Repubblica di Cuba;;;;;;;;;;;;;x
@@ -343,7 +338,7 @@ DAH_hms_government;Dahomey;;;;;;;;;;;;;x
 DAH_proletarian_dictatorship;Repubblica Popolare del Benin;;;;;;;;;;;;;x
 DAH_prussian_constitutionalism;Dahomey;;;;;;;;;;;;;x
 DAI_absolute_monarchy;Dai Nam;;;;;;;;;;;;;x
-DAI_fra_colonial_company;Indocina;;;;;;;;;;;;;x
+DAI_colonial_company;Indocina;;;;;;;;;;;;;x
 DAI_prussian_constitutionalism;Dai Nam;;;;;;;;;;;;;x
 DAK_absolute_monarchy;Dakota;;;;;;;;;;;;;x
 DAK_democracy;Repubblica di Lakota;;;;;;;;;;;;;x
@@ -375,7 +370,7 @@ DND_fascist_dictatorship;Repubblica Dendi;Dendi;Dendi;;;;;;;;;;;x
 DND_presidential_dictatorship;Songhai;Songhay;Songhai;;;;;;;;;;;x
 DND_proletarian_dictatorship;Repubblica Songhai;Songhay;Songhai;;;;;;;;;;;x
 DOM_absolute_monarchy;Santo Domingo;Santo Domingo;Santo Domingo;;;;;;;;;;;x
-DOM_spa_colonial_company;Capitanato Generale di Santo Domingo;;;;;;;;;;;;;x
+DOM_colonial_company;Capitanato Generale di Santo Domingo;;;;;;;;;;;;;x
 DOM_democracy;Repubblica Dominicana;;;;;;;;;;;;;x
 DOM_federal_democracy;Repubblica Dominicana;;;;;;;;;;;;;x
 DOM_hms_government;Santo Domingo;Santo Domingo;Santo Domingo;;;;;;;;;;;x
@@ -392,14 +387,14 @@ DUR_fascist_dictatorship;Repubblica Durrani;;;;;;;;;;;;;x
 DUR_hms_government;Impero Durrani;;;;;;;;;;;;;x
 DUR_prussian_constitutionalism;Impero Durrani;;;;;;;;;;;;;x
 EGY_absolute_monarchy;Sultanato d'Egitto;;;;;;;;;;;;;x
-EGY_tur_colonial_company;Chedivato d'Egitto;;;;;;;;;;;;;x
+EGY_colonial_company;Chedivato d'Egitto;;;;;;;;;;;;;x
 EGY_democracy;Repubblica d'Egitto;;;;;;;;;;;;;x
 EGY_hms_government;Regno Egiziano;;;;;;;;;;;;;x
 EGY_prussian_constitutionalism;Regno Egiziano;;;;;;;;;;;;;x
 EIC_absolute_monarchy;Impero delle Indie Orientali;;;;;;;;;;;;;x
 EIC_hms_government;Impero delle Indie Orientali;;;;;;;;;;;;;x
 EIC_prussian_constitutionalism;Impero delle Indie Orientali;;;;;;;;;;;;;x
-ELS_spa_colonial_company;Intendenza di El Salvador;;;;;;;;;;;;;x
+ELS_colonial_company;Intendenza di El Salvador;;;;;;;;;;;;;x
 ELS_democracy;Repubblica di El Salvador;;;;;;;;;;;;;x
 ELS_federal_democracy;Repubblica di El Salvador;;;;;;;;;;;;;x
 ENG_absolute_monarchy;Impero Britannico;Empire britannique;Britisches Königreich;;;;;;;;;;;x
@@ -411,14 +406,18 @@ ENG_proletarian_dictatorship;Commonwealth dei Lavoratori;Commonwealth des ouvrie
 ENG_prussian_constitutionalism;Impero Britannico;Empire britannique;Britisches Königreich;;;;;;;;;;;x
 EQG_absolute_monarchy;Moka;;;;;;;;;;;;;x
 ETH_absolute_monarchy;Abissinia;Abyssinia;Abyssinia;;;;;;;;;;;x
-ETH_fra_colonial_company;Africa Orientale;;;;;;;;;;;;;x
+ETH_colonial_company;Africa Orientale;;;;;;;;;;;;;x
 ETH_prussian_constitutionalism;Impero Abissino;Abyssinian Empire;Abyssinian Empire;;;;;;;;;;;x
 EZO_democracy;Repubblica di Ezo;;;;;;;;;;;;;x
 EZO_fascist_dictatorship;Shogunato;;;;;;;;;;;;;x
 EZO_presidential_dictatorship;Repubblica di Ezo;;;;;;;;;;;;;x
 EZO_proletarian_dictatorship;Repubblica Popolare di Ezo;;;;;;;;;;;;;x
+FAS_colonial_company;Dominio dell'Australia;;;;;;;;;;;;;x
+FAS_dominion;Dominio dell'Australia;;;;;;;;;;;;;x
+FCA_colonial_company;Dominio del Canada;;;;;;;;;;;;;x
+FCA_dominion;Dominio del Canada;;;;;;;;;;;;;x
 FIN_absolute_monarchy;Regno di Finlandia;;;;;;;;;;;;;x
-FIN_rus_colonial_company;Granducato di Finlandia;;;;;;;;;;;;;x
+FIN_colonial_company;Granducato di Finlandia;;;;;;;;;;;;;x
 FIN_dominon;Granducato di Finland;;;;;;;;;;;;;x
 FIN_hms_government;Regno di Finlandia;;;;;;;;;;;;;x
 FIN_proletarian_dictatorship;Finlandia Rossa;;;;;;;;;;;;;x
@@ -440,11 +439,11 @@ FRA_presidential_dictatorship;Repubblica Francese;;;;;;;;;;;;;x
 FRA_proletarian_dictatorship;Comune di Francia;;;;;;;;;;;;;x
 FRA_prussian_constitutionalism;Impero Francese;;;;;;;;;;;;;x
 FRA_prussian_constitutionalism2;Regno di Francia;;;;;;;;;;;;;x
-FLA_eng_colonial_company;Stato Libero di Anversa;;;;;;;;;;;;;x
+FLA_colonial_company;Stato Libero di Anversa;;;;;;;;;;;;;x
 FRM_absolute_monarchy;Ducato di Francoforte;;;;;;;;;;;;;x
-FRM_ger_colonial_company;Circondario di Francoforte;;;;;;;;;;;;;x
+FRM_colonial_company;Circondario di Francoforte;;;;;;;;;;;;;x
 FRM_democracy;Città Libera di Francoforte;;;;;;;;;;;;;x
-FRM_ger_dominion;Circondario di Francoforte;;;;;;;;;;;;;x
+FRM_dominion;Circondario di Francoforte;;;;;;;;;;;;;x
 FRM_fascist_dictatorship;Reich Francofortese;;;;;;;;;;;;;x
 FRM_federal_democracy;Città Libera di Francoforte;;;;;;;;;;;;;x
 FRM_hms_government;Ducato di Francoforte;;;;;;;;;;;;;x
@@ -465,7 +464,7 @@ GCF_prussian_constitutionalism;Confederazione Tedesca;;;;;;;;;;;;;x
 GCO_absolute_monarchy;Nuova Granada;;;;;;;;;;;;;x
 GCO_hms_government;Nuova Granada;;;;;;;;;;;;x
 GCO_prussian_constitutionalism;Nuova Granada;;;;;;;;;;;;;x
-GCO_spa_colonial_company;Vicereame della Nuova Granada;;;;;;;;;;;;;x
+GCO_colonial_company;Vicereame della Nuova Granada;;;;;;;;;;;;;x
 GEN_absolute_monarchy;Genova;;;;;;;;;;;;;x
 GEN_democracy;Genova;;;;;;;;;;;;;x
 GEN_fascist_dictatorship;Genova;;;;;;;;;;;;;x
@@ -482,18 +481,18 @@ GNG_presidential_dictatorship;Cricca del Guangdong;;;;;;;;;;;;;x
 GRN_absolute_monarchy;Contea di Groenlandia;;;;;;;;;;;;x
 GRN_colonial_company;Dipartimento Commerciale Reale della Groenlandia;;;;;;;;;;;;;x
 GRN_democracy;Kalaallit Nunaat;;;;;;;;;;;;;x
-GRN_eng_dominion;Colonia della Groenlandia;;;;;;;;;;;;;x
+GRN_dominion;Colonia della Groenlandia;;;;;;;;;;;;;x
 GRN_federal_democracy;Kalaallit Nunaat;;;;;;;;;;;;;x
 GRN_hms_government;Contea della Groenlandia;;;;;;;;;;;;;x
 GRN_prussian_constitutionalism;Contea della Groenlandia;;;;;;;;;;;;;x
-GUA_spa_colonial_company;Capitanato Generale del Guatemala;;;;;;;;;;;;;x
+GUA_colonial_company;Capitanato Generale del Guatemala;;;;;;;;;;;;;x
 GUA_democracy;Repubblica del Guatemala;;;;;;;;;;;;;x
 GUA_federal_democracy;Repubblica del Guatemala;;;;;;;;;;;;;x
 GXI_presidential_dictatorship;Cricca del Guangxi;Clique de Guangxi;Guangxi-Clique;;;;;;;;;;;x
 HAI_absolute_monarchy;Impero di Haiti;;;;;;;;;;;;;x
-HAI_fra_colonial_company;Colonia di Santo Domingo;;;;;;;;;;;;;x
+HAI_colonial_company;Colonia di Santo Domingo;;;;;;;;;;;;;x
 HAI_democracy;Repubblica di Haiti;;;;;;;;;;;;;x
-HAI_eng_dominion;Colonia di Santo Domingo;;;;;;;;;;;;;x
+HAI_dominion;Colonia di Santo Domingo;;;;;;;;;;;;;x
 HAI_federal_democracy;Stato di Haiti;;;;;;;;;;;;;x
 HAI_hms_government;Regno di Haiti;;;;;;;;;;;;;x
 HAI_presidential_dictatorship;Repubblica di Haiti;;;;;;;;;;;;;x
@@ -502,9 +501,9 @@ HAL_absolute_monarchy;Emirato del Jebel Shammar;;;;;;;;;;;;;x
 HAL_hms_government;Emirato del Jebel Shammar;;;;;;;;;;;;;x
 HAL_prussian_constitutionalism;Emirato del Jebel Shammar;;;;;;;;;;;;;x
 HAM_absolute_monarchy;Ducato di Amburgo;;;;;;;;;;;;;x
-HAM_ger_colonial_company;Circondario di Amburgo;;;;;;;;;;;;;x
+HAM_colonial_company;Circondario di Amburgo;;;;;;;;;;;;;x
 HAM_democracy;Città Libera Anseatica di Amburgo;;;;;;;;;;;;;x
-HAM_ger_dominion;Circondario di Amburgo;;;;;;;;;;;;;x
+HAM_dominion;Circondario di Amburgo;;;;;;;;;;;;;x
 HAM_fascist_dictatorship;Reich Amburghese;;;;;;;;;;;;;x
 HAM_federal_democracy;Città Libera Anseatica di Amburgo;;;;;;;;;;;;;x
 HAM_hms_government;Ducato di Amburgo;;;;;;;;;;;;;x
@@ -512,9 +511,9 @@ HAM_parliamentary_republic;Città Libera Anseatica di Amburgo;;;;;;;;;;;;;x
 HAM_proletarian_dictatorship;Comune di Amburgo;;;;;;;;;;;;;x
 HAM_prussian_constitutionalism;Ducato di Amburgo;;;;;;;;;;;;;x
 HAN_absolute_monarchy;Regno di Hannover;;;;;;;;;;;;;x
-HAN_eng_colonial_company;Regno di Hannover;;;;;;;;;;;;;x
+HAN_colonial_company;Regno di Hannover;;;;;;;;;;;;;x
 HAN_democracy;Stato Libero di Hannover;;;;;;;;;;;;;x
-HAN_eng_dominion;Regno di Hannover;;;;;;;;;;;;;x
+HAN_dominion;Regno di Hannover;;;;;;;;;;;;;x
 HAN_fascist_dictatorship;Reich Hannoverano;;;;;;;;;;;;;x
 HAN_federal_democracy;Stato Libero di Hannover;;;;;;;;;;;;;x
 HAN_hms_government;Regno di Hannover;;;;;;;;;;;;;x
@@ -522,14 +521,14 @@ HAN_parliamentary_republic;Stato Libero di Hannover;;;;;;;;;;;;;x
 HAN_proletarian_dictatorship;Repubblica Democratica Hannoverana;;;;;;;;;;;;;x
 HAN_prussian_constitutionalism;Regno di Hannover;;;;;;;;;;;;;x
 HDJ_absolute_monarchy;Regno dell'Hegiaz;;;;;;;;;;;;;x
-HDJ_tur_colonial_company;Sceriffato della Mecca;;;;;;;;;;;;;x
+HDJ_colonial_company;Sceriffato della Mecca;;;;;;;;;;;;;x
 HDJ_dominion;Sceriffato della Mecca;;;;;;;;;;;;;x
 HDJ_hms_government;Regno dell'Hegiaz;;;;;;;;;;;;;x
 HDJ_prussian_constitutionalism;Regno dell'Hegiaz;;;;;;;;;;;;;x
 HEH_absolute_monarchy;Langraviato d'Assia-Homburg;;;;;;;;;;;;;x
-HEH_ger_colonial_company;Circondario di Homburg;;;;;;;;;;;;;x
+HEH_colonial_company;Circondario di Homburg;;;;;;;;;;;;;x
 HEH_democracy;Stato Popolare di Homburg;;;;;;;;;;;;;x
-HEH_ger_dominion;Circondario di Homburg;;;;;;;;;;;;;x
+HEH_dominion;Circondario di Homburg;;;;;;;;;;;;;x
 HEH_fascist_dictatorship;Reich Homburghese;;;;;;;;;;;;;x
 HEH_federal_democracy;Stato Popolare di Homburg;;;;;;;;;;;;;x
 HEH_hms_government;Langraviato d'Assia-Homburg;;;;;;;;;;;;;x
@@ -537,9 +536,9 @@ HEH_parliamentary_republic;Stato Popolare di Homburg;;;;;;;;;;;;;x
 HEH_proletarian_dictatorship;Repubblica Popolare di Homburg;;;;;;;;;;;;;x
 HEH_prussian_constitutionalism;Langraviato d'Assia-Homburg;;;;;;;;;;;;;x
 HEK_absolute_monarchy;Elettorato d'Assia;;;;;;;;;;;;;x
-HEK_ger_colonial_company;Land di Kassel;;;;;;;;;;;;;x
+HEK_colonial_company;Land di Kassel;;;;;;;;;;;;;x
 HEK_democracy;Stato Popolare di Kassel;;;;;;;;;;;;;x
-HEK_ger_dominion;Land di Kassel;;;;;;;;;;;;;x
+HEK_dominion;Land di Kassel;;;;;;;;;;;;;x
 HEK_fascist_dictatorship;Reich Kasselese;;;;;;;;;;;;;x
 HEK_federal_democracy;Stato Popolare di Kassel;;;;;;;;;;;;;x
 HEK_hms_government;Elettorato d'Assia;;;;;;;;;;;;;x
@@ -547,9 +546,9 @@ HEK_parliamentary_republic;Stato Popolare di Kassel;;;;;;;;;;;;;x
 HEK_proletarian_dictatorship;Repubblica Popolare di Kassel;;;;;;;;;;;;;x
 HEK_prussian_constitutionalism;Elettorato d'Assia;;;;;;;;;;;;;x
 HES_absolute_monarchy;Granducato d'Assia e del Reno;;;;;;;;;;;;;x
-HES_ger_colonial_company;Land d'Assia;;;;;;;;;;;;;x
+HES_colonial_company;Land d'Assia;;;;;;;;;;;;;x
 HES_democracy;Stato Popolare d'Assia;;;;;;;;;;;;;x
-HES_ger_dominion;Land d'Assia;;;;;;;;;;;;;x
+HES_dominion;Land d'Assia;;;;;;;;;;;;;x
 HES_fascist_dictatorship;Reich Darmstedtese;;;;;;;;;;;;;x
 HES_federal_democracy;Stato Popolare d'Assia;;;;;;;;;;;;;x
 HES_hms_government;Granducato d'Assia e del Reno;;;;;;;;;;;;;x
@@ -559,7 +558,7 @@ HES_prussian_constitutionalism;Granducato d'Assia e del Reno;;;;;;;;;;;;;x
 HND_absolute_monarchy;Impero Hindustani;Hindustani Empire;Hindustani Empire;;;;;;;;;;;x
 HND_absolute_monarchy_2;Compagnia delle Indie Orientali;Hindustani Empire;Hindustani Empire;;;;;;;;;;;x
 HND_absolute_monarchy_3;Raj;Hindustani Empire;Hindustani Empire;;;;;;;;;;;x
-HND_eng_colonial_company;Raj;;;;;;;;;;;;;x
+HND_colonial_company;Raj;;;;;;;;;;;;;x
 HND_eng_dominon;Dominio dell'India;;;;;;;;;;;;;x
 HND_fascist_dictatorship;Hindustan;Hindustan;Hindustan;;;;;;;;;;;x
 HND_hms_government;Impero Hindustani;Hindustani Empire;Hindustani Empire;;;;;;;;;;;x
@@ -577,9 +576,9 @@ HNS_presidential_dictatorship;Lega Anseatica;;;;;;;;;;;;;x
 HNS_proletarian_dictatorship;Libera Repubblica Anseatica;;;;;;;;;;;;;x
 HNS_prussian_constitutionalism;Città Libere Anseatiche;;;;;;;;;;;;;x
 HOH_absolute_monarchy;Principato di Hohenzollern-Hechingen;;;;;;;;;;;;;x
-HOH_ger_colonial_company;Circondario di Hechingen;;;;;;;;;;;;;x
+HOH_colonial_company;Circondario di Hechingen;;;;;;;;;;;;;x
 HOH_democracy;Stato Libero di Hechingen;;;;;;;;;;;;;x
-HOH_ger_dominion;Circondario di Hechingen;;;;;;;;;;;;;x
+HOH_dominion;Circondario di Hechingen;;;;;;;;;;;;;x
 HOH_fascist_dictatorship;Reich Hechinghenese;;;;;;;;;;;;;x
 HOH_federal_democracy;Stato Libero di Hechingen;;;;;;;;;;;;;x
 HOH_hms_government;Principato di Hohenzollern-Hechingen;;;;;;;;;;;;;x
@@ -596,7 +595,7 @@ HOL_hms_government;Ducato di Holstein;;;;;;;;;;;;;x
 HOL_parliamentary_republic;Stato Libero di Holstein;;;;;;;;;;;;;x
 HOL_proletarian_dictatorship;Repubblica Democratica Holsteinese;;;;;;;;;;;;;x
 HOL_prussian_constitutionalism;Ducato di Holstein;;;;;;;;;;;;;x
-HON_spa_colonial_company;Intendenza di Comayagua;;;;;;;;;;;;;x
+HON_colonial_company;Intendenza di Comayagua;;;;;;;;;;;;;x
 HON_democracy;Repubblica di Honduras;;;;;;;;;;;;;x
 HON_federal_democracy;Repubblica di Honduras;;;;;;;;;;;;;x
 HUI_presidential_dictatorship;Cricca dell'Anhui;;;;;;;;;;;;;x
@@ -615,16 +614,16 @@ IDO_hms_government;Indocina;;;;;;;;;;;;;x
 IDO_presidential_dictatorship;Indocina;;;;;;;;;;;;;x
 IDO_proletarian_dictatorship;Unione Populista Indocinese;;;;;;;;;;;;;x
 IDO_prussian_constitutionalism;Indocina;;;;;;;;;;;;;x
-IMG_qng_colonial_company;Mongolia Interna;;;;;;;;;;;;;x
-INO_net_colonial_company;Indie Orientali;;;;;;;;;;;;;x
+IMG_colonial_company;Mongolia Interna;;;;;;;;;;;;;x
+INO_colonial_company;Indie Orientali;;;;;;;;;;;;;x
 ION_democracy;Repubblica Settinsulare;;;;;;;;;;;;;x
 IOT_absolute_monarchy;Territorio Britannico dell'Oceano Indiano;;;;;;;;;;;;;x
-IOT_eng_colonial_company;Territorio Britannico dell'Oceano Indiano;;;;;;;;;;;;;x
-IOT_eng_dominion;Territorio Britannico dell'Oceano Indiano;;;;;;;;;;;;;x
+IOT_colonial_company;Territorio Britannico dell'Oceano Indiano;;;;;;;;;;;;;x
+IOT_dominion;Territorio Britannico dell'Oceano Indiano;;;;;;;;;;;;;x
 IOT_hms_government;Territorio Britannico dell'Oceano Indiano;;;;;;;;;;;;;x
 IOT_prussian_constitutionalism;Territorio Britannico dell'Oceano Indiano;;;;;;;;;;;;;x
-IRE_eng_colonial_company;Dominio Irlandese;;;;;;;;;;;;;x
-IRE_eng_dominion;Stato Libero Irlandese;;;;;;;;;;;;;x
+IRE_colonial_company;Dominio Irlandese;;;;;;;;;;;;;x
+IRE_dominion;Stato Libero Irlandese;;;;;;;;;;;;;x
 IRE_fascist_dictatorship;Irlanda;;;;;;;;;;;;;x
 IRQ_absolute_monarchy;Mesopotamia;;;;;;;;;;;;;x
 IRQ_hms_government;Iraq;;;;;;;;;;;;;x
@@ -651,10 +650,10 @@ ITS_hms_government;Impero Italiano;;;;;;;;;;;;;x
 ITS_proletarian_dictatorship;Unione Popolare d'Italia;;;;;;;;;;;;;x
 ITS_prussian_constitutionalism;Impero Italiano;;;;;;;;;;;;;x
 ITS_theocracy;Federazione Italiana;;;;;;;;;;;;;x
-IVC_fra_colonial_company;Costa d'Avorio;;;;;;;;;;;;;x
-IVC_fra_dominion;Costa d'Avorio;;;;;;;;;;;;;x
-JAM_eng_colonial_company;Colonia della Giamaica;;;;;;;;;;;;;x
-JAM_eng_dominion;Giamaica e Dipendenze;;;;;;;;;;;;;x
+IVC_colonial_company;Costa d'Avorio;;;;;;;;;;;;;x
+IVC_dominion;Costa d'Avorio;;;;;;;;;;;;;x
+JAM_colonial_company;Colonia della Giamaica;;;;;;;;;;;;;x
+JAM_dominion;Giamaica e Dipendenze;;;;;;;;;;;;;x
 JAM_hms_government;Giamaica;;;;;;;;;;;;;x
 JAM_parliamentary_republic;Giamaica;;;;;;;;;;;;;x
 JAP_absolute_monarchy;Giappone Imperiale;;;;;;;;;;;;;x
@@ -708,8 +707,8 @@ KMT_democracy;Repubblica di Cina;;;;;;;;;;;;;x
 KMT_fascist_dictatorship;Alleanza di Protezione Nazionale;;;;;;;;;;;;;x
 KMT_presidential_dictatorship;Repubblica di Cina;;;;;;;;;;;;;x
 KMT_proletarian_dictatorship;Repubblica Socialista di Cina;;;;;;;;;;;;;x
-KNY_eng_colonial_company;Africa Orientale;;;;;;;;;;;;;x
-KNY_eng_dominion;Dominio dell'Africa Orientale;;;;;;;;;;;;;x
+KNY_colonial_company;Africa Orientale;;;;;;;;;;;;;x
+KNY_dominion;Dominio dell'Africa Orientale;;;;;;;;;;;;;x
 KOK_absolute_monarchy;Kokand;;;;;;;;;;;;;x
 KOK_bourgeois_dictatorship;Kirghizia;;;;;;;;;;;;;x
 KOK_democracy;Kirghizistan;;;;;;;;;;;;;x
@@ -735,9 +734,9 @@ KRN_fascist_dictatorship;Tamil Nadu;;;;;;;;;;;;;x
 KRN_proletarian_dictatorship;Repubblica dei Carnatici;;;;;;;;;;;;;x
 KRO_absolute_monarchy;Regno di Kronprinz;;;;;;;;;;;;;x
 KRO_bourgeois_dictatorship;Repubblica Kronprinzlense;;;;;;;;;;;;;x
-KRO_ger_colonial_company;Colonia di Kronprinzinsel;;;;;;;;;;;;;x
+KRO_colonial_company;Colonia di Kronprinzinsel;;;;;;;;;;;;;x
 KRO_democracy;Repubblica Kronprinzlense;;;;;;;;;;;;;x
-KRO_ger_dominion;Colonia di Kronprinzinsel;;;;;;;;;;;;;x
+KRO_dominion;Colonia di Kronprinzinsel;;;;;;;;;;;;;x
 KRO_fascist_dictatorship;Reich Kronprinzlense;;;;;;;;;;;;;x
 KRO_hms_government;Regno di Kronprinz;;;;;;;;;;;;;x
 KRO_proletarian_dictatorship;Repubblica Popolare Kronprinzlense;;;;;;;;;;;;;x
@@ -754,9 +753,9 @@ LAU_parliamentary_republic;Stato Libero di Lauenburg;;;;;;;;;;;;;x
 LAU_proletarian_dictatorship;Repubblica Democratia Lauenburghese;;;;;;;;;;;;;x
 LAU_prussian_constitutionalism;Ducato di Sassonia-Lauenburg;;;;;;;;;;;;;x
 LBG_absolute_monarchy;Ducato di Limburgo;;;;;;;;;;;;;x
-LBG_net_colonial_company;Ducato di Limburgo;;;;;;;;;;;;;x
+LBG_colonial_company;Ducato di Limburgo;;;;;;;;;;;;;x
 LBG_democracy;Repubblica di Limburgo;;;;;;;;;;;;;x
-LBG_net_dominion;Ducato di Limburgo;;;;;;;;;;;;;x
+LBG_dominion;Ducato di Limburgo;;;;;;;;;;;;;x
 LBG_fascist_dictatorship;Rijk Limburghese;;;;;;;;;;;;;x
 LBG_federal_democracy;Repubblica di Limburgo;;;;;;;;;;;;;x
 LBG_hms_government;Ducato di Limburgo;;;;;;;;;;;;;x
@@ -772,9 +771,9 @@ LEG_hms_government;Oriente;;;;;;;;;;;;;x
 LEG_presidential_dictatorship;Città della Legazione;;;;;;;;;;;;;x
 LIB_colonial_company;Società di Colonizzazione Americana;;;;;;;;;;;;;x
 LIE_absolute_monarchy;Principato del Liechtenstein;;;;;;;;;;;;;x
-LIE_ger_colonial_company;Circondario del Liechtenstein;;;;;;;;;;;;;x
+LIE_colonial_company;Circondario del Liechtenstein;;;;;;;;;;;;;x
 LIE_democracy;Repubblica del Liechtenstein;;;;;;;;;;;;;x
-LIE_ger_dominion;Circondario del Liechtenstein;;;;;;;;;;;;;x
+LIE_dominion;Circondario del Liechtenstein;;;;;;;;;;;;;x
 LIE_fascist_dictatorship;Reich Liechtensteinese;;;;;;;;;;;;;x
 LIE_federal_democracy;Repubblica del Liechtenstein;;;;;;;;;;;;;x
 LIE_hms_government;Principato del Liechtenstein;;;;;;;;;;;;;x
@@ -782,17 +781,17 @@ LIE_parliamentary_republic;Repubblica del Liechtenstein;;;;;;;;;;;;;x
 LIE_proletarian_dictatorship;Repubblica Sovietica del Liechtenstein;;;;;;;;;;;;;x
 LIE_prussian_constitutionalism;Principato del Liechtenstein;;;;;;;;;;;;;x
 LIP_absolute_monarchy;Principato di Lippe;;;;;;;;;;;;;x
-LIP_ger_colonial_company;Gau di Lippe;;;;;;;;;;;;;x
+LIP_colonial_company;Gau di Lippe;;;;;;;;;;;;;x
 LIP_democracy;Stato Libero di Lippe;;;;;;;;;;;;;x
-LIP_ger_dominion;Gau di Lippe;;;;;;;;;;;;;x
+LIP_dominion;Gau di Lippe;;;;;;;;;;;;;x
 LIP_fascist_dictatorship;Reich Detmoldese;;;;;;;;;;;;;x
 LIP_federal_democracy;Stato Libero di Lippe;;;;;;;;;;;;;x
 LIP_hms_government;Principato di Lippe;;;;;;;;;;;;;x
 LIP_parliamentary_republic;Stato Libero di Lippe;;;;;;;;;;;;;x
 LIP_proletarian_dictatorship;Repubblica Democratica Detmoldese;;;;;;;;;;;;;x
 LIP_prussian_constitutionalism;Principato di Lippe;;;;;;;;;;;;;x
-LIV_rus_colonial_company;Governatorato di Livonia;;;;;;;;;;;;;x
-LIV_rus_dominion;Governatorato di Livonia;;;;;;;;;;;;;x
+LIV_colonial_company;Governatorato di Livonia;;;;;;;;;;;;;x
+LIV_dominion;Governatorato di Livonia;;;;;;;;;;;;;x
 LIV_hms_government;Granducato di Livonia;;;;;;;;;;;;;x
 LIV_prussian_constitutionalism;Granducato di Livonia;;;;;;;;;;;;;x
 LIV_absolute_monarchy;Granducato di Livonia;;;;;;;;;;;;;x
@@ -801,18 +800,18 @@ LOM_democracy;Governo Provvisorio di Milano;;;;;;;;;;;;;x
 LOM_dominion;Lombardo-Veneto;;;;;;;;;;;;;x
 LOM_presidential_dictatorship;Governo Provvisorio di Milano;;;;;;;;;;;;;x
 LOR_fascist_dictatorship;Lotaringia;;;;;;;;;;;;;x
-LOS_spa_colonial_company;Corregimiento di Quezaltenango;;;;;;;;;;;;;x
+LOS_colonial_company;Corregimiento di Quezaltenango;;;;;;;;;;;;;x
 LOS_democracy;Stato di Los Altos;;;;;;;;;;;;;x
 LOS_federal_democracy;Stato di Los Altos;;;;;;;;;;;;;x
-LPL_spa_colonial_company;Vicereame del Rio della Plata;;;;;;;;;;;;;x
-LSK_rus_colonial_company;Compagnia Americana;;;;;;;;;;;;;x
+LPL_colonial_company;Vicereame del Rio della Plata;;;;;;;;;;;;;x
+LSK_colonial_company;Compagnia Americana;;;;;;;;;;;;;x
 LSK_democracy;Repubblica d'Alaska;;;;;;;;;;;;;x
-LSK_eng_dominion;Confederazione d'Alaska;;;;;;;;;;;;;x
+LSK_dominion;Confederazione d'Alaska;;;;;;;;;;;;;x
 LSK_federal_democracy;Repubblica d'Alaska;;;;;;;;;;;;;x
 LUB_absolute_monarchy;Ducato di Lubecca;;;;;;;;;;;;;x
-LUB_ger_colonial_company;Circondario di Lippe;;;;;;;;;;;;;x
+LUB_colonial_company;Circondario di Lippe;;;;;;;;;;;;;x
 LUB_democracy;Città Libera Anseatica di Lubecca;;;;;;;;;;;;;x
-LUB_ger_dominion;Circondario di Lippe;;;;;;;;;;;;;x
+LUB_dominion;Circondario di Lippe;;;;;;;;;;;;;x
 LUB_fascist_dictatorship;Reich Lubecchese;;;;;;;;;;;;;x
 LUB_federal_democracy;Città Libera Anseatica di Lubecca;;;;;;;;;;;;;x
 LUB_hms_government;Ducato di Lubecca;;;;;;;;;;;;;x
@@ -820,9 +819,9 @@ LUB_parliamentary_republic;Città Libera Anseatica di Lubecca;;;;;;;;;;;;;x
 LUB_proletarian_dictatorship;Comune di Lubecca;;;;;;;;;;;;;x
 LUB_prussian_constitutionalism;Ducato di Lubecca;;;;;;;;;;;;;x
 LUX_absolute_monarchy;Granducato di Lussemburgo;;;;;;;;;;;;;x
-LUX_net_colonial_company;Granducato di Lussemburgo;;;;;;;;;;;;;x
+LUX_colonial_company;Granducato di Lussemburgo;;;;;;;;;;;;;x
 LUX_democracy;Stato Libero di Lussemburgo;;;;;;;;;;;;;x
-LUX_net_dominion;Granducato di Lussemburgo;;;;;;;;;;;;;x
+LUX_dominion;Granducato di Lussemburgo;;;;;;;;;;;;;x
 LUX_fascist_dictatorship;Reich Lussemburghese;;;;;;;;;;;;;x
 LUX_federal_democracy;Stato Libero di Lussemburgo;;;;;;;;;;;;;x
 LUX_hms_government;Granducato di Lussemburgo;;;;;;;;;;;;;x
@@ -833,12 +832,12 @@ LXA_absolute_monarchy;Lan Xang;;;;;;;;;;;;;x
 LXA_democracy;Laos;;;;;;;;;;;;;x
 LXA_proletarian_dictatorship;Repubblica Popolare di Lao;;;;;;;;;;;;;x
 MAD_absolute_monarchy;Imerina;;;;;;;;;;;;;x
-MAD_fra_colonial_company;Protettorato del Madagascar;;;;;;;;;;;;;x
+MAD_colonial_company;Protettorato del Madagascar;;;;;;;;;;;;;x
 MAD_prussian_constitutionalism;Imerina;;;;;;;;;;;;;x
 MAF_absolute_monarchy;Stato Libero di Mittelafrika;;;;;;;;;;;;;x
-MAF_ger_colonial_company;Stato Libero di Mittelafrika;;;;;;;;;;;;;x
+MAF_colonial_company;Stato Libero di Mittelafrika;;;;;;;;;;;;;x
 MAF_democracy;Federazione Centrafricana;;;;;;;;;;;;;x
-MAF_ger_dominion;Stato Libero di Mittelafrika;;;;;;;;;;;;;x
+MAF_dominion;Stato Libero di Mittelafrika;;;;;;;;;;;;;x
 MAF_hms_government;Stato Libero di Mittelafrika;;;;;;;;;;;;;x
 MAF_prussian_constitutionalism;Stato Libero di Mittelafrika;;;;;;;;;;;;;x
 MAL_absolute_monarchy;Sultanato di Tidore;;;;;;;;;;;;;x
@@ -860,15 +859,15 @@ MYA_hms_government;Impero Maya;;;;;;;;;;;;;x
 MYA_prussian_constitutionalism;Impero Maya;;;;;;;;;;;;;x
 MYA_theocracy;Stato della Croce;;;;;;;;;;;;;x
 MCK_absolute_monarchy;Manciuria;Manchukuo;Manchukuo;;;;;;;;;;;x
-MCK_qng_colonial_company;Guandong;;;;;;;;;;;;;x
+MCK_colonial_company;Guandong;;;;;;;;;;;;;x
 MCK_fascist_dictatorship;Manciukuò;Manchukuo;Manchukuo;;;;;;;;;;;x
 MCK_hms_government;Manciuria;Manchukuo;Manchukuo;;;;;;;;;;;x
 MCK_presidential_dictatorship;Cricca del Fengtian;;;;;;;;;;;;;x
 MCK_prussian_constitutionalism;Manciuria;Manchukuo;Manchukuo;;;;;;;;;;;x
 MEC_absolute_monarchy;Granducato di Meclemburgo-Schwerin;;;;;;;;;;;;;x
-MEC_ger_colonial_company;Land di Meclemburgo;;;;;;;;;;;;;x
+MEC_colonial_company;Land di Meclemburgo;;;;;;;;;;;;;x
 MEC_democracy;Stato Libero di Meclemburgo-Schwerin;;;;;;;;;;;;;x
-MEC_ger_dominion;Land di Meclemburgo;;;;;;;;;;;;;x
+MEC_dominion;Land di Meclemburgo;;;;;;;;;;;;;x
 MEC_fascist_dictatorship;Reich Meclemburghese;;;;;;;;;;;;;x
 MEC_federal_democracy;Stato Libero di Meclemburgo-Schwerin;;;;;;;;;;;;;x
 MEC_hms_government;Granducato di Meclemburgo-Schwerin;;;;;;;;;;;;;x
@@ -876,9 +875,9 @@ MEC_parliamentary_republic;Stato Libero di Meclemburgo-Schwerin;;;;;;;;;;;;;x
 MEC_proletarian_dictatorship;Repubblica Democratica Meclemburghese;;;;;;;;;;;;;x
 MEC_prussian_constitutionalism;Granducato di Meclemburgo-Schwerin;;;;;;;;;;;;;x
 MEI_absolute_monarchy;Ducato di Sassonia-Meiningen;;;;;;;;;;;;;x
-MEI_ger_colonial_company;Gau di Meiningen;;;;;;;;;;;;;x
+MEI_colonial_company;Gau di Meiningen;;;;;;;;;;;;;x
 MEI_democracy;Stato Libero di Sassonia-Meiningen;;;;;;;;;;;;;x
-MEI_ger_dominion;Gau di Meiningen;;;;;;;;;;;;;x
+MEI_dominion;Gau di Meiningen;;;;;;;;;;;;;x
 MEI_fascist_dictatorship;Reich Meiningenese;;;;;;;;;;;;;x
 MEI_federal_democracy;Stato Libero di Sassonia-Meiningen;;;;;;;;;;;;;x
 MEI_hms_government;Ducato di Sassonia-Meiningen;;;;;;;;;;;;;x
@@ -886,29 +885,29 @@ MEI_parliamentary_republic;Stato Libero di Sassonia-Meiningen;;;;;;;;;;;;;x
 MEI_proletarian_dictatorship;Repubblica Democratica Meiningenese;;;;;;;;;;;;;x
 MEI_prussian_constitutionalism;Ducato di Sassonia-Meiningen;;;;;;;;;;;;;x
 MEX_absolute_monarchy;Impero Messicano;;;;;;;;;;;;;x
-MEX_spa_colonial_company;Vicereame della Nuova Spagna;;;;;;;;;;;;;x
+MEX_colonial_company;Vicereame della Nuova Spagna;;;;;;;;;;;;;x
 MEX_democracy;Repubblica Messicana;;;;;;;;;;;;;x
 MEX_dominion;Regno del Messico;;;;;;;;;;;;;x
 MEX_federal_democracy;Stati Uniti Messicani;;;;;;;;;;;;;x
 MEX_hms_government;Impero Messicano;;;;;;;;;;;;;x
 MEX_presidential_dictatorship;Repubblica Messicana;;;;;;;;;;;;;x
 MEX_prussian_constitutionalism;Impero Messicano;;;;;;;;;;;;;x
-MGL_qng_colonial_company;Mongolia Esterna;;;;;;;;;;;;;x
+MGL_colonial_company;Mongolia Esterna;;;;;;;;;;;;;x
 MGL_proletarian_dictatorship;Repubblica Popolare Mongola;;;;;;;;;;;;;x
 MGL_theocracy;Khanato Bogd;;;;;;;;;;;;;x
 MLI_absolute_monarchy;Impero Mali;;;;;;;;;;;;;x
-MLI_fra_colonial_company;Sudan Francese;;;;;;;;;;;;;x
-MLI_fra_dominion;Sudan Francese;;;;;;;;;;;;;x
+MLI_colonial_company;Sudan Francese;;;;;;;;;;;;;x
+MLI_dominion;Sudan Francese;;;;;;;;;;;;;x
 MLI_hms_government;Impero Mali;;;;;;;;;;;;;x
 MLI_proletarian_dictatorship;Mali;;;;;;;;;;;;;x
 MLI_prussian_constitutionalism;Impero Mali;;;;;;;;;;;;;x
 MLW_absolute_monarchy;Nyasaland;;;;;;;;;;;;;x
-MLW_eng_colonial_company;Nyasaland;;;;;;;;;;;;;x
-MLW_eng_dominion;Nyasaland;;;;;;;;;;;;;x
+MLW_colonial_company;Nyasaland;;;;;;;;;;;;;x
+MLW_dominion;Nyasaland;;;;;;;;;;;;;x
 MLW_hms_government;Nyasaland;;;;;;;;;;;;;x
 MLW_prussian_constitutionalism;Nyasaland;;;;;;;;;;;;;x
 MLY_absolute_monarchy;Malesia;;;;;;;;;;;;;x
-MLY_eng_colonial_company;Unione Malese;;;;;;;;;;;;;x
+MLY_colonial_company;Unione Malese;;;;;;;;;;;;;x
 MLY_dominon;Unione Malese;;;;;;;;;;;;;x
 MLY_hms_government;Federazione Malese;;;;;;;;;;;;;x
 MLY_prussian_constitutionalism;Malesia;;;;;;;;;;;;;x
@@ -918,7 +917,7 @@ MOS_democracy;Alto Volta;;;;;;;;;;;;;x
 MOS_fascist_dictatorship;Alto Volta;;;;;;;;;;;;;x
 MOS_presidential_dictatorship;Alto Volta;;;;;;;;;;;;;x
 MOS_proletarian_dictatorship;Alto Volta;;;;;;;;;;;;;x
-MOZ_por_colonial_company;Mozambico;;;;;;;;;;;;;x
+MOZ_colonial_company;Mozambico;;;;;;;;;;;;;x
 MRN_democracy;Moresnet Neutrale;;;;;;;;;;;;;x
 MRN_proletarian_dictatorship;Amikejo;;;;;;;;;;;;;x
 MRT_absolute_monarchy;Impero Maratha;;;;;;;;;;;;;x
@@ -926,37 +925,37 @@ MRT_democracy;Confederazione Maratha;;;;;;;;;;;;;x
 MRT_proletarian_dictatorship;Repubblica Maratha;;;;;;;;;;;;;x
 MRT_prussian_constitutionalism;Impero Maratha;;;;;;;;;;;;x
 MRU_absolute_monarchy;Unione Marittima;;;;;;;;;;;;;x
-MRU_eng_colonial_company;Dominio Marittimo;;;;;;;;;;;;;x
+MRU_colonial_company;Dominio Marittimo;;;;;;;;;;;;;x
 MRU_democracy;Repubblica Marittima;;;;;;;;;;;;;x
-MRU_eng_dominion;Dominio Marittimo;;;;;;;;;;;;;x
+MRU_dominion;Dominio Marittimo;;;;;;;;;;;;;x
 MRU_hms_government;Unione Marittima;;;;;;;;;;;;;x
 MRU_prussian_constitutionalism;Unione Marittima;;;;;;;;;;;;;x
-MSC_spa_colonial_company;Florida Orientale;;;;;;;;;;;;;x
+MSC_colonial_company;Florida Orientale;;;;;;;;;;;;;x
 MSC_democracy;Stato di Muskogee;;;;;;;;;;;;;x
 MSC_federal_democracy;Nazione Seminole;;;;;;;;;;;;;x
 MSC_presidential_dictatorship;Nazione Seminole;;;;;;;;;;;;;x
 MSK_absolute_monarchy;Regno dei Mosquito;;;;;;;;;;;;;x
-MSK_eng_colonial_company;Costa dei Mosquito;;;;;;;;;;;;;x
-MSK_eng_dominion;Riserva dei Mosquito;;;;;;;;;;;;;x
+MSK_colonial_company;Costa dei Mosquito;;;;;;;;;;;;;x
+MSK_dominion;Riserva dei Mosquito;;;;;;;;;;;;;x
 MSK_hms_government;Regno dei Mosquito;;;;;;;;;;;;;x
 MSK_prussian_constitutionalism;Regno dei Mosquito;;;;;;;;;;;;;x
 MST_absolute_monarchy;Granducato di Meclemburgo-Strelitz;;;;;;;;;;;;;x
-MST_ger_colonial_company;Land di Meclemburgo-Strelitz;;;;;;;;;;;;;x
+MST_colonial_company;Land di Meclemburgo-Strelitz;;;;;;;;;;;;;x
 MST_democracy;Stato Libero di Meclemburgo-Strelitz;;;;;;;;;;;;;x
-MST_ger_dominion;Land di Meclemburgo-Strelitz;;;;;;;;;;;;;x
+MST_dominion;Land di Meclemburgo-Strelitz;;;;;;;;;;;;;x
 MST_fascist_dictatorship;Reich Strelitzese;;;;;;;;;;;;;x
 MST_federal_democracy;Stato Libero di Meclemburgo-Strelitz;;;;;;;;;;;;;x
 MST_hms_government;Granducato di Meclemburgo-Strelitz;;;;;;;;;;;;;x
 MST_parliamentary_republic;Stato Libero di Meclemburgo-Strelitz;;;;;;;;;;;;;x
 MST_proletarian_dictatorship;Repubblica Democratica Strelitzese;;;;;;;;;;;;;x
 MST_prussian_constitutionalism;Granducato di Meclemburgo-Strelitz;;;;;;;;;;;;;x
-MTC_eng_colonial_company;Colonia di Red River;;;;;;;;;;;;;x
+MTC_colonial_company;Colonia di Red River;;;;;;;;;;;;;x
 MTC_democracy;Repubblica di Assiniboia;;;;;;;;;;;;;x
-MTC_eng_dominion;Dominio dell'Assiniboia;;;;;;;;;;;;;x
+MTC_dominion;Dominio dell'Assiniboia;;;;;;;;;;;;;x
 MTC_hms_government;Assiniboia;;;;;;;;;;;;;x
 MTC_parliamentary_republic;Assiniboia;;;;;;;;;;;;;x
 MUG_absolute_monarchy;Impero Moghul;;;;;;;;;;;;;x
-MUG_eng_colonial_company;Dominio dell'India;;;;;;;;;;;;;x
+MUG_colonial_company;Dominio dell'India;;;;;;;;;;;;;x
 MUG_eng_dominon;Dominio dell'India;;;;;;;;;;;;;x
 MUG_fascist_dictatorship;Repubblica Gurkani;;;;;;;;;;;;;x
 MUG_proletarian_dictatorship;Repubblica Popolare di Mughalistan;;;;;;;;;;;;;x
@@ -969,43 +968,43 @@ NAF_hms_government;Nuova Africa;Kingdom of New Africa;New Africa;;;;;;;;;;;x
 NAF_presidential_dictatorship;Repubblica di Nuova Africa;New Africa;New Africa;;;;;;;;;;;x
 NAF_proletarian_dictatorship;Unione Popolare di Nuova Africa;New Africa;New Africa;;;;;;;;;;;x
 NAF_prussian_constitutionalism;Regno di Nuova Africa;New Africa;New Africa;;;;;;;;;;;x
-NAL_eng_colonial_company;Natal;;;;;;;;;;;;;x
-NAL_eng_dominion;Natal;;;;;;;;;;;;;x
+NAL_colonial_company;Natal;;;;;;;;;;;;;x
+NAL_dominion;Natal;;;;;;;;;;;;;x
 NAS_absolute_monarchy;Ducato di Nassau;;;;;;;;;;;;;x
-NAS_ger_colonial_company;Circondario di Meiningen;;;;;;;;;;;;;x
+NAS_colonial_company;Circondario di Meiningen;;;;;;;;;;;;;x
 NAS_democracy;Stato Popolare di Nassau;;;;;;;;;;;;;x
-NAS_ger_dominion;Circondario di Meiningen;;;;;;;;;;;;;x
+NAS_dominion;Circondario di Meiningen;;;;;;;;;;;;;x
 NAS_fascist_dictatorship;Reich Nassauese;;;;;;;;;;;;;x
 NAS_federal_democracy;Stato Popolare di Nassau;;;;;;;;;;;;;x
 NAS_hms_government;Ducato di Nassau;;;;;;;;;;;;;x
 NAS_parliamentary_republic;Stato Popolare di Nassau;;;;;;;;;;;;;x
 NAS_proletarian_dictatorship;Repubblica Popolare di Nassau;;;;;;;;;;;;;x
 NAS_prussian_constitutionalism;Ducato di Nassau;;;;;;;;;;;;;x
-NBR_eng_colonial_company;Colonia del Nuovo Brunswick;;;;;;;;;;;;;x
-NBR_eng_dominion;Dominio del Nuovo Brunswick;;;;;;;;;;;;;x
+NBR_colonial_company;Colonia del Nuovo Brunswick;;;;;;;;;;;;;x
+NBR_dominion;Dominio del Nuovo Brunswick;;;;;;;;;;;;;x
 NBR_hms_governmenr;Nuovo Brunswick;;;;;;;;;;;;;x
 NBR_parliamentary_republic;Nuovo Brunswick;;;;;;;;;;;;;x
 NEJ_absolute_monarchy;Emirato di Najd;;;;;;;;;;;;;x
 NEJ_hms_government;Emirato di Najd;;;;;;;;;;;;;x
 NEJ_prussian_constitutionalism;Emirato di Najd;;;;;;;;;;;;;x
-NEN_eng_dominion;Dominio della Nuova Inghilterra;;;;;;;;;;;;;x
-NET_ger_colonial_company;Governo Olandese in Esilio;;;;;;;;;;;;;x
+NEN_dominion;Dominio della Nuova Inghilterra;;;;;;;;;;;;;x
+NET_colonial_company;Governo Olandese in Esilio;;;;;;;;;;;;;x
 NET_dominon;Governo Olandese in Esilio;;;;;;;;;;;;;x
-NEW_eng_colonial_company;Colonia di Terranova;;;;;;;;;;;;;x
+NEW_colonial_company;Colonia di Terranova;;;;;;;;;;;;;x
 NEW_democracy;Repubblica di Terranova;;;;;;;;;;;;;x
-NEW_eng_dominion;Dominio della Terranova;;;;;;;;;;;;;x
+NEW_dominion;Dominio della Terranova;;;;;;;;;;;;;x
 NEW_hms_governmenr;Terranova;;;;;;;;;;;;;x
 NEW_parliamentary_republic;Terranova;;;;;;;;;;;;;x
-NGR_eng_colonial_company;Africa Occidentale;;;;;;;;;;;;;x
-NGR_eng_dominion;Africa Occidentale;;;;;;;;;;;;;x
+NGR_colonial_company;Africa Occidentale;;;;;;;;;;;;;x
+NGR_dominion;Africa Occidentale;;;;;;;;;;;;;x
 NIA_absolute_monarchy;Nianjun;;;;;;;;;;;;;x
-NIC_spa_colonial_company;Intendenza di Leon;;;;;;;;;;;;;x
+NIC_colonial_company;Intendenza di Leon;;;;;;;;;;;;;x
 NIC_democracy;Repubblica di Nicaragua;;;;;;;;;;;;;x
 NIC_federal_democracy;Repubblica di Nicaragua;;;;;;;;;;;;;x
 NIG_absolute_monarchy;Dosso;;;;;;;;;;;;;x
 NIG_hms_government;Dosso;;;;;;;;;;;;;x
 NIG_prussian_constitutionalism;Dosso;;;;;;;;;;;;;x
-NMB_ger_colonial_company;Africa Sud-Occidentale;;;;;;;;;;;;;x
+NMB_colonial_company;Africa Sud-Occidentale;;;;;;;;;;;;;x
 NMB_dominon;Africa Sud-Occidentale;;;;;;;;;;;;;x
 NPL_absolute_monarchy;Napoli;Naples;Naples;;;;;;;;;;;x
 NPL_bourgeois_dictatorship;Napoli;Naples;Naples;;;;;;;;;;;x
@@ -1015,8 +1014,8 @@ NPL_hms_government;Naples;Napoli;Naples;;;;;;;;;;;x
 NPL_presidential_dictatorship;Napoli;Naples;Naples;;;;;;;;;;;x
 NPL_proletarian_dictatorship;Napoli;Naples;Naples;;;;;;;;;;;x
 NPL_prussian_constitutionalism;Napoli;Naples;Naples;;;;;;;;;;;x
-NSC_eng_colonial_company;Colonia di Nuova Scozia;;;;;;;;;;;;;x
-NSC_eng_dominion;Dominio della Nuova Scozia;;;;;;;;;;;;;x
+NSC_colonial_company;Colonia di Nuova Scozia;;;;;;;;;;;;;x
+NSC_dominion;Dominio della Nuova Scozia;;;;;;;;;;;;;x
 NSC_hms_governmenr;Nuova Scozia;;;;;;;;;;;;;x
 NSC_parliamentary_republic;Nuova Scozia;;;;;;;;;;;;;x
 NYE_absolute_monarchy;Regno Mutawakkilita;;;;;;;;;;;;;x
@@ -1024,19 +1023,19 @@ NYE_democracy;Repubblica Araba dello Yemen;;;;;;;;;;;;;x
 NYE_hms_government;Regno Mutawakkilita;;;;;;;;;;;;;x
 NYE_prussian_constitutionalism;Regno Mutawakkilita;;;;;;;;;;;;;x
 NYE_theocracy;Zaydi;;;;;;;;;;;;;x
+NZF_colonial_company;Dominio della Nuova Zelanda;;;;;;;;;;;;;x
+NZF_dominion;Dominio della Nuova Zelanda;;;;;;;;;;;;;x
 NZL_absolute_monarchy;Dominio della Nuova Zelanda;;;;;;;;;;;;;x
-NZL_eng_colonial_company;Colonia di Nuova Zelanda;;;;;;;;;;;;;x
-NZL_eng_dominion;Dominio della Nuova Zelanda;;;;;;;;;;;;;x
-NZL_fra_colonial_company;Dominio della Nuova Zelanda;;;;;;;;;;;;;x
-NZL_fra_dominion;Dominio della Nuova Zelanda;;;;;;;;;;;;;x
+NZL_colonial_company;Colonia di Nuova Zelanda;;;;;;;;;;;;;x
+NZL_dominion;Dominio della Nuova Zelanda;;;;;;;;;;;;;x
 NZL_hms_government;Dominio della Nuova Zelanda;;;;;;;;;;;;;x
 NZL_prussian_constitutionalism;Dominio della Nuova Zelanda;;;;;;;;;;;;;x
 OAX_democracy;Stato Libero di Oaxaca;;;;;;;;;;;;;x
 OAX_federal_democracy;Stato Libero di Oaxaca;;;;;;;;;;;;;x
 OLD_absolute_monarchy;Granducato di Oldenburg;;;;;;;;;;;;;x
-OLD_ger_colonial_company;Land di Oldenburg;;;;;;;;;;;;;x
+OLD_colonial_company;Land di Oldenburg;;;;;;;;;;;;;x
 OLD_democracy;Stato Libero di Oldenburg;;;;;;;;;;;;;x
-OLD_ger_dominion;Land di Oldenburg;;;;;;;;;;;;;x
+OLD_dominion;Land di Oldenburg;;;;;;;;;;;;;x
 OLD_fascist_dictatorship;Reich Oldenburghese;;;;;;;;;;;;;x
 OLD_federal_democracy;Stato Libero di Oldenburg;;;;;;;;;;;;;x
 OLD_hms_government;Granducato di Oldenburg;;;;;;;;;;;;;x
@@ -1065,9 +1064,9 @@ PBC_hms_government;Perù-Bolivia;;;;;;;;;;;;;x
 PBC_presidential_dictatorship;Perù-Bolivia;;;;;;;;;;;;;x
 PBC_proletarian_dictatorship;Repubblica Popolare Andina;;;;;;;;;;;;;x
 PBC_prussian_constitutionalism;Grande Perù;;;;;;;;;;;;;x
-PBC_spa_colonial_company;Vicereame del Perù;;;;;;;;;;;;;x
-PEI_eng_colonial_company;Colonia dell'Isola del Principe Edoardo;;;;;;;;;;;;;x
-PEI_eng_dominion;Dominio dell'Isola del Principe Edoardo;;;;;;;;;;;;;x
+PBC_colonial_company;Vicereame del Perù;;;;;;;;;;;;;x
+PEI_colonial_company;Colonia dell'Isola del Principe Edoardo;;;;;;;;;;;;;x
+PEI_dominion;Dominio dell'Isola del Principe Edoardo;;;;;;;;;;;;;x
 PEI_hms_governmenr;Isola del Principe Edoardo;;;;;;;;;;;;;x
 PEI_parliamentary_republic;Isola del Principe Edoardo;;;;;;;;;;;;;x
 PER_absolute_monarchy;Persia;;;;;;;;;;;;;x
@@ -1080,97 +1079,97 @@ PER_proletarian_dictatorship;Repubblica Libera Iraniana;;;;;;;;;;;;;x
 PER_prussian_constitutionalism;Stato Libero Iraniano;;;;;;;;;;;;;x
 PEU_colonial_company;Repubblica del Perù Settentrionale;;;;;;;;;;;;;x
 PEU_dominion;Repubblica del Perù Settentrionale;;;;;;;;;;;;;x
-PHL_spa_colonial_company;Filippine;;;;;;;;;;;;;x
+PHL_colonial_company;Filippine;;;;;;;;;;;;;x
 PIR_democracy;Repubblica di Piratini;;;;;;;;;;;;;x
 PLC_democracy;Polonia-Lituania;;;;;;;;;;;;;x
 PLC_fascist_dictatorship;Repubblica Polacco-Lituana;;;;;;;;;;;;;x
 PLC_presidential_dictatorship;Repubblica Polacco-Lituana;;;;;;;;;;;;;x
 PLC_proletarian_dictatorship;REpubblica Polacco-Lituana;;;;;;;;;;;;;x
-PML_ger_colonial_company;Prussia Occidentale;;;;;;;;;;;;;x
-PML_ger_dominion;Prussia Occidentale;;;;;;;;;;;;;x
+PML_colonial_company;Prussia Occidentale;;;;;;;;;;;;;x
+PML_dominion;Prussia Occidentale;;;;;;;;;;;;;x
 PNJ_absolute_monarchy;Impero Sikh;;;;;;;;;;;;;x
 PNJ_democracy;Impero Sikh;;;;;;;;;;;;;x
 PNJ_fascist_dictatorship;Khalistan;;;;;;;;;;;;;x
 PNJ_hms_government;Regno Sikh;;;;;;;;;;;;;x
 PNJ_prussian_constitutionalism;Impero Sikh;;;;;;;;;;;;;x
-POL_ger_colonial_company;Governatorato Generale;;;;;;;;;;;;;x
-POL_ger_dominion;Governatorato Generale;;;;;;;;;;;;;x
-PPG_ger_colonial_company;Nuova Guinea;;;;;;;;;;;;;x
-PRI_spa_colonial_company;Capitanato Generale di Porto Rico;;;;;;;;;;;;;x
+POL_colonial_company;Governatorato Generale;;;;;;;;;;;;;x
+POL_dominion;Governatorato Generale;;;;;;;;;;;;;x
+PPG_colonial_company;Nuova Guinea;;;;;;;;;;;;;x
+PRI_colonial_company;Capitanato Generale di Porto Rico;;;;;;;;;;;;;x
 PRI_democracy;Repubblica di Porto Rico;;;;;;;;;;;;;x
-PRI_eng_dominion;Confederazione di Porto Rico;;;;;;;;;;;;;x
+PRI_dominion;Confederazione di Porto Rico;;;;;;;;;;;;;x
 PRI_federal_democracy;Confederazione di Porto Rico;;;;;;;;;;;;;x
 PRU_absolute_monarchy;Regno di Prussia;;;;;;;;;;;;;x
-PRU_ger_colonial_company;Land di Prussia;;;;;;;;;;;;;x
+PRU_colonial_company;Land di Prussia;;;;;;;;;;;;;x
 PRU_democracy;Stato Libero di Prussia;;;;;;;;;;;;;x
-PRU_ger_dominion;Land di Prussia;;;;;;;;;;;;;x
+PRU_dominion;Land di Prussia;;;;;;;;;;;;;x
 PRU_fascist_dictatorship;Reich Prussiano;;;;;;;;;;;;;x
 PRU_federal_democracy;Stato Libero di Prussia;;;;;;;;;;;;;x
 PRU_hms_government;Regno di Prussia;;;;;;;;;;;;;x
 PRU_parliamentary_republic;Stato Libero di Prussia;;;;;;;;;;;;;x
 PRU_proletarian_dictatorship;Repubblica Democratica Prussiana;;;;;;;;;;;;;x
 PRU_prussian_constitutionalism;Regno di Prussia;;;;;;;;;;;;;x
-PZN_ger_colonial_company;Posen;;;;;;;;;;;;;x
-PZN_ger_dominion;Posen;;;;;;;;;;;;;x
-QCI_eng_colonial_company;Colonia delle Isole Regina Carlotta;;;;;;;;;;;;;x
-QCI_eng_dominion;Dominio delle Isole Regina Carlotta;;;;;;;;;;;;;x
+PZN_colonial_company;Posen;;;;;;;;;;;;;x
+PZN_dominion;Posen;;;;;;;;;;;;;x
+QCI_colonial_company;Colonia delle Isole Regina Carlotta;;;;;;;;;;;;;x
+QCI_dominion;Dominio delle Isole Regina Carlotta;;;;;;;;;;;;;x
 QCI_hms_government;Isole Regina Carlotta;;;;;;;;;;;;;x
 QCI_parliamentary_republic;Haida Gwaii;;;;;;;;;;;;;x
 QNG_absolute_monarchy;Impero Qing;;;;;;;;;;;;;x
 QNG_hms_government;Impero Qing;;;;;;;;;;;;;x
 QNG_prussian_constitutionalism;Impero Qing;;;;;;;;;;;;;x
-QUE_eng_colonial_company;Provincia del Quebec;;;;;;;;;;;;;x
+QUE_colonial_company;Provincia del Quebec;;;;;;;;;;;;;x
 QUE_democracy;Repubblica di Quebec;;;;;;;;;;;;;x
-QUE_eng_dominion;Dominio del Quebec;;;;;;;;;;;;;x
+QUE_dominion;Dominio del Quebec;;;;;;;;;;;;;x
 QUE_hms_government;Quebec;;;;;;;;;;;;;x
 QUE_parliamentary_republic;Quebec;;;;;;;;;;;;;x
 RAJ_bourgeois_dictatorship;Rajasthan;;;;;;;;;;;;;x
-RAJ_eng_colonial_company;Agenzia del Rajputana;;;;;;;;;;;;;x
+RAJ_colonial_company;Agenzia del Rajputana;;;;;;;;;;;;;x
 RAJ_democracy;Rajasthan;;;;;;;;;;;;;x
-RAJ_eng_dominion;Agenzia del Rajputana;;;;;;;;;;;;;x
+RAJ_dominion;Agenzia del Rajputana;;;;;;;;;;;;;x
 RAJ_fascist_dictatorship;Rajasthan;;;;;;;;;;;;;x
 RAJ_proletarian_dictatorship;Rajasthan;;;;;;;;;;;;;x
 REU_absolute_monarchy;Principato di Reuss-Schleiz;;;;;;;;;;;;;x
-REU_ger_colonial_company;Gau di Reuss;;;;;;;;;;;;;x
+REU_colonial_company;Gau di Reuss;;;;;;;;;;;;;x
 REU_democracy;Stato Popolare di Reuss;;;;;;;;;;;;;x
-REU_ger_dominion;Gau di Reuss;;;;;;;;;;;;;x
+REU_dominion;Gau di Reuss;;;;;;;;;;;;;x
 REU_fascist_dictatorship;Reich Reussiano;;;;;;;;;;;;;x
 REU_federal_democracy;Stato Popolare di Reuss;;;;;;;;;;;;;x
 REU_hms_government;Principato di Reuss Linea Cadetta;;;;;;;;;;;;;x
 REU_parliamentary_republic;Stato Popolare di Reuss;;;;;;;;;;;;;x
 REU_proletarian_dictatorship;Repubblica Popolare di Reuss;;;;;;;;;;;;;x
 REU_prussian_constitutionalism;Principato di Reuss Linea Cadetta;;;;;;;;;;;;;x
-RGR_spa_colonial_company;Nuovo Regno di Leon;;;;;;;;;;;;;x
+RGR_colonial_company;Nuovo Regno di Leon;;;;;;;;;;;;;x
 RGR_democracy;Repubblica del Rio Grande;;;;;;;;;;;;;x
 RGR_fascist_dictatorship;Rio Bravo;;;;;;;;;;;;;x
 RGR_federal_democracy;Repubblica del Rio Grande;;;;;;;;;;;;;x
 RGS_fascist_dictatorship;Pampa;;;;;;;;;;;;;x
 RHO_absolute_monarchy;Rodesia Meridionale;Rhodésie du sud;Südrhodesien;;;;;;;;;;;x
-RHO_eng_colonial_company;Rodesia;;;;;;;;;;;;;x
+RHO_colonial_company;Rodesia;;;;;;;;;;;;;x
 RHO_democracy;Rodesia;;;;;;;;;;;;;x
-RHO_eng_dominion;Rodesia Meridionale;;;;;;;;;;;;;x
+RHO_dominion;Rodesia Meridionale;;;;;;;;;;;;;x
 RHO_hms_government;Rodesia Meridionale;Rhodésie du sud;Südrhodesien;;;;;;;;;;;x
 RHO_proletarian_dictatorship;Zimbabwe;Zimbabwe;Simbabwe;;;;;;;;;;;x
 RLE_absolute_monarchy;Principato di Reuss, Lobenstein e Ebersdorf;;;;;;;;;;;;;x
-RLE_ger_colonial_company;Circondario di Lobenstein;;;;;;;;;;;;;x
+RLE_colonial_company;Circondario di Lobenstein;;;;;;;;;;;;;x
 RLE_democracy;Stato Popolare di Lobenstein;;;;;;;;;;;;;x
-RLE_ger_dominion;Circondario di Lobenstein;;;;;;;;;;;;;x
+RLE_dominion;Circondario di Lobenstein;;;;;;;;;;;;;x
 RLE_fascist_dictatorship;Reich Lobensteiniano;;;;;;;;;;;;;x
 RLE_federal_democracy;Stato Popolare di Lobenstein;;;;;;;;;;;;;x
 RLE_hms_government;Principato di Reuss, Lobenstein e Ebersdorf;;;;;;;;;;;;;x
 RLE_parliamentary_republic;Stato Popolare di Lobenstein;;;;;;;;;;;;;x
 RLE_proletarian_dictatorship;Comune Popolare di Lobenstein;;;;;;;;;;;;;x
 RLE_prussian_constitutionalism;Principato di Reuss, Lobenstein e Ebersdorf;;;;;;;;;;;;;x
-RPL_eng_colonial_company;Compagnia della Baia di Hudson;;;;;;;;;;;;;x
+RPL_colonial_company;Compagnia della Baia di Hudson;;;;;;;;;;;;;x
 RPL_democracy;Assiniboia;;;;;;;;;;;;;x
-RPL_eng_dominion;Territori del Nordovest;;;;;;;;;;;;;x
+RPL_dominion;Territori del Nordovest;;;;;;;;;;;;;x
 RPL_hms_governmenr;Territori del Nordovest;;;;;;;;;;;;;x
 RPL_hms_government;Terra di Rupert;;;;;;;;;;;;;x
 RPL_parliamentary_republic;Territori del Nordovest;;;;;;;;;;;;;x
 RSR_absolute_monarchy;Principato di Reuss-Greiz;;;;;;;;;;;;;x
-RSR_ger_colonial_company;Circondario di Greiz;;;;;;;;;;;;;x
+RSR_colonial_company;Circondario di Greiz;;;;;;;;;;;;;x
 RSR_democracy;Stato Popolare di Greiz;;;;;;;;;;;;;x
-RSR_ger_dominion;Circondario di Greiz;;;;;;;;;;;;;x
+RSR_dominion;Circondario di Greiz;;;;;;;;;;;;;x
 RSR_fascist_dictatorship;Reich Greizese;;;;;;;;;;;;;x
 RSR_federal_democracy;Stato Popolare di Greiz;;;;;;;;;;;;;x
 RSR_hms_government;Principato di Reuss Linea Primogenita;;;;;;;;;;;;;x
@@ -1185,7 +1184,7 @@ RUS_prussian_constitutionalism;Impero Russo;Empire russe;Russisches Zarenreich;;
 RUT_democracy;Ucraina Occidentale;;;;;;;;;;;;;x
 RUT_presidential_dictatorship;Ucraina Occidentale;;;;;;;;;;;;;x
 RUT_proletarian_dictatorship;Repubblica Popolare dell'Ucraina Occidentale;;;;;;;;;;;;;x
-SAF_eng_colonial_company;Colonia del Capo;;;;;;;;;;;;;x
+SAF_colonial_company;Colonia del Capo;;;;;;;;;;;;;x
 SAF_dominon;Colonia del Capo;;;;;;;;;;;;;x
 SAF_hms_government;Unione del Sudafrica;;;;;;;;;;;;;x
 SAR_absolute_monarchy;Regno di Sardegna;;;;;;;;;;;;;x
@@ -1195,9 +1194,9 @@ SAT_absolute_monarchy;Satsuma;;;;;;;;;;;;;x
 SAT_hms_government;Satsuma;;;;;;;;;;;;;x
 SAT_prussian_constitutionalism;Satsuma;;;;;;;;;;;;;x
 SAX_absolute_monarchy;Regno di Sassonia;;;;;;;;;;;;;x
-SAX_ger_colonial_company;Land di Sassonia;;;;;;;;;;;;;x
+SAX_colonial_company;Land di Sassonia;;;;;;;;;;;;;x
 SAX_democracy;Stato Libero di Sassonia;;;;;;;;;;;;;x
-SAX_ger_dominion;Land di Sassonia;;;;;;;;;;;;;x
+SAX_dominion;Land di Sassonia;;;;;;;;;;;;;x
 SAX_fascist_dictatorship;Reich Sassone;;;;;;;;;;;;;x
 SAX_federal_democracy;Stato Libero di Sassonia;;;;;;;;;;;;;x
 SAX_hms_government;Regno di Sassonia;;;;;;;;;;;;;x
@@ -1218,9 +1217,9 @@ SCH_parliamentary_republic;Stato Libero di Schleswig;;;;;;;;;;;;;x
 SCH_proletarian_dictatorship;Repubblica Democratica Schleswighiana;;;;;;;;;;;;;x
 SCH_prussian_constitutionalism;Ducato di Schleswig;;;;;;;;;;;;;x
 SCL_absolute_monarchy;Principato di Schaumburg-Lippe;;;;;;;;;;;;;x
-SCL_ger_colonial_company;Circondario di Schaumburg;;;;;;;;;;;;;x
+SCL_colonial_company;Circondario di Schaumburg;;;;;;;;;;;;;x
 SCL_democracy;Stato Libero di Schaumburg-Lippe;;;;;;;;;;;;;x
-SCL_ger_dominion;Circondario di Schaumburg;;;;;;;;;;;;;x
+SCL_dominion;Circondario di Schaumburg;;;;;;;;;;;;;x
 SCL_fascist_dictatorship;Reich Schaumburghese;;;;;;;;;;;;;x
 SCL_federal_democracy;Stato Libero di Schaumburg-Lippe;;;;;;;;;;;;;x
 SCL_hms_government;Principato di Schaumburg-Lippe;;;;;;;;;;;;;x
@@ -1235,17 +1234,17 @@ SEN_absolute_monarchy;Sendai;;;;;;;;;;;;;x
 SEN_hms_government;Sendai;;;;;;;;;;;;;x
 SEN_prussian_constitutionalism;Sendai;;;;;;;;;;;;;x
 SGM_absolute_monarchy;Principato di Hohenzollern-Sigmaringen;;;;;;;;;;;;;x
-SGM_ger_colonial_company;Grau di Hohenzollern;;;;;;;;;;;;;x
+SGM_colonial_company;Grau di Hohenzollern;;;;;;;;;;;;;x
 SGM_democracy;Stato Libero di Hohenzollern;;;;;;;;;;;;;x
-SGM_ger_dominion;Grau di Hohenzollern;;;;;;;;;;;;;x
+SGM_dominion;Grau di Hohenzollern;;;;;;;;;;;;;x
 SGM_fascist_dictatorship;Reich Hohenzollernense;;;;;;;;;;;;;x
 SGM_federal_democracy;Stato Libero di Hohenzollern;;;;;;;;;;;;;x
 SGM_hms_government;Principato di Hohenzollern-Sigmaringen;;;;;;;;;;;;;x
 SGM_parliamentary_republic;Stato Libero di Hohenzollern;;;;;;;;;;;;;x
 SGM_proletarian_dictatorship;Repubblica Democratica Hohenzollernense;;;;;;;;;;;;;x
 SGM_prussian_constitutionalism;Principato di Hohenzollern-Sigmaringen;;;;;;;;;;;;;x
-SGP_eng_colonial_company;Stabilimenti dello Stretto;;;;;;;;;;;;;x
-SGP_eng_dominion;Stabilimenti dello Stretto;;;;;;;;;;;;;x
+SGP_colonial_company;Stabilimenti dello Stretto;;;;;;;;;;;;;x
+SGP_dominion;Stabilimenti dello Stretto;;;;;;;;;;;;;x
 SHA_absolute_monarchy;Chiang Mai;;;;;;;;;;;;;x
 SHK_absolute_monarchy;Regno Scilluc;;;;;;;;;;;;;x
 SHK_hms_government;Regno Scilluc;;;;;;;;;;;;;x
@@ -1256,10 +1255,10 @@ SIA_prussian_constitutionalism;Regno di Siam;;;;;;;;;;;;;x
 SIB_absolute_monarchy;Siberia;;;;;;;;;;;;;x
 SIB_hms_government;Siberia;;;;;;;;;;;;;x
 SIB_prussian_constitutionalism;Siberia;;;;;;;;;;;;;x
-SIE_ger_colonial_company;Transilvania;;;;;;;;;;;;;x
-SIE_ger_dominion;Transilvania;;;;;;;;;;;;;x
-SLS_ger_colonial_company;Silesia;;;;;;;;;;;;;x
-SLS_ger_dominion;Silesia;;;;;;;;;;;;;x
+SIE_colonial_company;Transilvania;;;;;;;;;;;;;x
+SIE_dominion;Transilvania;;;;;;;;;;;;;x
+SLS_colonial_company;Silesia;;;;;;;;;;;;;x
+SLS_dominion;Silesia;;;;;;;;;;;;;x
 SLW_absolute_monarchy;Bone;;;;;;;;;;;;;x
 SLW_hms_government;Bone;;;;;;;;;;;;;x
 SLW_prussian_constitutionalism;Bone;;;;;;;;;;;;;x
@@ -1272,7 +1271,7 @@ SOK_absolute_monarchy;Califfato del Sokoto;;;;;;;;;;;;;x
 SOK_hms_government;Califfato del Sokoto;;;;;;;;;;;;;x
 SOK_prussian_constitutionalism;Califfato del Sokoto;;;;;;;;;;;;;x
 SOM_proletarian_dictatorship;Repubblica Democratica Somala;;;;;;;;;;;;;x
-SON_spa_colonial_company;Regno di Nuova Biscaglia;;;;;;;;;;;;;x
+SON_colonial_company;Regno di Nuova Biscaglia;;;;;;;;;;;;;x
 SON_democracy;Repubblica di Sonora;;;;;;;;;;;;;x
 SON_federal_democracy;Repubblica di Sonora;;;;;;;;;;;;;x
 SPA_absolute_monarchy;Impero Spagnolo;;;;;;;;;;;;;x
@@ -1288,27 +1287,27 @@ SPA_prussian_constitutionalism2;Regno di Spagna;;;;;;;;;;;;;x
 SPU_colonial_company;Repubblica Sudperuviana;;;;;;;;;;;;;x
 SPU_dominion;Repubblica Sudperuviana;;;;;;;;;;;;;x
 SRI_absolute_monarchy;Ceylon;;;;;;;;;;;;;x
-SRI_eng_colonial_company;Ceylon;;;;;;;;;;;;;x
-SRI_eng_dominion;Ceylon;;;;;;;;;;;;;x
+SRI_colonial_company;Ceylon;;;;;;;;;;;;;x
+SRI_dominion;Ceylon;;;;;;;;;;;;;x
 SRI_hms_government;Ceylon;;;;;;;;;;;;;x
 SRI_prussian_constitutionalism;Ceylon;;;;;;;;;;;;;x
 SRS_absolute_monarchy;Principato di Schwarzburg-Rudolstadt;;;;;;;;;;;;;x
-SRS_ger_colonial_company;Circondario di Rudolstadt;;;;;;;;;;;;;x
+SRS_colonial_company;Circondario di Rudolstadt;;;;;;;;;;;;;x
 SRS_democracy;Stato Libero di Schwarzburg-Rudolstadt;;;;;;;;;;;;;x
-SRS_ger_dominion;Circondario di Rudolstadt;;;;;;;;;;;;;x
+SRS_dominion;Circondario di Rudolstadt;;;;;;;;;;;;;x
 SRS_fascist_dictatorship;Reich Rudolstadtese;;;;;;;;;;;;;x
 SRS_federal_democracy;Stato Libero di Schwarzburg-Rudolstadt;;;;;;;;;;;;;x
 SRS_hms_government;Principato di Schwarzburg-Rudolstadt;;;;;;;;;;;;;x
 SRS_parliamentary_republic;Stato Libero di Schwarzburg-Rudolstadt;;;;;;;;;;;;;x
 SRS_proletarian_dictatorship;Repubblica Democratica di Rudolstadt;;;;;;;;;;;;;x
 SRS_prussian_constitutionalism;Principato di Schwarzburg-Rudolstadt;;;;;;;;;;;;;x
-STK_eng_colonial_company;Distretto di Nuova Caledonia;;;;;;;;;;;;;x
+STK_colonial_company;Distretto di Nuova Caledonia;;;;;;;;;;;;;x
 STK_democracy;Repubblica di Stikine;;;;;;;;;;;;;x
-STK_eng_dominion;Territorio di Stikine;;;;;;;;;;;;;x
+STK_dominion;Territorio di Stikine;;;;;;;;;;;;;x
 STK_hms_government;Stikine;;;;;;;;;;;;;x
 STK_parliamentary_republic;Stikine;;;;;;;;;;;;;x
-STH_rus_colonial_company;Governatorato di Estland;;;;;;;;;;;;;x
-STH_rus_dominion;Governatorato di Estland;;;;;;;;;;;;;x
+STH_colonial_company;Governatorato di Estland;;;;;;;;;;;;;x
+STH_dominion;Governatorato di Estland;;;;;;;;;;;;;x
 STH_hms_government;Granducato di Estland;;;;;;;;;;;;;x
 STH_prussian_constitutionalism;Granducato di Estland;;;;;;;;;;;;;x
 STH_absolute_monarchy;Granducato di Estland;;;;;;;;;;;;;x
@@ -1319,9 +1318,9 @@ SUA_presidential_dictatorship;Suaziland;;;;;;;;;;;;;x
 SUA_proletarian_dictatorship;Suaziland;;;;;;;;;;;;;x
 SUD_theocracy;Sudan Madhista;;;;;;;;;;;;;x
 SWG_absolute_monarchy;Principato di Schwarzburg-Sondershausen;;;;;;;;;;;;;x
-SWG_ger_colonial_company;Circondario di Sondershausen;;;;;;;;;;;;;x
+SWG_colonial_company;Circondario di Sondershausen;;;;;;;;;;;;;x
 SWG_democracy;Stato Libero di Schwarzburg-Sondershausen;;;;;;;;;;;;;x
-SWG_ger_dominion;Circondario di Sondershausen;;;;;;;;;;;;;x
+SWG_dominion;Circondario di Sondershausen;;;;;;;;;;;;;x
 SWG_fascist_dictatorship;Reich Sondershauseno;;;;;;;;;;;;;x
 SWG_federal_democracy;Stato Libero di Schwarzburg-Sondershausen;;;;;;;;;;;;;x
 SWG_hms_government;Principato di Schwarzburg-Sondershausen;;;;;;;;;;;;;x
@@ -1341,7 +1340,7 @@ SWH_prussian_constitutionalism;Ducato di Schleswig-Holstein;;;;;;;;;;;;;x
 SWI_democracy2;Confederazione Svizzera;;;;;;;;;;;;;x
 SWK_fascist_dictatorship;Repubblica del Borneo;;;;;;;;;;;;;x
 SXI_presidential_dictatorship;Cricca dello Shanxi;Clique de Shanxi;Shanxi-Clique;;;;;;;;;;;x
-SYR_fra_dominion;Siria;;;;;;;;;;;;;x
+SYR_dominion;Siria;;;;;;;;;;;;;x
 SZC_presidential_dictatorship;Cricca del Sichuan;;;;;;;;;;;;;x
 TAI_colonial_company;Takasago;;;;;;;;;;;;;x
 TAI_dominion;Takasago;;;;;;;;;;;;;x
@@ -1356,8 +1355,8 @@ TBS_hms_government;Tabasco;;;;;;;;;;;;;x
 TBS_presidential_dictatorship;Tabasco;;;;;;;;;;;;;x
 TBS_proletarian_dictatorship;Repubblica Popolare di Tabasco;;;;;;;;;;;;;x
 TBS_prussian_constitutionalism;Tabasco;;;;;;;;;;;;;x
-TCA_rus_colonial_company;Vicereame del Caucaso;;;;;;;;;;;;;x
-TEX_spa_colonial_company;Comando Generale delle Nuove Filippine;;;;;;;;;;;;;x
+TCA_colonial_company;Vicereame del Caucaso;;;;;;;;;;;;;x
+TEX_colonial_company;Comando Generale delle Nuove Filippine;;;;;;;;;;;;;x
 TEX_democracy;Repubblica di Texas;;;;;;;;;;;;;x
 TEX_federal_democracy;Repubblica di Texas;;;;;;;;;;;;;x
 TEX_presidential_dictatorship;Repubblica di Texas;;;;;;;;;;;;;x
@@ -1368,8 +1367,8 @@ TMR_absolute_monarchy;Wehali;;;;;;;;;;;;;x
 TNT_absolute_monarchy;Tannu Uriankhai;;;;;;;;;;;;;x
 TNT_hms_government;Tannu Uriankhai;;;;;;;;;;;;;x
 TNT_prussian_constitutionalism;Tannu Uriankhai;;;;;;;;;;;;;x
-TNZ_ger_colonial_company;Africa Orientale;;;;;;;;;;;;;x
-TNZ_ger_dominion;Africa Orientale;;;;;;;;;;;;;x
+TNZ_colonial_company;Africa Orientale;;;;;;;;;;;;;x
+TNZ_dominion;Africa Orientale;;;;;;;;;;;;;x
 TOS_absolute_monarchy;Tosa;;;;;;;;;;;;;x
 TOS_hms_government;Tosa;;;;;;;;;;;;;x
 TOS_prussian_constitutionalism;Tosa;;;;;;;;;;;;;x
@@ -1383,17 +1382,17 @@ TPG_democracy;Repubblica Celestiale;;;;;;;;;;;;;x
 TPG_fascist_dictatorship;Regno Celestiale;;;;;;;;;;;;;x
 TPG_presidential_dictatorship;Repubblica Celestiale;;;;;;;;;;;;;x
 TPG_proletarian_dictatorship;Repubblica Popolare Cinese;;;;;;;;;;;;;x
-TRE_ger_colonial_company;Città Libera di Trieste;;;;;;;;;;;;;x
-TRE_ger_dominion;Città Libera di Trieste;;;;;;;;;;;;;x
+TRE_colonial_company;Città Libera di Trieste;;;;;;;;;;;;;x
+TRE_dominion;Città Libera di Trieste;;;;;;;;;;;;;x
 TRZ_absolute_monarchy;Trarza;;;;;;;;;;;;;x
 TRZ_bourgeois_dictatorship;Mauritania;Mauritanie;Mauretanien;;;;;;;;;;;x
 TRZ_democracy;Mauritania;Mauritanie;Mauretanien;;;;;;;;;;;x
 TRZ_fascist_dictatorship;Mauritania;Mauritanie;Mauretanien;;;;;;;;;;;x
 TRZ_presidential_dictatorship;Mauritania;Mauritanie;Mauretanien;;;;;;;;;;;x
 TRZ_proletarian_dictatorship;Mauritania;Mauritanie;Mauretanien;;;;;;;;;;;x
-TST_ger_colonial_company;Sudtirolo;;;;;;;;;;;;;x
-TTB_eng_colonial_company;Colonia del Trinidad;;;;;;;;;;;;;x
-TTB_eng_dominion;Trinidad e Tobago;;;;;;;;;;;;;x
+TST_colonial_company;Sudtirolo;;;;;;;;;;;;;x
+TTB_colonial_company;Colonia del Trinidad;;;;;;;;;;;;;x
+TTB_dominion;Trinidad e Tobago;;;;;;;;;;;;;x
 TTB_hms_government;Trinidad e Tobago;;;;;;;;;;;;;x
 TTB_parliamentary_republic;Repubblica di Trinidad e Tobago;;;;;;;;;;;;;x
 TUN_absolute_monarchy;Tunisi;;;;;;;;;;;;;x
@@ -1407,7 +1406,7 @@ TUR_presidential_dictatorship;Turchia;;;;;;;;;;;;;x
 TUR_proletarian_dictatorship;Repubblica Socialista Turca;;;;;;;;;;;;;x
 TUR_prussian_constitutionalism;Impero Ottomano;;;;;;;;;;;;;x
 UBD_absolute_monarchy;Ducato Baltico Unito;;;;;;;;;;;;;x
-UBD_rus_colonial_company;Governatorato del Baltico;;;;;;;;;;;;;x
+UBD_colonial_company;Governatorato del Baltico;;;;;;;;;;;;;x
 UBD_democracy;Unione Baltica;;;;;;;;;;;;;x
 UBD_dominon;Governatorato del Baltico;;;;;;;;;;;;;x
 UBD_fascist_dictatorship;Stato Baltico;;;;;;;;;;;;;x
@@ -1416,7 +1415,7 @@ UBD_presidential_dictatorship;Livonia;;;;;;;;;;;;;x
 UBD_proletarian_dictatorship;Unione Baltica dei Lavoratori;;;;;;;;;;;;;x
 UBD_prussian_constitutionalism;Ducato Baltico Unito;;;;;;;;;;;;;x
 UCA_absolute_monarchy;Impero dell'America Centrale;Central American Empire;Central American Empire;;;;;;;;;;;x
-UCA_spa_colonial_company;Vicereame della Nuova Spagna;;;;;;;;;;;;;x
+UCA_colonial_company;Vicereame della Nuova Spagna;;;;;;;;;;;;;x
 UCA_hms_government;America Centrale;Central America;Central America;;;;;;;;;;;x
 UCA_proletarian_dictatorship;Centroamerica;;;;;;;;;;;;;x
 UCA_prussian_constitutionalism;Impero dell'America Centrale;Central American Empire;Central American Empire;;;;;;;;;;;x
@@ -1429,7 +1428,7 @@ UKY_democracy;Confederazione del Kentucky;;;;;;;;;;;;;x
 UKY_dominion;Neutral Confederazione del Kentucky;;;;;;;;;;;;;x
 ULA_absolute_monarchy;Dominio della Louisiana;;;;;;;;;;;;;x
 ULA_bourgeois_dictatorship;Repubblica della Louisiana;;;;;;;;;;;;;x
-ULA_fra_colonial_company;Louisiana;;;;;;;;;;;;;x
+ULA_colonial_company;Louisiana;;;;;;;;;;;;;x
 ULA_democracy;Louisiana;;;;;;;;;;;;;x
 ULA_dominion;Territorio della Louisiana;;;;;;;;;;;;;x
 ULA_fascist_dictatorship;Repubblica della Louisiana;;;;;;;;;;;;;x
@@ -1442,7 +1441,7 @@ UNB_dominion;Territorio di Jefferson;;;;;;;;;;;;;x
 UNB_hms_government;Confederazione del Colorado;;;;;;;;;;;;;x
 UNB_prussian_constitutionalism;Regno di Colorado;;;;;;;;;;;;;x
 UNM_absolute_monarchy;Nuovo Messico;;;;;;;;;;;;;x
-UNM_spa_colonial_company;Florida Occidentale;;;;;;;;;;;;;x
+UNM_colonial_company;Florida Occidentale;;;;;;;;;;;;;x
 UNM_democracy;Nazione Apache;;;;;;;;;;;;;x
 UNM_dominion;Provincia della Florida Occidentale;;;;;;;;;;;;;x
 UNM_federal_democracy;Apacheria;;;;;;;;;;;;;x
@@ -1475,7 +1474,7 @@ URU_prussian_constitutionalism;Cisplatina;;;;;;;;;;;;;x
 USA_absolute_monarchy;Impero Americano;;;;;;;;;;;;;x
 USA_bourgeois_dictatorship;Stati Uniti d'America;États-Unis;;;;;;;;;;;;x
 USA_democracy;Stati Uniti d'America;États-Unis;;;;;;;;;;;;x
-USA_eng_dominion;Tredici Colonie;;;;;;;;;;;;;x
+USA_dominion;Tredici Colonie;;;;;;;;;;;;;x
 USA_fascist_dictatorship;Stati Uniti d'America;États-Unis;;;;;;;;;;;;x
 USA_hms_government;Regno d'America;;;;;;;;;;;;;x
 USA_presidential_dictatorship;Stati Uniti d'America;États-Unis;;;;;;;;;;;;x
@@ -1487,15 +1486,15 @@ USS_fascist_dictatorship;Grande Unione del Sudamerica;;;;;;;;;;;;;x
 USS_hms_government;Impero Sudamericano;;;;;;;;;;;;;x
 USS_proletarian_dictatorship;Unione Sudamericana del Popolo;;;;;;;;;;;;;x
 USS_prussian_constitutionalism;Impero Sudamericano;;;;;;;;;;;;;x
-UVT_eng_colonial_company;Nuovo Connecticut;;;;;;;;;;;;;x
+UVT_colonial_company;Nuovo Connecticut;;;;;;;;;;;;;x
 UVT_democracy;Repubblica del Vermont;;;;;;;;;;;;;x
-UVT_eng_dominion;Domino delle Green Mountains;;;;;;;;;;;;;x
+UVT_dominion;Domino delle Green Mountains;;;;;;;;;;;;;x
 UVT_federal_democracy;Repubblica del Vermont;;;;;;;;;;;;;x
 UYG_absolute_monarchy;Kashgaria;;;;;;;;;;;;;x
 UYG_hms_government;Kashgaria;;;;;;;;;;;;;x
 UYG_prussian_constitutionalism;Kashgaria;;;;;;;;;;;;;x
-VAN_eng_colonial_company;Isola di Vancouver e le sue Dipendenze;;;;;;;;;;;;;x
-VAN_eng_dominion;Dominio dell'Isola di Vancouver;;;;;;;;;;;;;x
+VAN_colonial_company;Isola di Vancouver e le sue Dipendenze;;;;;;;;;;;;;x
+VAN_dominion;Dominio dell'Isola di Vancouver;;;;;;;;;;;;;x
 VAN_hms_governmenr;Isola di Vancouver;;;;;;;;;;;;;x
 VAN_parliamentary_republic;Isola di Vancouver;;;;;;;;;;;;;x
 VEN_democracy;Repubblica di San Marco;;;;;;;;;;;;;x
@@ -1515,37 +1514,37 @@ VLG_hms_government;Cosacchia;;;;;;;;;;;;;x
 VLG_proletarian_dictatorship;RSS Volga Tedesco;;;;;;;;;;;;;x
 VLG_prussian_constitutionalism;Cosacchia;;;;;;;;;;;;;x
 VLK_absolute_monarchy;Regno Afrikaner;;;;;;;;;;;;;x
-VLK_net_colonial_company;Sudafrica;;;;;;;;;;;;;x
-VLK_net_dominion;Sudafrica;;;;;;;;;;;;;x
+VLK_colonial_company;Sudafrica;;;;;;;;;;;;;x
+VLK_dominion;Sudafrica;;;;;;;;;;;;;x
 VLK_hms_government;Regno Afrikaner;;;;;;;;;;;;;x
 VLK_proletarian_dictatorship;Repubblica Socialista di Sudafrica;;;;;;;;;;;;;x
 VLK_prussian_constitutionalism;Regno Afrikaner;;;;;;;;;;;;;x
-VOC_net_colonial_company;Indie Orientali Olandesi;;;;;;;;;;;;;x
+VOC_colonial_company;Indie Orientali Olandesi;;;;;;;;;;;;;x
 VOJ_colonial_company;Frontiera Militare Serba;;;;;;;;;;;;;x
-VTU_eng_colonial_company;Nuove Ebridi;;;;;;;;;;;;;x
-VTU_eng_dominion;Nuove Ebridi;;;;;;;;;;;;;x
+VTU_colonial_company;Nuove Ebridi;;;;;;;;;;;;;x
+VTU_dominion;Nuove Ebridi;;;;;;;;;;;;;x
 WAD_absolute_monarchy;Sultanto Ouaddai;;;;;;;;;;;;;x
 WAD_hms_government;Sultanato Ouaddai;;;;;;;;;;;;;x
 WAD_prussian_constitutionalism;Sultanato Ouaddai;;;;;;;;;;;;;x
 WAS_fascist_dictatorship;Westralia;Westralia;Westralia;;;;;;;;;;;x
 WEI_absolute_monarchy;Granducato di Sassonia-Weimar-Eisenach;;;;;;;;;;;;;x
-WEI_ger_colonial_company;Gau di Weimar;;;;;;;;;;;;;x
+WEI_colonial_company;Gau di Weimar;;;;;;;;;;;;;x
 WEI_democracy;Stato Libero di Sassonia-Weimar-Eisenach;;;;;;;;;;;;;x
-WEI_ger_dominion;Gau di Weimar;;;;;;;;;;;;;x
+WEI_dominion;Gau di Weimar;;;;;;;;;;;;;x
 WEI_fascist_dictatorship;Reich Weimarese;;;;;;;;;;;;;x
 WEI_federal_democracy;Stato Libero di Sassonia-Weimar-Eisenach;;;;;;;;;;;;;x
 WEI_hms_government;Granducato di Sassonia-Weimar-Eisenach;;;;;;;;;;;;;x
 WEI_parliamentary_republic;Stato Libero di Sassonia-Weimar-Eisenach;;;;;;;;;;;;;x
 WEI_proletarian_dictatorship;Repubblica Democratica Weimarese;;;;;;;;;;;;;x
 WEI_prussian_constitutionalism;Granducato di Sassonia-Weimar-Eisenach;;;;;;;;;;;;;x
-WIN_eng_colonial_company;Colonia delle Isole Sopravento Meridionali;;;;;;;;;;;;;x
-WIN_eng_dominion;Colonia Federale delle Isole Sopravento Meridionali;;;;;;;;;;;;;x
+WIN_colonial_company;Colonia delle Isole Sopravento Meridionali;;;;;;;;;;;;;x
+WIN_dominion;Colonia Federale delle Isole Sopravento Meridionali;;;;;;;;;;;;;x
 WIN_hms_government;Federazione delle Indie Occidentali;;;;;;;;;;;;;x
 WIN_parliamentary_republic;Federazione delle Indie Occidentali;;;;;;;;;;;;;x
 WLD_absolute_monarchy;Principato di Waldeck;;;;;;;;;;;;;x
-WLD_ger_colonial_company;Circondario di Arolsen;;;;;;;;;;;;;x
+WLD_colonial_company;Circondario di Arolsen;;;;;;;;;;;;;x
 WLD_democracy;Stato Libero di Waldeck-Pyrmont;;;;;;;;;;;;;x
-WLD_ger_dominion;Circondario di Arolsen;;;;;;;;;;;;;x
+WLD_dominion;Circondario di Arolsen;;;;;;;;;;;;;x
 WLD_fascist_dictatorship;Reich Waldeckese;;;;;;;;;;;;;x
 WLD_federal_democracy;Stato Libero di Waldeck-Pyrmont;;;;;;;;;;;;;x
 WLD_hms_government;Principato di Waldeck e Pyrmont;;;;;;;;;;;;;x
@@ -1557,9 +1556,9 @@ WOL_hms_government;Wolof;;;;;;;;;;;;;x
 WOL_prussian_constitutionalism;Wolof;;;;;;;;;;;;;x
 WOL_theocracy;Wolof;;;;;;;;;;;;;x
 WUR_absolute_monarchy;Regno di Württemberg;;;;;;;;;;;;;x
-WUR_ger_colonial_company;Land di Württemberg;;;;;;;;;;;;;x
+WUR_colonial_company;Land di Württemberg;;;;;;;;;;;;;x
 WUR_democracy;Stato Libero Popolare di Württemberg;;;;;;;;;;;;;x
-WUR_ger_dominion;Land di Württemberg;;;;;;;;;;;;;x
+WUR_dominion;Land di Württemberg;;;;;;;;;;;;;x
 WUR_fascist_dictatorship;Reich Württemberghese;;;;;;;;;;;;;x
 WUR_federal_democracy;Stato Libero Popolare di Württemberg;;;;;;;;;;;;;x
 WUR_hms_government;Regno di Württemberg;;;;;;;;;;;;;x
@@ -1569,15 +1568,15 @@ WUR_prussian_constitutionalism;Regno di Württemberg;;;;;;;;;;;;;x
 XBI_presidential_dictatorship;Cricca Ma;;;;;;;;;;;;;x
 XHO_democracy;Xhosaland;;;;;;;;;;;;;x
 XIN_presidential_dictatorship;Cricca dello Xinjiang;Clique de Xinjiang;Xinjiang-Clique;;;;;;;;;;;x
-YEM_eng_colonial_company;Protettorato di Aden;;;;;;;;;;;;;x
-YEM_eng_dominion;Protettorato di Aden;;;;;;;;;;;;;x
+YEM_colonial_company;Protettorato di Aden;;;;;;;;;;;;;x
+YEM_dominion;Protettorato di Aden;;;;;;;;;;;;;x
 YEM_proletarian_dictatorship;Repubblica Popolare di Yemen;;;;;;;;;;;;;x
 YNN_presidential_dictatorship;Cricca dello Yunnan;Clique de Yunnan;Yunnan-Clique;;;;;;;;;;;x
-YUC_spa_colonial_company;Capitanato Generale di Merida di Yucatan;;;;;;;;;;;;;x
+YUC_colonial_company;Capitanato Generale di Merida di Yucatan;;;;;;;;;;;;;x
 YUC_democracy;Repubblica di Yucatan;;;;;;;;;;;;;x
 YUC_federal_democracy;Repubblia Federale di Yucatan;;;;;;;;;;;;;x
-ZAC_spa_colonial_company;Regno di Nuova Galizia;;;;;;;;;;;;;x
+ZAC_colonial_company;Regno di Nuova Galizia;;;;;;;;;;;;;x
 ZAC_democracy;Repubblica di Zacatecas;;;;;;;;;;;;;x
 ZAC_federal_democracy;Repubblica di Zacatecas;;;;;;;;;;;;;x
-ZAM_eng_colonial_company;Rodesia Settentrionale;;;;;;;;;;;;;x
-ZAM_eng_dominion;Rodesia Settentrionale;;;;;;;;;;;;;x
+ZAM_colonial_company;Rodesia Settentrionale;;;;;;;;;;;;;x
+ZAM_dominion;Rodesia Settentrionale;;;;;;;;;;;;;x

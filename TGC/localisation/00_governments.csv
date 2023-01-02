@@ -7,44 +7,12 @@ bourgeois_dictatorship;Dittatura Borghese;Dictature bourgeoise;Bürgerliche Dikta
 bourgeois_dictatorship_ruler;Sig. Segretario;;;;;;;;;;;;;x
 colonial_company;Dipendenza Autonoma;;;;;;;;;;;;;x
 colonial_company_ruler;Goveratore;;;;;;;;;;;;;x
-eng_colonial_company;Autonomous Dependancy;;;;;;;;;;;;;x
-eng_colonial_company_ruler;Governor;;;;;;;;;;;;;x
-fra_colonial_company;Région Autonome;;;;;;;;;;;;;x
-fra_colonial_company_ruler;Gouverneur;;;;;;;;;;;;;x
-rus_colonial_company;Avtonomnyy Okrug;;;;;;;;;;;;;x
-rus_colonial_company_ruler;Gubernator;;;;;;;;;;;;;x
-net_colonial_company;Autonome Regio;;;;;;;;;;;;;x
-net_colonial_company_ruler;Gouverneur;;;;;;;;;;;;;x
-spa_colonial_company;Región Autónoma;;;;;;;;;;;;;x
-spa_colonial_company_ruler;Gobernador;;;;;;;;;;;;;x
-ger_colonial_company;Autonome Region;;;;;;;;;;;;;x
-ger_colonial_company_ruler;Gouverneur;;;;;;;;;;;;;x
-por_colonial_company;Região Autónoma;;;;;;;;;;;;;x
-por_colonial_company_ruler;Governador;;;;;;;;;;;;;x
-tur_colonial_company;Özerk Vilayet;;;;;;;;;;;;;x
-tur_colonial_company_ruler;Vali;;;;;;;;;;;;;x
-qng_colonial_company;Zìzhìqu;;;;;;;;;;;;;x
-qng_colonial_company_ruler;Zhouzhang;;;;;;;;;;;;;x
 democracy;Repubblica;;;;;;;;;;;;;x
 democracy_ruler;Sig. Presidente;;;;;;;;;;;;;x
 democracy2;Repubblica;;;;;;;;;;;;;x
 democracy2_ruler;Sig. Presidente;;;;;;;;;;;;;x
 dominion;Dominio;;;;;;;;;;;;;x
 dominion_ruler;Primo Ministro;;;;;;;;;;;;;x
-eng_dominion;Dominion;;;;;;;;;;;;;x
-eng_dominion_ruler;Prime Minister;;;;;;;;;;;;;x
-fra_dominion;Territoire;;;;;;;;;;;;;x
-fra_dominion_ruler;Premier Ministre;;;;;;;;;;;;;x
-rus_dominion;Territorija;;;;;;;;;;;;;x
-rus_dominion_ruler;Premer-Ministr;;;;;;;;;;;;;x
-net_dominion;Heerschapsgebied;;;;;;;;;;;;;x
-net_dominion_ruler;Minister-President;;;;;;;;;;;;;x
-spa_dominion;Territorio;;;;;;;;;;;;;x
-spa_dominion_ruler;Primer Ministro;;;;;;;;;;;;;x
-ger_dominion;Herrschaftsgebiet;;;;;;;;;;;;;x
-ger_dominion_ruler;Ministerpräsident;;;;;;;;;;;;;x
-por_dominion;Território;;;;;;;;;;;;;x
-por_dominion_ruler;Primeiro Ministro;;;;;;;;;;;;;x
 fascist_dictatorship;Dittatura Fascista;;;;;;;;;;;;;x
 fascist_dictatorship_ruler;Leader Supremo;;;;;;;;;;;;;x
 federal_democracy;Repubblica Federale;;;;;;;;;;;;;x
