@@ -100,6 +100,7 @@ cut_down_to_size_boxer
 cut_down_to_size_taiping
 cb_sykes_picot
 cut_down_to_size_ottoman
+cut_down_to_size_rus
 humiliate
 place_in_the_sun
 dismantle_forts
@@ -416,7 +417,7 @@ acquire_core_state = {
 		THIS = {
 			NOT = { has_country_modifier = no_more_war }
 		}
-		NOT = { has_country_modifier = neutrality }
+		NOT = { has_country_modifier = neutrality has_country_modifier = mediating_political_solution }
 		THIS = { NOT = { has_country_modifier = neutrality } }
 	}
 
@@ -508,7 +509,7 @@ acquire_all_cores = {
 			THIS = { NOT = { has_country_flag = in_great_war } }
 			THIS = { ai = no }
 		}
-		NOT = { has_country_modifier = neutrality }
+		NOT = { has_country_modifier = neutrality has_country_modifier = mediating_political_solution }
 		THIS = {
 			NOT = {
 				has_country_modifier = neutrality
@@ -611,7 +612,7 @@ restore_austrian_empire = {
 			war_with = THIS
 			THIS = { NOT = { has_country_modifier = punitive_effects } }
 		}
-		NOT = { has_country_modifier = neutrality }
+		NOT = { has_country_modifier = neutrality has_country_modifier = mediating_political_solution }
 		THIS = { NOT = { has_country_modifier = neutrality } }
 	}
 
@@ -3439,7 +3440,7 @@ humiliate = {
 		}
 		OR = {
 			AND = {
-				prestige = 10
+				prestige = 20
 				has_recently_lost_war = no
 			}
 			THIS = { ai = no }
@@ -3512,6 +3513,7 @@ place_in_the_sun = {
 		THIS = {
 			OR = {
 				any_owned_province = { port = yes }
+				total_amount_of_ships = 10
 				any_owned_province = { any_neighbor_province = { NOT = { owned_by = THIS } is_colonial = yes } }
 			}
 		}
@@ -4061,7 +4063,7 @@ demand_concession_casus_belli = {
 		}
 		OR = {
 			has_global_flag = berlin_conference
-			has_global_flag = colonial_railroading_disabled
+			has_global_flag = colonial_cassus_belli_africa_enabled
 		 	NOT = {
 				capital_scope = { continent = africa }
 				capital_scope = { continent = central_africa }
@@ -4494,6 +4496,7 @@ annex_africa = {
 		}
 		number_of_states = 2
 		THIS = {
+		    total_amount_of_ships = 10
 			nationalism_n_imperialism = 1
 			capital_scope = { continent = europe }
 			NOT = { tag = RUS }
@@ -4502,10 +4505,10 @@ annex_africa = {
 			rank = 16
 		  	NOT = { has_country_modifier = neutrality }
 			NOT = { has_country_flag = zaire_master }
-			OR = {
+			#OR = {
 				has_global_flag = berlin_conference
-				has_global_flag = colonial_railroading_disabled
-			}
+				#has_global_flag = colonial_railroading_disabled
+			#}
 		}
 		NOT = {
 			primary_culture = maghrebi
@@ -4595,6 +4598,7 @@ annex_africa_full = {
 			capital_scope = { continent = europe }
 			NOT = { tag = RUS }
 			NOT = { tag = TUR }
+			total_amount_of_ships = 10
 			slavery = no_slavery
 			OR = {
 				is_greater_power = yes
@@ -4602,10 +4606,10 @@ annex_africa_full = {
 			}
 		  	NOT = { has_country_modifier = neutrality }
 			NOT = { has_country_flag = zaire_master }
-			OR = {
+			#OR = {
 				has_global_flag = berlin_conference
-				has_global_flag = colonial_railroading_disabled
-			}
+				#has_global_flag = colonial_railroading_disabled
+			#}
 		}
 		OR = {
 			NOT = { number_of_states = 2 }
@@ -4676,6 +4680,7 @@ establish_protectorate_casus_belli = {
 				THIS = { any_owned_province = { port = yes } }
 			}
 		}
+		THIS = { total_amount_of_ships = 10 }
 		OR = {
 			AND = {
 				THIS = { nationalism_n_imperialism = 1 }
@@ -4687,23 +4692,23 @@ establish_protectorate_casus_belli = {
 					civilization_progress = 0.7
 					has_country_flag = post_colonial_country
 				}
-				OR = {
-					NOT = {
-						has_global_flag = berlin_conference
-						NOT = {
-							has_global_flag = colonial_railroading_disabled
-						}
-						number_of_states = 7
-						capital_scope = { continent = africa }
-						capital_scope = { continent = central_africa }
-						capital_scope = { continent = west_africa }
-						capital_scope = { continent = east_africa }
-						capital_scope = { continent = south_west_africa }
-					}
+				#OR = {
+					#NOT = {
+					#	has_global_flag = berlin_conference
+					#	NOT = {
+					#		has_global_flag = colonial_railroading_disabled
+					#	}
+					#	number_of_states = 7
+					#	capital_scope = { continent = africa }
+					#	capital_scope = { continent = central_africa }
+					#	capital_scope = { continent = west_africa }
+					#	capital_scope = { continent = east_africa }
+					#	capital_scope = { continent = south_west_africa }
+					#}
 					AND = {
 						OR = {
 							has_global_flag = berlin_conference
-							has_global_flag = colonial_railroading_disabled
+							has_global_flag = colonial_cassus_belli_africa_enabled
 						}
 						OR = {
 							NOT = { number_of_states = 12 }
@@ -4716,7 +4721,7 @@ establish_protectorate_casus_belli = {
 							}
 						}
 					}
-				}
+				#}
 			}
 			NOT = { number_of_states = 2 }
 		}
@@ -5012,6 +5017,47 @@ cut_down_to_size_ottoman = {
 
 	on_po_accepted = {
 		set_country_flag = lost_russo_turkish_war
+	}
+}
+
+cut_down_to_size_rus = {
+	sprite_index = 8
+	is_triggered_only = yes
+	months = 12
+
+	badboy_factor = 0
+	prestige_factor = 1
+	peace_cost_factor = 35
+	penalty_factor = 0
+	constructing_cb = no
+	crisis = no
+
+	break_truce_prestige_factor = 0
+	break_truce_infamy_factor = 0
+	break_truce_militancy_factor = 0
+	truce_months = 48
+
+	good_relation_prestige_factor = 1
+	good_relation_infamy_factor = 1
+	good_relation_militancy_factor = 1
+
+	po_reparations = yes
+
+	war_name = CUT_DOWN_TO_SIZE_OTTOMAN_WAR_NAME
+
+	can_use = {
+	}
+
+	on_add = {
+		move_issue_percentage = {
+			from = jingoism
+			to = pro_military
+			value = 0.25
+		}
+	}
+
+	on_po_accepted = {
+		set_country_flag = lost_crimean_war
 	}
 }
 
@@ -6096,6 +6142,8 @@ treaty_port_casus_belli = {
 		THIS = {
 			any_owned_province = { port = yes }
 			civilized = yes
+			total_amount_of_ships = 15
+			rank = 20
 			NOT = { has_country_modifier = neutrality }
 		}
 		NOT = { has_country_modifier = neutrality }
@@ -7715,7 +7763,7 @@ rhine_crisis_french = {
 
 		RHI = {
 			set_country_flag = rhine_vassal
-			prestige = -50
+			prestige = -100
 			primary_culture = rhinelander
 			add_accepted_culture = french
 			add_accepted_culture = north_german
